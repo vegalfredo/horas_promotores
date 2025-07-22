@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Informes por Promotor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Contenedor del Login -->
+    <div id="login-container">
+        <div class="login-box">
+            <h1>Informes por Promotor</h1>
+            <p>Acceso para Ejecutivos</p>
+            <form id="login-form">
+                <input type="email" id="email" placeholder="Correo electrónico" required>
+                <input type="password" id="password" placeholder="Contraseña (iniciales)" required>
+                <button type="submit">Ingresar</button>
+            </form>
+            <p id="error-message" class="error-text"></p>
+        </div>
+    </div>
+
+    <!-- Contenedor Principal (oculto al inicio) -->
+    <main id="main-container" class="hidden">
+        <header>
+            <h1 id="welcome-message">Bienvenido</h1>
+            <button id="logout-button">Cerrar Sesión</button>
+        </header>
+        
+        <div class="controls">
+            <div class="select-wrapper">
+                <label for="supervisor-select">Selecciona un Supervisor:</label>
+                <select id="supervisor-select" disabled>
+                    <option value="">-- Elige un supervisor --</option>
+                </select>
+            </div>
+            <div class="select-wrapper">
+                <label for="promotor-select">Selecciona un Promotor:</label>
+                <select id="promotor-select" disabled>
+                    <option value="">-- Elige un promotor --</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="image-container" class="hidden">
+            <p id="loading-text">Cargando gráfico...</p>
+            <img id="report-image" src="" alt="Reporte de Actividad del Promotor">
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

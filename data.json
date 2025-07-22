@@ -1,0 +1,2932 @@
+{
+    "usuarios": {
+        "clarisa.ochoa@effem.com": {
+            "password": "CO",
+            "nombre": "CLARISA OCHOA",
+            "lookup_key": "CLARISA OCHOA"
+        },
+        "francisco.galicia@effem.com": {
+            "password": "FG",
+            "nombre": "FRANCISCO GALICIA",
+            "lookup_key": "FRANCISCO GALICIA"
+        },
+        "sin correo": {
+            "password": "VEMA",
+            "nombre": "VACANTE EJECUTIVO MARS A2",
+            "lookup_key": "VACANTE EJECUTIVO MARS A2"
+        },
+        "yaneth.muniz@effem.com": {
+            "password": "YM",
+            "nombre": "YANETH MUÑIZ",
+            "lookup_key": "YANETH MUÑIZ"
+        },
+        "jose.alberto.hernandez@effem.com": {
+            "password": "AH",
+            "nombre": "ALBERTO HERNANDEZ",
+            "lookup_key": "ALBERTO HERNANDEZ"
+        },
+        "cyntia.leticia.castillon@effem.com": {
+            "password": "CC",
+            "nombre": "CYNTIA CASTILLON",
+            "lookup_key": "CYNTIA CASTILLON"
+        },
+        "juan.luis.garduno@effem.com": {
+            "password": "JLG",
+            "nombre": "JUAN LUIS GARDUÑO",
+            "lookup_key": "JUAN LUIS GARDUÑO"
+        },
+        "natalia.karina.vazquez@effem.com": {
+            "password": "NV",
+            "nombre": "NATALIA VAZQUEZ",
+            "lookup_key": "NATALIA VAZQUEZ"
+        },
+        "david.velazquez1@effem.com": {
+            "password": "DV",
+            "nombre": "DAVID VELAZQUEZ",
+            "lookup_key": "DAVID VELAZQUEZ"
+        },
+        "hugoelias.mendez@effem.com": {
+            "password": "HM",
+            "nombre": "HUGO MENDEZ",
+            "lookup_key": "HUGO MENDEZ"
+        },
+        "lizbeth.cetina@effem.com": {
+            "password": "LC",
+            "nombre": "LIZBETH CETINA",
+            "lookup_key": "LIZBETH CETINA"
+        },
+        "erendira.mora@effem.com": {
+            "password": "EM",
+            "nombre": "ERENDIRA MORA",
+            "lookup_key": "ERENDIRA MORA"
+        },
+        "sofia.achah@effem.com": {
+            "password": "SA",
+            "nombre": "SOFIA ACHACH",
+            "lookup_key": "SOFIA ACHACH"
+        }
+    },
+    "reporteData": {
+        "ALBERTO HERNANDEZ": {
+            "LANDEROS JIMENEZ VIRIDIANA": [
+                {
+                    "login": "AUT-GDL-22",
+                    "nombre": "ARELLANO RAMIREZ ERIKA CECILIA",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/LANDEROS JIMENEZ VIRIDIANA/AUT-GDL-22.png"
+                },
+                {
+                    "login": "MAY-GDL-02",
+                    "nombre": "CARDENAS DE LOS SANTOS DANIEL EDUARDO",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/LANDEROS JIMENEZ VIRIDIANA/MAY-GDL-02.png"
+                },
+                {
+                    "login": "AUT-GDL-12",
+                    "nombre": "CERVANTES PADILLA GLORIA ESTHER",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/LANDEROS JIMENEZ VIRIDIANA/AUT-GDL-12.png"
+                },
+                {
+                    "login": "AUT-GDL-07",
+                    "nombre": "CORONEL DURAN CLAUDIA ELOISA",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/LANDEROS JIMENEZ VIRIDIANA/AUT-GDL-07.png"
+                },
+                {
+                    "login": "MAY-GDL-05",
+                    "nombre": "DE LOS SANTOS FIERROS MARIA DE JESUS",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/LANDEROS JIMENEZ VIRIDIANA/MAY-GDL-05.png"
+                },
+                {
+                    "login": "AUT-GDL-05",
+                    "nombre": "GOMEZ LLAMAS IVONNE LIZETTE",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/LANDEROS JIMENEZ VIRIDIANA/AUT-GDL-05.png"
+                },
+                {
+                    "login": "AUT-GDL-14",
+                    "nombre": "GUTIERREZ MARTINEZ RODOLFO ALEJANDRO",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/LANDEROS JIMENEZ VIRIDIANA/AUT-GDL-14.png"
+                },
+                {
+                    "login": "AUT-GDL-21",
+                    "nombre": "IBARRA RODRIGUEZ JESUS ISRAEL",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/LANDEROS JIMENEZ VIRIDIANA/AUT-GDL-21.png"
+                },
+                {
+                    "login": "AUT-GDL-15",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/LANDEROS JIMENEZ VIRIDIANA/AUT-GDL-15.png"
+                },
+                {
+                    "login": "AUT-GDL-23",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/LANDEROS JIMENEZ VIRIDIANA/AUT-GDL-23.png"
+                },
+                {
+                    "login": "AUT-GDL-02",
+                    "nombre": "VENEGAS BECERRA VAHANIA",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/LANDEROS JIMENEZ VIRIDIANA/AUT-GDL-02.png"
+                }
+            ],
+            "NAVEJAS DELGADILLO LUCIA ESMERALDA": [
+                {
+                    "login": "MAY-GDL-06",
+                    "nombre": "CASTILLO LEON DONOVAN",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/NAVEJAS DELGADILLO LUCIA ESMERALDA/MAY-GDL-06.png"
+                },
+                {
+                    "login": "MAY-GDL-03",
+                    "nombre": "CERVANTES VERDIN JAVIER ALEJANDRO",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/NAVEJAS DELGADILLO LUCIA ESMERALDA/MAY-GDL-03.png"
+                },
+                {
+                    "login": "AUT-COL-03",
+                    "nombre": "CHAVEZ PAZ MA GUADALUPE",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/NAVEJAS DELGADILLO LUCIA ESMERALDA/AUT-COL-03.png"
+                },
+                {
+                    "login": "AUT-COL-02",
+                    "nombre": "HERNANDEZ RADILLO ANA CECILIA",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/NAVEJAS DELGADILLO LUCIA ESMERALDA/AUT-COL-02.png"
+                },
+                {
+                    "login": "AUT-GDL-18",
+                    "nombre": "NIEVES CRESPO PERLA GABRIELA",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/NAVEJAS DELGADILLO LUCIA ESMERALDA/AUT-GDL-18.png"
+                },
+                {
+                    "login": "AUT-GDL-03",
+                    "nombre": "ORTEGA ROBLES XIMENA LIZETH",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/NAVEJAS DELGADILLO LUCIA ESMERALDA/AUT-GDL-03.png"
+                },
+                {
+                    "login": "AUT-GDL-20",
+                    "nombre": "RODRIGUEZ ROMERO LUCERO",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/NAVEJAS DELGADILLO LUCIA ESMERALDA/AUT-GDL-20.png"
+                },
+                {
+                    "login": "AUT-GDL-10",
+                    "nombre": "SARMIENTO GALLARDO EDUARDO JAVIER",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/NAVEJAS DELGADILLO LUCIA ESMERALDA/AUT-GDL-10.png"
+                },
+                {
+                    "login": "AUT-GDL-19",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/NAVEJAS DELGADILLO LUCIA ESMERALDA/AUT-GDL-19.png"
+                },
+                {
+                    "login": "AUT-SOR-03",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/NAVEJAS DELGADILLO LUCIA ESMERALDA/AUT-SOR-03.png"
+                },
+                {
+                    "login": "AUT-COL-01",
+                    "nombre": "VALENCIA CHAVEZ NOEMI",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/NAVEJAS DELGADILLO LUCIA ESMERALDA/AUT-COL-01.png"
+                },
+                {
+                    "login": "AUT-GDL-17",
+                    "nombre": "ZAMBRANO RAMOS ROSA ESTELA",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/NAVEJAS DELGADILLO LUCIA ESMERALDA/AUT-GDL-17.png"
+                }
+            ],
+            "NO APLICA SUPERVISOR": [
+                {
+                    "login": "SUP-PTO-01",
+                    "nombre": "ANGEL SANCHEZ DULCE DINARY",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/NO APLICA SUPERVISOR/SUP-PTO-01.png"
+                },
+                {
+                    "login": "SUP-GDL-02",
+                    "nombre": "LANDEROS JIMENEZ VIRIDIANA",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/NO APLICA SUPERVISOR/SUP-GDL-02.png"
+                },
+                {
+                    "login": "SUP-GDL-01",
+                    "nombre": "NAVEJAS DELGADILLO LUCIA ESMERALDA",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/NO APLICA SUPERVISOR/SUP-GDL-01.png"
+                }
+            ],
+            "VACANTE": [
+                {
+                    "login": "AUT-PTO-04",
+                    "nombre": "AVILA TOVAR BERENICE",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/VACANTE/AUT-PTO-04.png"
+                },
+                {
+                    "login": "AUT-PTO-02",
+                    "nombre": "GATICA GUERRERO GRACIELA",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/VACANTE/AUT-PTO-02.png"
+                },
+                {
+                    "login": "AUT-NAY-01",
+                    "nombre": "HERNANDEZ GARCIA JUANA GRACIELA",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/VACANTE/AUT-NAY-01.png"
+                },
+                {
+                    "login": "AUT-PTO-03",
+                    "nombre": "ORDOÑEZ MICHEL MARIA VERONICA",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/VACANTE/AUT-PTO-03.png"
+                },
+                {
+                    "login": "AUT-NAY-02",
+                    "nombre": "PINTO SERRANO ARACELI",
+                    "ruta_grafico": "Resumenes_ALL/A3/ALBERTO HERNANDEZ/VACANTE/AUT-NAY-02.png"
+                }
+            ]
+        },
+        "CLARISA OCHOA": {
+            "AGUIRRE CASTILLO LAURA RAMONA": [
+                {
+                    "login": "MAY-TIJ-02",
+                    "nombre": "AQUINO ESTRADA MAYRA YESENIA",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/AGUIRRE CASTILLO LAURA RAMONA/MAY-TIJ-02.png"
+                },
+                {
+                    "login": "AUT-BCN-18",
+                    "nombre": "ESCOBEDO MARTINEZ ANAHI",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/AGUIRRE CASTILLO LAURA RAMONA/AUT-BCN-18.png"
+                },
+                {
+                    "login": "AUT-BCN-01",
+                    "nombre": "MOLINA QUINTERO MONICA ANAHI",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/AGUIRRE CASTILLO LAURA RAMONA/AUT-BCN-01.png"
+                },
+                {
+                    "login": "AUT-BCN-17",
+                    "nombre": "MORA LORENA",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/AGUIRRE CASTILLO LAURA RAMONA/AUT-BCN-17.png"
+                },
+                {
+                    "login": "AUT-BCN-10",
+                    "nombre": "REYES ORTIZ ISMAEL",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/AGUIRRE CASTILLO LAURA RAMONA/AUT-BCN-10.png"
+                },
+                {
+                    "login": "MAY-TIJ-03",
+                    "nombre": "SALAZAR ESPINOSA LUIS DAVID",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/AGUIRRE CASTILLO LAURA RAMONA/MAY-TIJ-03.png"
+                },
+                {
+                    "login": "AUT-BCN-20",
+                    "nombre": "SUAREZ HERNANDEZ SANDRA ISABEL",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/AGUIRRE CASTILLO LAURA RAMONA/AUT-BCN-20.png"
+                },
+                {
+                    "login": "AUT-BCN-13",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/AGUIRRE CASTILLO LAURA RAMONA/AUT-BCN-13.png"
+                }
+            ],
+            "CABRAL SIMENTAL DANIEL": [
+                {
+                    "login": "AUT-BCN-03",
+                    "nombre": "COVARRUBIAS LEYVA NOEL ALEJANDRO",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/CABRAL SIMENTAL DANIEL/AUT-BCN-03.png"
+                },
+                {
+                    "login": "AUT-BCN-05",
+                    "nombre": "FISCAL ENRIQUEZ ANAYANCI",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/CABRAL SIMENTAL DANIEL/AUT-BCN-05.png"
+                },
+                {
+                    "login": "AUT-BCN-06",
+                    "nombre": "MERCADO ZAVALA GABRIELA MANUELA",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/CABRAL SIMENTAL DANIEL/AUT-BCN-06.png"
+                },
+                {
+                    "login": "AUT-SON-04",
+                    "nombre": "PALOMARES AYALA JESUS ALEJANDRO",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/CABRAL SIMENTAL DANIEL/AUT-SON-04.png"
+                },
+                {
+                    "login": "AUT-BCN-04",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/CABRAL SIMENTAL DANIEL/AUT-BCN-04.png"
+                },
+                {
+                    "login": "AUT-BCN-07",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/CABRAL SIMENTAL DANIEL/AUT-BCN-07.png"
+                },
+                {
+                    "login": "MAY-BCN-08",
+                    "nombre": "VEGA ARREOLA RAUL",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/CABRAL SIMENTAL DANIEL/MAY-BCN-08.png"
+                }
+            ],
+            "JUAREZ ORTIZ YANETH MARGARITA": [
+                {
+                    "login": "AUT-BCS-08",
+                    "nombre": "AHUMADA SOTO BRENDA KARELY",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/JUAREZ ORTIZ YANETH MARGARITA/AUT-BCS-08.png"
+                },
+                {
+                    "login": "AUT-BCS-01",
+                    "nombre": "ESCARREGA ARMENTA HEIDI ARELI",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/JUAREZ ORTIZ YANETH MARGARITA/AUT-BCS-01.png"
+                },
+                {
+                    "login": "AUT-BCS-02",
+                    "nombre": "MARTINEZ LOPEZ CARMEN ARACELY",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/JUAREZ ORTIZ YANETH MARGARITA/AUT-BCS-02.png"
+                },
+                {
+                    "login": "AUT-BCS-06",
+                    "nombre": "NOH GOROCICA IVETTE VIANELLE",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/JUAREZ ORTIZ YANETH MARGARITA/AUT-BCS-06.png"
+                },
+                {
+                    "login": "AUT-BCS-03",
+                    "nombre": "SANCHEZ CAMARGO BRANDON TOMAS",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/JUAREZ ORTIZ YANETH MARGARITA/AUT-BCS-03.png"
+                },
+                {
+                    "login": "AUT-BCS-05",
+                    "nombre": "TAMAYO CARRILLO BENITO DE JESUS",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/JUAREZ ORTIZ YANETH MARGARITA/AUT-BCS-05.png"
+                },
+                {
+                    "login": "AUT-BCS-04",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/JUAREZ ORTIZ YANETH MARGARITA/AUT-BCS-04.png"
+                },
+                {
+                    "login": "AUT-BCS-07",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/JUAREZ ORTIZ YANETH MARGARITA/AUT-BCS-07.png"
+                }
+            ],
+            "NO APLICA SUPERVISOR": [
+                {
+                    "login": "SUP-TIJ-01",
+                    "nombre": "AGUIRRE CASTILLO LAURA RAMONA",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/NO APLICA SUPERVISOR/SUP-TIJ-01.png"
+                },
+                {
+                    "login": "SUP-TIJ-02",
+                    "nombre": "CABRAL SIMENTAL DANIEL",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/NO APLICA SUPERVISOR/SUP-TIJ-02.png"
+                },
+                {
+                    "login": "SUP-PAZ-01",
+                    "nombre": "JUAREZ ORTIZ YANETH MARGARITA",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/NO APLICA SUPERVISOR/SUP-PAZ-01.png"
+                },
+                {
+                    "login": "SUP-TIJ-03",
+                    "nombre": "TORRES SANTIAGO ALFREDO",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/NO APLICA SUPERVISOR/SUP-TIJ-03.png"
+                }
+            ],
+            "TORRES SANTIAGO ALFREDO": [
+                {
+                    "login": "AUT-BCN-23",
+                    "nombre": "AVENDAÑO SANTIBAÑEZ JEMIMA",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/TORRES SANTIAGO ALFREDO/AUT-BCN-23.png"
+                },
+                {
+                    "login": "AUT-BCN-02",
+                    "nombre": "ESPINOZA FELIX FRANCISCO JAVIER",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/TORRES SANTIAGO ALFREDO/AUT-BCN-02.png"
+                },
+                {
+                    "login": "AUT-BCN-22",
+                    "nombre": "GONZALEZ RAMIREZ GERARDO",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/TORRES SANTIAGO ALFREDO/AUT-BCN-22.png"
+                },
+                {
+                    "login": "MAY-BCN-09",
+                    "nombre": "GUZMAN SOTO VICTOR MANUEL",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/TORRES SANTIAGO ALFREDO/MAY-BCN-09.png"
+                },
+                {
+                    "login": "AUT-BCN-08",
+                    "nombre": "LANDEROS RENDON MELBA JESSICA",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/TORRES SANTIAGO ALFREDO/AUT-BCN-08.png"
+                },
+                {
+                    "login": "AUT-BCN-09",
+                    "nombre": "LUNA NORIEGA EDGAR",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/TORRES SANTIAGO ALFREDO/AUT-BCN-09.png"
+                },
+                {
+                    "login": "MAY-TIJ-04",
+                    "nombre": "RAMIREZ QUINTANAR ALBERTO YOSUA",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/TORRES SANTIAGO ALFREDO/MAY-TIJ-04.png"
+                },
+                {
+                    "login": "AUT-BCN-11",
+                    "nombre": "SARIÑANA DIAZ BRYAN YAZZEL",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/TORRES SANTIAGO ALFREDO/AUT-BCN-11.png"
+                },
+                {
+                    "login": "MAY-TIJ-01",
+                    "nombre": "SOTO DUARTE KARINA",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/TORRES SANTIAGO ALFREDO/MAY-TIJ-01.png"
+                },
+                {
+                    "login": "AUT-BCN-14",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A1/CLARISA OCHOA/TORRES SANTIAGO ALFREDO/AUT-BCN-14.png"
+                }
+            ]
+        },
+        "CYNTIA CASTILLON": {
+            "ESTRADA HERNANDEZ MIRNA": [
+                {
+                    "login": "AUT-GTO-01",
+                    "nombre": "AGUILERA LOPEZ JAIME IGNACIO",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/ESTRADA HERNANDEZ MIRNA/AUT-GTO-01.png"
+                },
+                {
+                    "login": "AUT-SLP-06",
+                    "nombre": "CANDIA RODRIGUEZ ALMA VERONICA",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/ESTRADA HERNANDEZ MIRNA/AUT-SLP-06.png"
+                },
+                {
+                    "login": "AUT-SLP-02",
+                    "nombre": "CASTILLO MENDOZA JOHANA SUZZET",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/ESTRADA HERNANDEZ MIRNA/AUT-SLP-02.png"
+                },
+                {
+                    "login": "AUT-GTO-03",
+                    "nombre": "GARCIA RICO ADELA",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/ESTRADA HERNANDEZ MIRNA/AUT-GTO-03.png"
+                },
+                {
+                    "login": "AUT-GTO-15",
+                    "nombre": "GRIMALDI ZAVALA ALONDRA ITZEL",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/ESTRADA HERNANDEZ MIRNA/AUT-GTO-15.png"
+                },
+                {
+                    "login": "AUT-MUL-32",
+                    "nombre": "INFANTE GONZALEZ LETICIA",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/ESTRADA HERNANDEZ MIRNA/AUT-MUL-32.png"
+                },
+                {
+                    "login": "AUT-GTO-07",
+                    "nombre": "LICEAGA GUZMAN ELVIA ANTONIA",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/ESTRADA HERNANDEZ MIRNA/AUT-GTO-07.png"
+                },
+                {
+                    "login": "AUT-SLP-07",
+                    "nombre": "PADRON RODRIGUEZ OMAR",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/ESTRADA HERNANDEZ MIRNA/AUT-SLP-07.png"
+                },
+                {
+                    "login": "MAY-GTO-02",
+                    "nombre": "RICO NUÑEZ JESUS",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/ESTRADA HERNANDEZ MIRNA/MAY-GTO-02.png"
+                },
+                {
+                    "login": "AUT-SLP-01",
+                    "nombre": "SALAS LARREA MARIA DE LOURDES",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/ESTRADA HERNANDEZ MIRNA/AUT-SLP-01.png"
+                },
+                {
+                    "login": "AUT-GTO-09",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/ESTRADA HERNANDEZ MIRNA/AUT-GTO-09.png"
+                }
+            ],
+            "GUERRERO RICO JOSE ANTONIO": [
+                {
+                    "login": "AUT-MIC-05",
+                    "nombre": "CAMPOS AGUILAR HECTOR MIGUEL",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/GUERRERO RICO JOSE ANTONIO/AUT-MIC-05.png"
+                },
+                {
+                    "login": "MAY-ZIH-01",
+                    "nombre": "CHAVEZ GARCIA JOSE",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/GUERRERO RICO JOSE ANTONIO/MAY-ZIH-01.png"
+                },
+                {
+                    "login": "AUT-MUL-10",
+                    "nombre": "CORTES CALDERON ARTURO",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/GUERRERO RICO JOSE ANTONIO/AUT-MUL-10.png"
+                },
+                {
+                    "login": "AUT-MIC-01",
+                    "nombre": "DUEÑAS ASCENCIO FRANCISCO JESUS",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/GUERRERO RICO JOSE ANTONIO/AUT-MIC-01.png"
+                },
+                {
+                    "login": "AUT-GTO-08",
+                    "nombre": "GARCIA CHAVEZ RAYMUNDO DAVID",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/GUERRERO RICO JOSE ANTONIO/AUT-GTO-08.png"
+                },
+                {
+                    "login": "MAY-MIC-09",
+                    "nombre": "GUZMAN NAVA VANESSA ELIZABETH",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/GUERRERO RICO JOSE ANTONIO/MAY-MIC-09.png"
+                },
+                {
+                    "login": "AUT-MIC-02",
+                    "nombre": "JIMENEZ MEZA MIRIAM RUBY",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/GUERRERO RICO JOSE ANTONIO/AUT-MIC-02.png"
+                },
+                {
+                    "login": "AUT-MIC-08",
+                    "nombre": "MAXIMIANO AMBROCIO EVA",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/GUERRERO RICO JOSE ANTONIO/AUT-MIC-08.png"
+                },
+                {
+                    "login": "AUT-MUL-37",
+                    "nombre": "SOTO REYES MARISELA",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/GUERRERO RICO JOSE ANTONIO/AUT-MUL-37.png"
+                },
+                {
+                    "login": "AUT-MIC-03",
+                    "nombre": "VAZQUEZ LUNA BRANDON REY",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/GUERRERO RICO JOSE ANTONIO/AUT-MIC-03.png"
+                }
+            ],
+            "NO APLICA SUPERVISOR": [
+                {
+                    "login": "SUP-GTO-01",
+                    "nombre": "ESTRADA HERNANDEZ MIRNA",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/NO APLICA SUPERVISOR/SUP-GTO-01.png"
+                },
+                {
+                    "login": "SUP-MIC-01",
+                    "nombre": "GUERRERO RICO JOSE ANTONIO",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/NO APLICA SUPERVISOR/SUP-MIC-01.png"
+                },
+                {
+                    "login": "SUP-LEO-01",
+                    "nombre": "RIVERA VALLEJO LEONARDO",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/NO APLICA SUPERVISOR/SUP-LEO-01.png"
+                }
+            ],
+            "RIVERA VALLEJO LEONARDO": [
+                {
+                    "login": "AUT-AGS-02",
+                    "nombre": "ALVAREZ SALAZAR JAIME EDUARDO",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/RIVERA VALLEJO LEONARDO/AUT-AGS-02.png"
+                },
+                {
+                    "login": "AUT-AGS-03",
+                    "nombre": "ARIAS HERNANDEZ DAVID",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/RIVERA VALLEJO LEONARDO/AUT-AGS-03.png"
+                },
+                {
+                    "login": "AUT-GTO-11",
+                    "nombre": "CRUZ RENTERIA MARIA DE LOS ANGELES",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/RIVERA VALLEJO LEONARDO/AUT-GTO-11.png"
+                },
+                {
+                    "login": "AUT-GTO-12",
+                    "nombre": "GALVAN ROMERO ROGELIO",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/RIVERA VALLEJO LEONARDO/AUT-GTO-12.png"
+                },
+                {
+                    "login": "AUT-GTO-04",
+                    "nombre": "JARAMILLO FLORES GABRIELA",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/RIVERA VALLEJO LEONARDO/AUT-GTO-04.png"
+                },
+                {
+                    "login": "AUT-AGS-01",
+                    "nombre": "MALACARA PEREZ PAULA CARINA",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/RIVERA VALLEJO LEONARDO/AUT-AGS-01.png"
+                },
+                {
+                    "login": "AUT-GTO-06",
+                    "nombre": "NAVARRO PEREZ ROSA MA",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/RIVERA VALLEJO LEONARDO/AUT-GTO-06.png"
+                },
+                {
+                    "login": "AUT-AGS-04",
+                    "nombre": "RAMIREZ CARRILLO ROBERTO CARLOS",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/RIVERA VALLEJO LEONARDO/AUT-AGS-04.png"
+                },
+                {
+                    "login": "AUT-SOR-02",
+                    "nombre": "RAMOS MENDOZA XOCHITL",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/RIVERA VALLEJO LEONARDO/AUT-SOR-02.png"
+                },
+                {
+                    "login": "AUT-GTO-05",
+                    "nombre": "SALAZAR JOSE",
+                    "ruta_grafico": "Resumenes_ALL/A3/CYNTIA CASTILLON/RIVERA VALLEJO LEONARDO/AUT-GTO-05.png"
+                }
+            ]
+        },
+        "DAVID VELAZQUEZ": {
+            "ARRIAGA MUÑOZ ELMER ANTONIO": [
+                {
+                    "login": "AUT-DF-104",
+                    "nombre": "ARENAS PEREZ VERONICA",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/ARRIAGA MUÑOZ ELMER ANTONIO/AUT-DF-104.png"
+                },
+                {
+                    "login": "AUT-DF-106",
+                    "nombre": "ARZATE RUIZ SAID JOHATH",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/ARRIAGA MUÑOZ ELMER ANTONIO/AUT-DF-106.png"
+                },
+                {
+                    "login": "AUT-DF-58",
+                    "nombre": "CANSINO DOLORES ABEL",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/ARRIAGA MUÑOZ ELMER ANTONIO/AUT-DF-58.png"
+                },
+                {
+                    "login": "AUT-DF-44",
+                    "nombre": "CORIA ANGELES ALEJANDRO",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/ARRIAGA MUÑOZ ELMER ANTONIO/AUT-DF-44.png"
+                },
+                {
+                    "login": "AUT-DF-62",
+                    "nombre": "DIEGO GARCIA ESTEVAN",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/ARRIAGA MUÑOZ ELMER ANTONIO/AUT-DF-62.png"
+                },
+                {
+                    "login": "AUT-DF-143",
+                    "nombre": "ESTRADA SANTANA YADIRA",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/ARRIAGA MUÑOZ ELMER ANTONIO/AUT-DF-143.png"
+                },
+                {
+                    "login": "AUT-DF-116",
+                    "nombre": "GALLEGOS TORRES M. ROSARIO",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/ARRIAGA MUÑOZ ELMER ANTONIO/AUT-DF-116.png"
+                },
+                {
+                    "login": "ABA-MEX-01",
+                    "nombre": "MENDEZ TREJO JAIR EDER",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/ARRIAGA MUÑOZ ELMER ANTONIO/ABA-MEX-01.png"
+                },
+                {
+                    "login": "AUT-DF-80",
+                    "nombre": "SANDOVAL OLVERA EVELYN",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/ARRIAGA MUÑOZ ELMER ANTONIO/AUT-DF-80.png"
+                },
+                {
+                    "login": "AUT-DF-112",
+                    "nombre": "TORRES MERELES DANIEL",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/ARRIAGA MUÑOZ ELMER ANTONIO/AUT-DF-112.png"
+                },
+                {
+                    "login": "AUT-DF-113",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/ARRIAGA MUÑOZ ELMER ANTONIO/AUT-DF-113.png"
+                },
+                {
+                    "login": "AUT-DF-97",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/ARRIAGA MUÑOZ ELMER ANTONIO/AUT-DF-97.png"
+                }
+            ],
+            "MUÑOZ AMBROSIO ALAN": [
+                {
+                    "login": "AUT-DF-138",
+                    "nombre": "ABUNDEZ CASTAÑEDA JOSE ALFREDO",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/MUÑOZ AMBROSIO ALAN/AUT-DF-138.png"
+                },
+                {
+                    "login": "AUT-DF-22",
+                    "nombre": "ARIAS ESQUIVEL SUSANA LIZBETH",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/MUÑOZ AMBROSIO ALAN/AUT-DF-22.png"
+                },
+                {
+                    "login": "AUT-DF-127",
+                    "nombre": "BARRERA BARRERA ISMAEL",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/MUÑOZ AMBROSIO ALAN/AUT-DF-127.png"
+                },
+                {
+                    "login": "AUT-DF-110",
+                    "nombre": "DIAZ MOYADO OSVALDO",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/MUÑOZ AMBROSIO ALAN/AUT-DF-110.png"
+                },
+                {
+                    "login": "AUT-DF-06",
+                    "nombre": "GONZALEZ MEJIA NORBERTO",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/MUÑOZ AMBROSIO ALAN/AUT-DF-06.png"
+                },
+                {
+                    "login": "AUT-DF-101",
+                    "nombre": "HERNANDEZ FLORES CANDELARIA",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/MUÑOZ AMBROSIO ALAN/AUT-DF-101.png"
+                },
+                {
+                    "login": "AUT-DF-68",
+                    "nombre": "HUERTA NAVA LAURA",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/MUÑOZ AMBROSIO ALAN/AUT-DF-68.png"
+                },
+                {
+                    "login": "AUT-DF-70",
+                    "nombre": "LUNA TOBON LUIS ALFREDO",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/MUÑOZ AMBROSIO ALAN/AUT-DF-70.png"
+                },
+                {
+                    "login": "AUT-DF-72",
+                    "nombre": "MEJIA LEDESMA GUSTAVO ADOLFO",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/MUÑOZ AMBROSIO ALAN/AUT-DF-72.png"
+                },
+                {
+                    "login": "AUT-DF-64",
+                    "nombre": "SOLIS MATIAS CARLOS ENRIQUE",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/MUÑOZ AMBROSIO ALAN/AUT-DF-64.png"
+                },
+                {
+                    "login": "AUT-DF-86",
+                    "nombre": "SUASTE ALVAREZ IRVIN JESUS",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/MUÑOZ AMBROSIO ALAN/AUT-DF-86.png"
+                },
+                {
+                    "login": "AUT-DF-18",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/MUÑOZ AMBROSIO ALAN/AUT-DF-18.png"
+                }
+            ],
+            "RANGEL GARCIA HUGO ENRIQUE": [
+                {
+                    "login": "AUT-DF-19",
+                    "nombre": "CASTAÑON CACERES FERNANDA VANESSA",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/RANGEL GARCIA HUGO ENRIQUE/AUT-DF-19.png"
+                },
+                {
+                    "login": "AUT-DF-43",
+                    "nombre": "DOPORTO PEREZ CARLOS",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/RANGEL GARCIA HUGO ENRIQUE/AUT-DF-43.png"
+                },
+                {
+                    "login": "AUT-DF-01",
+                    "nombre": "GARCIA GOMEZ GREGORIO",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/RANGEL GARCIA HUGO ENRIQUE/AUT-DF-01.png"
+                },
+                {
+                    "login": "AUT-DF-120",
+                    "nombre": "HERNANDEZ GARCIA ARMANDO",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/RANGEL GARCIA HUGO ENRIQUE/AUT-DF-120.png"
+                },
+                {
+                    "login": "AUT-DF-40",
+                    "nombre": "HERNANDEZ GONZALEZ CARLOS",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/RANGEL GARCIA HUGO ENRIQUE/AUT-DF-40.png"
+                },
+                {
+                    "login": "AUT-DF-95",
+                    "nombre": "JIMENEZ GARCIA LUIS ANGEL",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/RANGEL GARCIA HUGO ENRIQUE/AUT-DF-95.png"
+                },
+                {
+                    "login": "AUT-DF-61",
+                    "nombre": "MARTINEZ DE LA CRUZ OSCAR",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/RANGEL GARCIA HUGO ENRIQUE/AUT-DF-61.png"
+                },
+                {
+                    "login": "AUT-TAR-01",
+                    "nombre": "MARTINEZ SANCHEZ LADAIR DAVID",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/RANGEL GARCIA HUGO ENRIQUE/AUT-TAR-01.png"
+                },
+                {
+                    "login": "AUT-DF-142",
+                    "nombre": "ORTIZ CONTRERAS EDER DANIEL",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/RANGEL GARCIA HUGO ENRIQUE/AUT-DF-142.png"
+                },
+                {
+                    "login": "AUT-DF-115",
+                    "nombre": "RIVERA GUZMAN JAVIER",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/RANGEL GARCIA HUGO ENRIQUE/AUT-DF-115.png"
+                },
+                {
+                    "login": "AUT-DF-99",
+                    "nombre": "RODRIGUEZ ANGUIANO TERESITA DE JESUS",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/RANGEL GARCIA HUGO ENRIQUE/AUT-DF-99.png"
+                },
+                {
+                    "login": "AUT-DF-93",
+                    "nombre": "SAUCEDO ESPINOZA ROBERTO",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/RANGEL GARCIA HUGO ENRIQUE/AUT-DF-93.png"
+                },
+                {
+                    "login": "AUT-DF-122",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A5/DAVID VELAZQUEZ/RANGEL GARCIA HUGO ENRIQUE/AUT-DF-122.png"
+                }
+            ]
+        },
+        "ERENDIRA MORA": {
+            "ANDRADE PAXTIAN RUTH DEL CARMEN": [
+                {
+                    "login": "MAY-VER-02",
+                    "nombre": "BETANZOS TOLEDO LOIDA",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/ANDRADE PAXTIAN RUTH DEL CARMEN/MAY-VER-02.png"
+                },
+                {
+                    "login": "AUT-TAB-02",
+                    "nombre": "BLE ROMERO JORGE LUIS",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/ANDRADE PAXTIAN RUTH DEL CARMEN/AUT-TAB-02.png"
+                },
+                {
+                    "login": "AUT-SOR-10",
+                    "nombre": "CANDELARIO CAMPECHANO NAYELI",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/ANDRADE PAXTIAN RUTH DEL CARMEN/AUT-SOR-10.png"
+                },
+                {
+                    "login": "AUT-SOR-09",
+                    "nombre": "GIL JUAREZ ISIDRA",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/ANDRADE PAXTIAN RUTH DEL CARMEN/AUT-SOR-09.png"
+                },
+                {
+                    "login": "MAY-TAB-05",
+                    "nombre": "HERNANDEZ ESTEBAN EDUARDO",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/ANDRADE PAXTIAN RUTH DEL CARMEN/MAY-TAB-05.png"
+                },
+                {
+                    "login": "AUT-TAB-01",
+                    "nombre": "HERNANDEZ GERONIMO LUZ DEYESENIA",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/ANDRADE PAXTIAN RUTH DEL CARMEN/AUT-TAB-01.png"
+                },
+                {
+                    "login": "AUT-VER-02",
+                    "nombre": "JUAREZ HERNANDEZ LUIS ANTONIO",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/ANDRADE PAXTIAN RUTH DEL CARMEN/AUT-VER-02.png"
+                },
+                {
+                    "login": "AUT-MUL-45",
+                    "nombre": "LOPEZ NAVARRO JORGE",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/ANDRADE PAXTIAN RUTH DEL CARMEN/AUT-MUL-45.png"
+                },
+                {
+                    "login": "AUT-VER-22",
+                    "nombre": "MARRERO ROBLES OCTAVIO",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/ANDRADE PAXTIAN RUTH DEL CARMEN/AUT-VER-22.png"
+                },
+                {
+                    "login": "AUT-VER-04",
+                    "nombre": "OCHOA PEREZ ROMEO",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/ANDRADE PAXTIAN RUTH DEL CARMEN/AUT-VER-04.png"
+                },
+                {
+                    "login": "MAY-TAB-08",
+                    "nombre": "RAMOS JIMENEZ LUIS ENRIQUE",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/ANDRADE PAXTIAN RUTH DEL CARMEN/MAY-TAB-08.png"
+                },
+                {
+                    "login": "MAY-VER-04",
+                    "nombre": "RIQUER RODRIGUEZ DAISY",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/ANDRADE PAXTIAN RUTH DEL CARMEN/MAY-VER-04.png"
+                }
+            ],
+            "CONTRERAS GALAN ALMA GUADALUPE": [
+                {
+                    "login": "AUT-VER-25",
+                    "nombre": "ALMANZA HERNANDEZ MARIA DE LOS ANGELES",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/CONTRERAS GALAN ALMA GUADALUPE/AUT-VER-25.png"
+                },
+                {
+                    "login": "AUT-VER-08",
+                    "nombre": "DURAN HERRERA HERMINIO",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/CONTRERAS GALAN ALMA GUADALUPE/AUT-VER-08.png"
+                },
+                {
+                    "login": "MAY-VER-01",
+                    "nombre": "HERNANDEZ MOLINA ANGEL",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/CONTRERAS GALAN ALMA GUADALUPE/MAY-VER-01.png"
+                },
+                {
+                    "login": "AUT-VER-14",
+                    "nombre": "JIMENEZ ESPINOSA ELIZABETH",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/CONTRERAS GALAN ALMA GUADALUPE/AUT-VER-14.png"
+                },
+                {
+                    "login": "AUT-VER-15",
+                    "nombre": "ORONZORO BORROME KARINA FERNANDA",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/CONTRERAS GALAN ALMA GUADALUPE/AUT-VER-15.png"
+                },
+                {
+                    "login": "AUT-VER-11",
+                    "nombre": "RAMIREZ LOPEZ IRIS ARACELI",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/CONTRERAS GALAN ALMA GUADALUPE/AUT-VER-11.png"
+                },
+                {
+                    "login": "AUT-VER-18",
+                    "nombre": "SANCHEZ GARCIA REYNA ISABEL",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/CONTRERAS GALAN ALMA GUADALUPE/AUT-VER-18.png"
+                },
+                {
+                    "login": "AUT-VER-07",
+                    "nombre": "SANCHEZ MARQUEZ JUAN",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/CONTRERAS GALAN ALMA GUADALUPE/AUT-VER-07.png"
+                },
+                {
+                    "login": "AUT-VER-21",
+                    "nombre": "TESILLOS ALLENDE VICTOR",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/CONTRERAS GALAN ALMA GUADALUPE/AUT-VER-21.png"
+                }
+            ],
+            "MATA GEORGINA SUSI": [
+                {
+                    "login": "AUT-OAX-03",
+                    "nombre": "CISNEROS BAUTISTA JOSELITO",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/MATA GEORGINA SUSI/AUT-OAX-03.png"
+                },
+                {
+                    "login": "AUT-OAX-01",
+                    "nombre": "GARCIA MATIAS NEPHTALI ALFONSO",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/MATA GEORGINA SUSI/AUT-OAX-01.png"
+                },
+                {
+                    "login": "AUT-OAX-02",
+                    "nombre": "HERNANDEZ GONZALEZ ROSARIO",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/MATA GEORGINA SUSI/AUT-OAX-02.png"
+                },
+                {
+                    "login": "AUT-OAX-04",
+                    "nombre": "JIMENEZ PEREZ JULIANA",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/MATA GEORGINA SUSI/AUT-OAX-04.png"
+                },
+                {
+                    "login": "AUT-OAX-05",
+                    "nombre": "VAZQUEZ OROZCO JOSE ALFREDO",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/MATA GEORGINA SUSI/AUT-OAX-05.png"
+                }
+            ],
+            "NO APLICA SUPERVISOR": [
+                {
+                    "login": "SUP-VER-01",
+                    "nombre": "ANDRADE PAXTIAN RUTH DEL CARMEN",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/NO APLICA SUPERVISOR/SUP-VER-01.png"
+                },
+                {
+                    "login": "SUP-VER-02",
+                    "nombre": "CONTRERAS GALAN ALMA GUADALUPE",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/NO APLICA SUPERVISOR/SUP-VER-02.png"
+                },
+                {
+                    "login": "SUP-OAX-01",
+                    "nombre": "MATA GEORGINA SUSI",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/NO APLICA SUPERVISOR/SUP-OAX-01.png"
+                },
+                {
+                    "login": "SUP-CHI-01",
+                    "nombre": "SALINAS LOPEZ DIANA GUADALUPE",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/NO APLICA SUPERVISOR/SUP-CHI-01.png"
+                },
+                {
+                    "login": "SUP-VER-03",
+                    "nombre": "SIERRA ESPINOSA LUZ DEL CARMEN",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/NO APLICA SUPERVISOR/SUP-VER-03.png"
+                }
+            ],
+            "SALINAS LOPEZ DIANA GUADALUPE": [
+                {
+                    "login": "AUT-CHI-05",
+                    "nombre": "AGUILAR JUAREZ YURIDIANA",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SALINAS LOPEZ DIANA GUADALUPE/AUT-CHI-05.png"
+                },
+                {
+                    "login": "AUT-CHI-04",
+                    "nombre": "DIAZ DIAZ CRISTINA",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SALINAS LOPEZ DIANA GUADALUPE/AUT-CHI-04.png"
+                },
+                {
+                    "login": "AUT-CHI-03",
+                    "nombre": "GALVEZ JUARES JUAN MANUEL",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SALINAS LOPEZ DIANA GUADALUPE/AUT-CHI-03.png"
+                },
+                {
+                    "login": "AUT-CHI-06",
+                    "nombre": "LOPEZ CARPIO IVAN",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SALINAS LOPEZ DIANA GUADALUPE/AUT-CHI-06.png"
+                },
+                {
+                    "login": "AUT-CHI-01",
+                    "nombre": "LOPEZ SANTOS MAURICIO",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SALINAS LOPEZ DIANA GUADALUPE/AUT-CHI-01.png"
+                },
+                {
+                    "login": "AUT-CHI-02",
+                    "nombre": "MARTINEZ ARREGOITIA VICTOR MANUEL",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SALINAS LOPEZ DIANA GUADALUPE/AUT-CHI-02.png"
+                },
+                {
+                    "login": "MAY-CHI-01",
+                    "nombre": "OVALLE DE LA ROSA NORMA ELIZABETH",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SALINAS LOPEZ DIANA GUADALUPE/MAY-CHI-01.png"
+                },
+                {
+                    "login": "MAY-CHI-02",
+                    "nombre": "ROJAS GARCIA MARIA EUGENIA",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SALINAS LOPEZ DIANA GUADALUPE/MAY-CHI-02.png"
+                },
+                {
+                    "login": "AUT-CHI-08",
+                    "nombre": "SANCHEZ TRUJILLO WILBER ESTEBAN",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SALINAS LOPEZ DIANA GUADALUPE/AUT-CHI-08.png"
+                },
+                {
+                    "login": "AUT-CHI-07",
+                    "nombre": "SOLIS GALDAMEZ ARIOSTO",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SALINAS LOPEZ DIANA GUADALUPE/AUT-CHI-07.png"
+                }
+            ],
+            "SIERRA ESPINOSA LUZ DEL CARMEN": [
+                {
+                    "login": "AUT-VER-03",
+                    "nombre": "BALDERAS USCANGA ANGEL DE JESUS",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SIERRA ESPINOSA LUZ DEL CARMEN/AUT-VER-03.png"
+                },
+                {
+                    "login": "AUT-VER-12",
+                    "nombre": "CARMONA SUAREZ ILEANA",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SIERRA ESPINOSA LUZ DEL CARMEN/AUT-VER-12.png"
+                },
+                {
+                    "login": "AUT-VER-06",
+                    "nombre": "ESPINOSA LOPEZ ACUARIO",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SIERRA ESPINOSA LUZ DEL CARMEN/AUT-VER-06.png"
+                },
+                {
+                    "login": "AUT-VER-20",
+                    "nombre": "MAZA RODRIGUEZ MAURICIO",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SIERRA ESPINOSA LUZ DEL CARMEN/AUT-VER-20.png"
+                },
+                {
+                    "login": "AUT-MUL-26",
+                    "nombre": "OLGUIN REYES LUZ HAYDEE",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SIERRA ESPINOSA LUZ DEL CARMEN/AUT-MUL-26.png"
+                },
+                {
+                    "login": "AUT-MUL-28",
+                    "nombre": "RAMIREZ MENDOZA MARTHA PATRICIA",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SIERRA ESPINOSA LUZ DEL CARMEN/AUT-MUL-28.png"
+                },
+                {
+                    "login": "AUT-VER-23",
+                    "nombre": "RESENDIZ LARIOS ABDIEL ANTONIO",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SIERRA ESPINOSA LUZ DEL CARMEN/AUT-VER-23.png"
+                },
+                {
+                    "login": "AUT-VER-05",
+                    "nombre": "VAZQUEZ DELGADO RICARDO",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SIERRA ESPINOSA LUZ DEL CARMEN/AUT-VER-05.png"
+                },
+                {
+                    "login": "AUT-VER-17",
+                    "nombre": "VELASCO MIL JULIANA",
+                    "ruta_grafico": "Resumenes_ALL/A6/ERENDIRA MORA/SIERRA ESPINOSA LUZ DEL CARMEN/AUT-VER-17.png"
+                }
+            ]
+        },
+        "FRANCISCO GALICIA": {
+            "CAÑEDO ANGULO GUADALUPE GABRIELA": [
+                {
+                    "login": "AUT-SON-15",
+                    "nombre": "CAMOU OSUNA JESUS RAMON",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/CAÑEDO ANGULO GUADALUPE GABRIELA/AUT-SON-15.png"
+                },
+                {
+                    "login": "AUT-MUL-21",
+                    "nombre": "CRUZ SALAZAR DIANA",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/CAÑEDO ANGULO GUADALUPE GABRIELA/AUT-MUL-21.png"
+                },
+                {
+                    "login": "AUT-SON-05",
+                    "nombre": "CUMPLIDO QUIJADA ANA GRISELDA",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/CAÑEDO ANGULO GUADALUPE GABRIELA/AUT-SON-05.png"
+                },
+                {
+                    "login": "AUT-SON-01",
+                    "nombre": "GONZALEZ OROZCO PERLA YURIDIA",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/CAÑEDO ANGULO GUADALUPE GABRIELA/AUT-SON-01.png"
+                },
+                {
+                    "login": "AUT-SON-21",
+                    "nombre": "MANZO MERANCIO LIDIA GUADALUPE",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/CAÑEDO ANGULO GUADALUPE GABRIELA/AUT-SON-21.png"
+                },
+                {
+                    "login": "AUT-SON-11",
+                    "nombre": "MEDINA MUÑOZ SERGIO",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/CAÑEDO ANGULO GUADALUPE GABRIELA/AUT-SON-11.png"
+                },
+                {
+                    "login": "AUT-SON-20",
+                    "nombre": "RAMOS GARCIA SANTOS MIGUEL",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/CAÑEDO ANGULO GUADALUPE GABRIELA/AUT-SON-20.png"
+                },
+                {
+                    "login": "AUT-SON-07",
+                    "nombre": "ROMERO FUENTES JORGE ALBERTO",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/CAÑEDO ANGULO GUADALUPE GABRIELA/AUT-SON-07.png"
+                },
+                {
+                    "login": "MAY-SON-06",
+                    "nombre": "SANCHEZ VELAZCO OCTAVIO",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/CAÑEDO ANGULO GUADALUPE GABRIELA/MAY-SON-06.png"
+                },
+                {
+                    "login": "AUT-SON-08",
+                    "nombre": "VALENZUELA FERNANDEZ FLORA LIZBETH",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/CAÑEDO ANGULO GUADALUPE GABRIELA/AUT-SON-08.png"
+                }
+            ],
+            "NO APLICA SUPERVISOR": [
+                {
+                    "login": "SUP-HMO-01",
+                    "nombre": "CAÑEDO ANGULO GUADALUPE GABRIELA",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/NO APLICA SUPERVISOR/SUP-HMO-01.png"
+                },
+                {
+                    "login": "SUP-CUL-01",
+                    "nombre": "OLIVAS LOPEZ DAVID EDUARDO",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/NO APLICA SUPERVISOR/SUP-CUL-01.png"
+                },
+                {
+                    "login": "SUP-HMO-02",
+                    "nombre": "VALENZUELA DENNIS BENJAMIN",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/NO APLICA SUPERVISOR/SUP-HMO-02.png"
+                }
+            ],
+            "OLIVAS LOPEZ DAVID EDUARDO": [
+                {
+                    "login": "AUT-SIN-09",
+                    "nombre": "ARIAS RAYGOZA LEONEL",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/OLIVAS LOPEZ DAVID EDUARDO/AUT-SIN-09.png"
+                },
+                {
+                    "login": "AUT-MUL-09",
+                    "nombre": "AVENDAÑO CECEÑA MARCO ANTONIO",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/OLIVAS LOPEZ DAVID EDUARDO/AUT-MUL-09.png"
+                },
+                {
+                    "login": "AUT-SIN-05",
+                    "nombre": "CAZAREZ FLORES VIRIDIANA GUADALUPE",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/OLIVAS LOPEZ DAVID EDUARDO/AUT-SIN-05.png"
+                },
+                {
+                    "login": "AUT-SIN-15",
+                    "nombre": "CORONILLA CASTILLO ADILENE",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/OLIVAS LOPEZ DAVID EDUARDO/AUT-SIN-15.png"
+                },
+                {
+                    "login": "AUT-SIN-06",
+                    "nombre": "FLORES SAMANIEGO LEIDY MADAY",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/OLIVAS LOPEZ DAVID EDUARDO/AUT-SIN-06.png"
+                },
+                {
+                    "login": "AUT-MUL-18",
+                    "nombre": "GASPAR CARDENAS JARUME ALICIA",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/OLIVAS LOPEZ DAVID EDUARDO/AUT-MUL-18.png"
+                },
+                {
+                    "login": "AUT-SIN-01",
+                    "nombre": "HIGUERA MOROYOQUI MARIA FERNANDA",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/OLIVAS LOPEZ DAVID EDUARDO/AUT-SIN-01.png"
+                },
+                {
+                    "login": "AUT-SIN-13",
+                    "nombre": "MEDINA VELARDE KARLA SELENE",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/OLIVAS LOPEZ DAVID EDUARDO/AUT-SIN-13.png"
+                },
+                {
+                    "login": "AUT-SIN-11",
+                    "nombre": "PRADO SALAZAR EMILIANO ALBERTO",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/OLIVAS LOPEZ DAVID EDUARDO/AUT-SIN-11.png"
+                },
+                {
+                    "login": "AUT-SIN-14",
+                    "nombre": "PRADO SANCHEZ MARIA DANIELA",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/OLIVAS LOPEZ DAVID EDUARDO/AUT-SIN-14.png"
+                },
+                {
+                    "login": "AUT-SIN-08",
+                    "nombre": "RODRIGUEZ QUINTANA ANA KAREN",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/OLIVAS LOPEZ DAVID EDUARDO/AUT-SIN-08.png"
+                },
+                {
+                    "login": "AUT-MUL-19",
+                    "nombre": "SALAS GARCIA CARLOS BLADIMIR",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/OLIVAS LOPEZ DAVID EDUARDO/AUT-MUL-19.png"
+                }
+            ],
+            "VALENZUELA DENNIS BENJAMIN": [
+                {
+                    "login": "AUT-SON-03",
+                    "nombre": "COVARRUBIAS CALDERON MARITZA ABIGAIN",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/VALENZUELA DENNIS BENJAMIN/AUT-SON-03.png"
+                },
+                {
+                    "login": "AUT-SON-18",
+                    "nombre": "GARCIA RODRIGUEZ FRANCISCA ISELA",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/VALENZUELA DENNIS BENJAMIN/AUT-SON-18.png"
+                },
+                {
+                    "login": "AUT-SON-19",
+                    "nombre": "LOPEZ BRICEÑO NORBERTO",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/VALENZUELA DENNIS BENJAMIN/AUT-SON-19.png"
+                },
+                {
+                    "login": "AUT-SON-16",
+                    "nombre": "NOLAZCO SILVA JUAN ALEJANDRO",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/VALENZUELA DENNIS BENJAMIN/AUT-SON-16.png"
+                },
+                {
+                    "login": "AUT-SON-13",
+                    "nombre": "PALAFOX BURGOS LUIS ENRIQUE",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/VALENZUELA DENNIS BENJAMIN/AUT-SON-13.png"
+                },
+                {
+                    "login": "AUT-MUL-22",
+                    "nombre": "VIZCARRA MEDINA CAROLINA",
+                    "ruta_grafico": "Resumenes_ALL/A1/FRANCISCO GALICIA/VALENZUELA DENNIS BENJAMIN/AUT-MUL-22.png"
+                }
+            ]
+        },
+        "HUGO MENDEZ": {
+            "LEMUS GALVAN GLORIA": [
+                {
+                    "login": "ABA-MEX-06",
+                    "nombre": "AGUILAR RODRIGUEZ DANIEL EDUARDO",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/LEMUS GALVAN GLORIA/ABA-MEX-06.png"
+                },
+                {
+                    "login": "AUT-DF-13",
+                    "nombre": "BAUTISTA MIRANDA LEONARDO",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/LEMUS GALVAN GLORIA/AUT-DF-13.png"
+                },
+                {
+                    "login": "MAY-DF-04",
+                    "nombre": "CASTILLO VALENTINO HECTOR",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/LEMUS GALVAN GLORIA/MAY-DF-04.png"
+                },
+                {
+                    "login": "AUT-DF-08",
+                    "nombre": "DOMINGUEZ GARCIA FREDY ABRAHAM",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/LEMUS GALVAN GLORIA/AUT-DF-08.png"
+                },
+                {
+                    "login": "AUT-DF-84",
+                    "nombre": "DUQUE NUÑEZ LUZ MARIA",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/LEMUS GALVAN GLORIA/AUT-DF-84.png"
+                },
+                {
+                    "login": "AUT-DF-05",
+                    "nombre": "ESTEBAN MENDOZA GERARDO",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/LEMUS GALVAN GLORIA/AUT-DF-05.png"
+                },
+                {
+                    "login": "AUT-DF-14",
+                    "nombre": "JIMENEZ CRUZ ELIOT CRISTOFER",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/LEMUS GALVAN GLORIA/AUT-DF-14.png"
+                },
+                {
+                    "login": "ABA-MEX-05",
+                    "nombre": "MATIAS GUDIÑO JOSE ANTONIO",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/LEMUS GALVAN GLORIA/ABA-MEX-05.png"
+                },
+                {
+                    "login": "AUT-DF-15",
+                    "nombre": "MATIAS PABLO FRANCISCO JAVIER",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/LEMUS GALVAN GLORIA/AUT-DF-15.png"
+                },
+                {
+                    "login": "AUT-DF-09",
+                    "nombre": "REYES ROSAS EDWIN",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/LEMUS GALVAN GLORIA/AUT-DF-09.png"
+                },
+                {
+                    "login": "MAY-MEX-05",
+                    "nombre": "SANCHEZ MARIN ROMAN",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/LEMUS GALVAN GLORIA/MAY-MEX-05.png"
+                },
+                {
+                    "login": "AUT-DF-111",
+                    "nombre": "TERRAZAS JUAREZ JONATHAN MICHELLE",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/LEMUS GALVAN GLORIA/AUT-DF-111.png"
+                }
+            ],
+            "MARTINEZ RODRIGUEZ JOSE ALFREDO": [
+                {
+                    "login": "MAY-DF-03",
+                    "nombre": "BERNOZA VICENTE PERFECTO",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MARTINEZ RODRIGUEZ JOSE ALFREDO/MAY-DF-03.png"
+                },
+                {
+                    "login": "AUT-DF-77",
+                    "nombre": "ESPINOZA CORTEZ HECTOR ANTONIO",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MARTINEZ RODRIGUEZ JOSE ALFREDO/AUT-DF-77.png"
+                },
+                {
+                    "login": "AUT-DF-07",
+                    "nombre": "GARCIA FLORES MARCO ANTONIO",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MARTINEZ RODRIGUEZ JOSE ALFREDO/AUT-DF-07.png"
+                },
+                {
+                    "login": "AUT-DF-125",
+                    "nombre": "JACINTO PEREZ MIRIAM",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MARTINEZ RODRIGUEZ JOSE ALFREDO/AUT-DF-125.png"
+                },
+                {
+                    "login": "AUT-DF-78",
+                    "nombre": "JUAREZ PEREZ VALENTIN",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MARTINEZ RODRIGUEZ JOSE ALFREDO/AUT-DF-78.png"
+                },
+                {
+                    "login": "AUT-DF-103",
+                    "nombre": "LOPEZ GARCIA MARIA YESSICA",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MARTINEZ RODRIGUEZ JOSE ALFREDO/AUT-DF-103.png"
+                },
+                {
+                    "login": "MAY-DF-01",
+                    "nombre": "LOZANO FERRO AMELIA",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MARTINEZ RODRIGUEZ JOSE ALFREDO/MAY-DF-01.png"
+                },
+                {
+                    "login": "AUT-DF-11",
+                    "nombre": "MARTINEZ ARCHUNDIA MARCELO",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MARTINEZ RODRIGUEZ JOSE ALFREDO/AUT-DF-11.png"
+                },
+                {
+                    "login": "ABA-MEX-03",
+                    "nombre": "PALACIOS PACHECO LUIS FELIPE",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MARTINEZ RODRIGUEZ JOSE ALFREDO/ABA-MEX-03.png"
+                },
+                {
+                    "login": "MAY-DF-02",
+                    "nombre": "RUIZ SOTO LILIANA",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MARTINEZ RODRIGUEZ JOSE ALFREDO/MAY-DF-02.png"
+                },
+                {
+                    "login": "AUT-DF-85",
+                    "nombre": "SANCHEZ HERNANDEZ MARIA FERNANDA",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MARTINEZ RODRIGUEZ JOSE ALFREDO/AUT-DF-85.png"
+                },
+                {
+                    "login": "AUT-DF-04",
+                    "nombre": "TERRAZAS ROCHA GABRIEL",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MARTINEZ RODRIGUEZ JOSE ALFREDO/AUT-DF-04.png"
+                },
+                {
+                    "login": "AUT-DF-141",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MARTINEZ RODRIGUEZ JOSE ALFREDO/AUT-DF-141.png"
+                }
+            ],
+            "MONDRAGON MUÑOZ KARLA AIDE": [
+                {
+                    "login": "AUT-DF-79",
+                    "nombre": "BALDERAS REYNA MARIA DEL ROCIO",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MONDRAGON MUÑOZ KARLA AIDE/AUT-DF-79.png"
+                },
+                {
+                    "login": "AUT-SOR-08",
+                    "nombre": "CONTRERAS ROJAS EMMANUEL",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MONDRAGON MUÑOZ KARLA AIDE/AUT-SOR-08.png"
+                },
+                {
+                    "login": "AUT-DF-132",
+                    "nombre": "GONZALEZ MATA MIRIAM",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MONDRAGON MUÑOZ KARLA AIDE/AUT-DF-132.png"
+                },
+                {
+                    "login": "AUT-DF-34",
+                    "nombre": "GUZMAN FLORES JOSE MACARIO",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MONDRAGON MUÑOZ KARLA AIDE/AUT-DF-34.png"
+                },
+                {
+                    "login": "AUT-DF-124",
+                    "nombre": "HERRERA LOYOLA DULCE MARISOL",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MONDRAGON MUÑOZ KARLA AIDE/AUT-DF-124.png"
+                },
+                {
+                    "login": "AUT-DF-33",
+                    "nombre": "LOPEZ HERNANDEZ CARLOS MELECIO",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MONDRAGON MUÑOZ KARLA AIDE/AUT-DF-33.png"
+                },
+                {
+                    "login": "AUT-DF-69",
+                    "nombre": "MORA BERNAL RAUL",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MONDRAGON MUÑOZ KARLA AIDE/AUT-DF-69.png"
+                },
+                {
+                    "login": "AUT-DF-76",
+                    "nombre": "NOCHEBUENA JIMENEZ JESUS ARTURO",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MONDRAGON MUÑOZ KARLA AIDE/AUT-DF-76.png"
+                },
+                {
+                    "login": "AUT-DF-146",
+                    "nombre": "OSEGUEDA GARCIA BARBARA",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MONDRAGON MUÑOZ KARLA AIDE/AUT-DF-146.png"
+                },
+                {
+                    "login": "AUT-DF-28",
+                    "nombre": "RIVERA DE LA ROSA LUIS",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MONDRAGON MUÑOZ KARLA AIDE/AUT-DF-28.png"
+                },
+                {
+                    "login": "AUT-DF-83",
+                    "nombre": "ZAMORA MUNGUIA JUAN RAMIRO",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/MONDRAGON MUÑOZ KARLA AIDE/AUT-DF-83.png"
+                }
+            ],
+            "NO APLICA SUPERVISOR": [
+                {
+                    "login": "SUP-DF-03",
+                    "nombre": "ARRIAGA MUÑOZ ELMER ANTONIO",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/NO APLICA SUPERVISOR/SUP-DF-03.png"
+                },
+                {
+                    "login": "SUP-DF-08",
+                    "nombre": "LEMUS GALVAN GLORIA",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/NO APLICA SUPERVISOR/SUP-DF-08.png"
+                },
+                {
+                    "login": "SUP-DF-09",
+                    "nombre": "MARTINEZ RODRIGUEZ JOSE ALFREDO",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/NO APLICA SUPERVISOR/SUP-DF-09.png"
+                },
+                {
+                    "login": "SUP-DF-02",
+                    "nombre": "MONDRAGON MUÑOZ KARLA AIDE",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/NO APLICA SUPERVISOR/SUP-DF-02.png"
+                },
+                {
+                    "login": "SUP-DF-07",
+                    "nombre": "MUÑOZ AMBROSIO ALAN",
+                    "ruta_grafico": "Resumenes_ALL/A5/HUGO MENDEZ/NO APLICA SUPERVISOR/SUP-DF-07.png"
+                }
+            ]
+        },
+        "JUAN LUIS GARDUÑO": {
+            "GONZALEZ GAITAN JUAN PABLO": [
+                {
+                    "login": "AUT-QRO-07",
+                    "nombre": "ALMARAZ LOYOLA ALMA DELIA",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/GONZALEZ GAITAN JUAN PABLO/AUT-QRO-07.png"
+                },
+                {
+                    "login": "AUT-QRO-08",
+                    "nombre": "CAMPOS RAMIREZ LAURA VIRIDIANA",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/GONZALEZ GAITAN JUAN PABLO/AUT-QRO-08.png"
+                },
+                {
+                    "login": "AUT-MUL-16",
+                    "nombre": "CRUZ MARTINEZ CAROLINA",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/GONZALEZ GAITAN JUAN PABLO/AUT-MUL-16.png"
+                },
+                {
+                    "login": "AUT-QRO-05",
+                    "nombre": "DIAZ TEXON MANUEL",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/GONZALEZ GAITAN JUAN PABLO/AUT-QRO-05.png"
+                },
+                {
+                    "login": "MAY-QTO-02",
+                    "nombre": "FERNANDEZ NEGRETE MARIO ALBERTO",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/GONZALEZ GAITAN JUAN PABLO/MAY-QTO-02.png"
+                },
+                {
+                    "login": "AUT-QRO-03",
+                    "nombre": "GONZALEZ MALDONADO HUGO",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/GONZALEZ GAITAN JUAN PABLO/AUT-QRO-03.png"
+                },
+                {
+                    "login": "AUT-QRO-09",
+                    "nombre": "HERNANDEZ CASTILLO MARIA DE JESUS",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/GONZALEZ GAITAN JUAN PABLO/AUT-QRO-09.png"
+                },
+                {
+                    "login": "AUT-QRO-06",
+                    "nombre": "MARTINEZ RAMIREZ ROSALINA ABIGAIL",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/GONZALEZ GAITAN JUAN PABLO/AUT-QRO-06.png"
+                },
+                {
+                    "login": "AUT-MUL-36",
+                    "nombre": "MARTINEZ TREJO JOSE FRANCISCO",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/GONZALEZ GAITAN JUAN PABLO/AUT-MUL-36.png"
+                },
+                {
+                    "login": "AUT-QRO-01",
+                    "nombre": "MONTERRUBIO RODRIGUEZ MARIA ISABEL",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/GONZALEZ GAITAN JUAN PABLO/AUT-QRO-01.png"
+                },
+                {
+                    "login": "AUT-QRO-02",
+                    "nombre": "NUÑEZ BECERRA MARIA DE LOURDES",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/GONZALEZ GAITAN JUAN PABLO/AUT-QRO-02.png"
+                },
+                {
+                    "login": "AUT-QRO-10",
+                    "nombre": "PEÑA RANGEL ELIZABETH",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/GONZALEZ GAITAN JUAN PABLO/AUT-QRO-10.png"
+                },
+                {
+                    "login": "AUT-QRO-04",
+                    "nombre": "SUAREZ RESENDIZ PRISCILA ADRIANA",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/GONZALEZ GAITAN JUAN PABLO/AUT-QRO-04.png"
+                }
+            ],
+            "HERNANDEZ HINOJOSA DIANA": [
+                {
+                    "login": "AUT-PAC-02",
+                    "nombre": "BERRIEL HERNANDEZ BRYAN",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/HERNANDEZ HINOJOSA DIANA/AUT-PAC-02.png"
+                },
+                {
+                    "login": "AUT-SOR-04",
+                    "nombre": "CRUZ GARCIA LUIS ANGEL",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/HERNANDEZ HINOJOSA DIANA/AUT-SOR-04.png"
+                },
+                {
+                    "login": "AUT-VER-10",
+                    "nombre": "ESPINO NOGUERA JUAN FERNANDO",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/HERNANDEZ HINOJOSA DIANA/AUT-VER-10.png"
+                },
+                {
+                    "login": "AUT-SOR-05",
+                    "nombre": "GALLARDO REYES LUIS ALBERTO",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/HERNANDEZ HINOJOSA DIANA/AUT-SOR-05.png"
+                },
+                {
+                    "login": "AUT-HGO-03",
+                    "nombre": "GOMEZCAÑA CHAVEZ ARACELI",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/HERNANDEZ HINOJOSA DIANA/AUT-HGO-03.png"
+                },
+                {
+                    "login": "MAY-VER-03",
+                    "nombre": "HERNANDEZ MENDEZ ALEJANDRO",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/HERNANDEZ HINOJOSA DIANA/MAY-VER-03.png"
+                },
+                {
+                    "login": "AUT-VER-24",
+                    "nombre": "SEGOVIA RAMIREZ JAVIER DE JESUS",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/HERNANDEZ HINOJOSA DIANA/AUT-VER-24.png"
+                },
+                {
+                    "login": "AUT-VER-09",
+                    "nombre": "TELLEZ MARTINEZ ADOLFO",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/HERNANDEZ HINOJOSA DIANA/AUT-VER-09.png"
+                },
+                {
+                    "login": "AUT-PAC-01",
+                    "nombre": "VARGAS REYES OSCAR",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/HERNANDEZ HINOJOSA DIANA/AUT-PAC-01.png"
+                }
+            ],
+            "NO APLICA SUPERVISOR": [
+                {
+                    "login": "SUP-QRO-01",
+                    "nombre": "GONZALEZ GAITAN JUAN PABLO",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/NO APLICA SUPERVISOR/SUP-QRO-01.png"
+                },
+                {
+                    "login": "SUP-PAC-01",
+                    "nombre": "HERNANDEZ HINOJOSA DIANA",
+                    "ruta_grafico": "Resumenes_ALL/A4/JUAN LUIS GARDUÑO/NO APLICA SUPERVISOR/SUP-PAC-01.png"
+                }
+            ]
+        },
+        "LIZBETH CETINA": {
+            "ADONA FUENTES MIGUEL ISRAEL": [
+                {
+                    "login": "AUT-DF-74",
+                    "nombre": "AVILES ORTEGA OSCAR ARTURO",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/ADONA FUENTES MIGUEL ISRAEL/AUT-DF-74.png"
+                },
+                {
+                    "login": "AUT-DF-37",
+                    "nombre": "CHAVEZ ALCANTARA MIGUEL",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/ADONA FUENTES MIGUEL ISRAEL/AUT-DF-37.png"
+                },
+                {
+                    "login": "AUT-DF-131",
+                    "nombre": "CRUZ RAMIREZ YOBANI ISMAEL",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/ADONA FUENTES MIGUEL ISRAEL/AUT-DF-131.png"
+                },
+                {
+                    "login": "AUT-DF-96",
+                    "nombre": "GARCIA SANTILLAN ERIKA ALEJANDRA",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/ADONA FUENTES MIGUEL ISRAEL/AUT-DF-96.png"
+                },
+                {
+                    "login": "AUT-DF-67",
+                    "nombre": "GONZALEZ RAMIREZ JESUS",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/ADONA FUENTES MIGUEL ISRAEL/AUT-DF-67.png"
+                },
+                {
+                    "login": "AUT-DF-145",
+                    "nombre": "MARCOS TENORIO YIENIZA",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/ADONA FUENTES MIGUEL ISRAEL/AUT-DF-145.png"
+                },
+                {
+                    "login": "AUT-DF-94",
+                    "nombre": "MARTINEZ CARBALLO YENIFER",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/ADONA FUENTES MIGUEL ISRAEL/AUT-DF-94.png"
+                },
+                {
+                    "login": "AUT-DF-38",
+                    "nombre": "MARTINEZ SANCHEZ ALFONSO",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/ADONA FUENTES MIGUEL ISRAEL/AUT-DF-38.png"
+                },
+                {
+                    "login": "AUT-DF-128",
+                    "nombre": "NOLASCO LOPEZ HECTOR",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/ADONA FUENTES MIGUEL ISRAEL/AUT-DF-128.png"
+                },
+                {
+                    "login": "AUT-DF-123",
+                    "nombre": "PEREZ CORONEL CARLOS GERARDO",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/ADONA FUENTES MIGUEL ISRAEL/AUT-DF-123.png"
+                },
+                {
+                    "login": "AUT-DF-31",
+                    "nombre": "QUINTOS NOGUEZ MONSERRAT PAOLA",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/ADONA FUENTES MIGUEL ISRAEL/AUT-DF-31.png"
+                },
+                {
+                    "login": "AUT-DF-133",
+                    "nombre": "RODRIGUEZ FLORES MONICA GABRIELA",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/ADONA FUENTES MIGUEL ISRAEL/AUT-DF-133.png"
+                },
+                {
+                    "login": "AUT-DF-59",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/ADONA FUENTES MIGUEL ISRAEL/AUT-DF-59.png"
+                }
+            ],
+            "NO APLICA SUPERVISOR": [
+                {
+                    "login": "SUP-DF-06",
+                    "nombre": "ADONA FUENTES MIGUEL ISRAEL",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/NO APLICA SUPERVISOR/SUP-DF-06.png"
+                },
+                {
+                    "login": "SUP-DF-05",
+                    "nombre": "RANGEL GARCIA HUGO ENRIQUE",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/NO APLICA SUPERVISOR/SUP-DF-05.png"
+                },
+                {
+                    "login": "SUP-DF-01",
+                    "nombre": "RODRIGUEZ GIL IRVING",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/NO APLICA SUPERVISOR/SUP-DF-01.png"
+                },
+                {
+                    "login": "SUP-DF-04",
+                    "nombre": "TABOADA OCHOA CINTHIA DEYANIRA",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/NO APLICA SUPERVISOR/SUP-DF-04.png"
+                }
+            ],
+            "RODRIGUEZ GIL IRVING": [
+                {
+                    "login": "AUT-DF-102",
+                    "nombre": "BARCENAS JIMENEZ DULCE GUADALUPE",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/RODRIGUEZ GIL IRVING/AUT-DF-102.png"
+                },
+                {
+                    "login": "AUT-DF-114",
+                    "nombre": "BELTRAN MONDRAGON OSCAR DIONICIO",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/RODRIGUEZ GIL IRVING/AUT-DF-114.png"
+                },
+                {
+                    "login": "AUT-DF-140",
+                    "nombre": "CONTRERAS TRUJANO MOISES",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/RODRIGUEZ GIL IRVING/AUT-DF-140.png"
+                },
+                {
+                    "login": "AUT-DF-39",
+                    "nombre": "HERNANDEZ GONZALEZ FEDERICO",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/RODRIGUEZ GIL IRVING/AUT-DF-39.png"
+                },
+                {
+                    "login": "AUT-DF-144",
+                    "nombre": "LAZO JIMENEZ GENARO",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/RODRIGUEZ GIL IRVING/AUT-DF-144.png"
+                },
+                {
+                    "login": "AUT-DF-119",
+                    "nombre": "MARTINEZ CRISTOBAL CESAR",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/RODRIGUEZ GIL IRVING/AUT-DF-119.png"
+                },
+                {
+                    "login": "AUT-DF-24",
+                    "nombre": "MARTINEZ OSORIO SERGIO",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/RODRIGUEZ GIL IRVING/AUT-DF-24.png"
+                },
+                {
+                    "login": "AUT-DF-47",
+                    "nombre": "MORALES GONZALEZ ANDRES OSVALDO",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/RODRIGUEZ GIL IRVING/AUT-DF-47.png"
+                },
+                {
+                    "login": "AUT-DF-135",
+                    "nombre": "NEPOMUCENO ALCAZAR JESUS HIRAM",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/RODRIGUEZ GIL IRVING/AUT-DF-135.png"
+                },
+                {
+                    "login": "AUT-DF-118",
+                    "nombre": "PEREZ GARCIA MARIA EUGENIA",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/RODRIGUEZ GIL IRVING/AUT-DF-118.png"
+                },
+                {
+                    "login": "AUT-DF-23",
+                    "nombre": "ROMAN SALINAS CARLOS",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/RODRIGUEZ GIL IRVING/AUT-DF-23.png"
+                },
+                {
+                    "login": "AUT-DF-20",
+                    "nombre": "SORIANO RAMOS OSCAR",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/RODRIGUEZ GIL IRVING/AUT-DF-20.png"
+                },
+                {
+                    "login": "MAY-MEX-09",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/RODRIGUEZ GIL IRVING/MAY-MEX-09.png"
+                }
+            ],
+            "TABOADA OCHOA CINTHIA DEYANIRA": [
+                {
+                    "login": "AUT-SOR-06",
+                    "nombre": "CARDENAS CABALLERO ERIKA LUCERO",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/TABOADA OCHOA CINTHIA DEYANIRA/AUT-SOR-06.png"
+                },
+                {
+                    "login": "AUT-DF-27",
+                    "nombre": "HERRERA RUIZ PASCUAL",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/TABOADA OCHOA CINTHIA DEYANIRA/AUT-DF-27.png"
+                },
+                {
+                    "login": "AUT-DF-35",
+                    "nombre": "LOPEZ AGUILAR MARIA DEL CARMEN",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/TABOADA OCHOA CINTHIA DEYANIRA/AUT-DF-35.png"
+                },
+                {
+                    "login": "AUT-DF-50",
+                    "nombre": "LUIS CRUZ RICARDO",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/TABOADA OCHOA CINTHIA DEYANIRA/AUT-DF-50.png"
+                },
+                {
+                    "login": "AUT-DF-25",
+                    "nombre": "NIETO GUEVARA MARCO ANTONIO",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/TABOADA OCHOA CINTHIA DEYANIRA/AUT-DF-25.png"
+                },
+                {
+                    "login": "AUT-DF-29",
+                    "nombre": "RAMIREZ CASTILLO MAXIMO",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/TABOADA OCHOA CINTHIA DEYANIRA/AUT-DF-29.png"
+                },
+                {
+                    "login": "AUT-DF-36",
+                    "nombre": "RAMIREZ JIMENEZ GREGORIO",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/TABOADA OCHOA CINTHIA DEYANIRA/AUT-DF-36.png"
+                },
+                {
+                    "login": "MAY-MEX-06",
+                    "nombre": "RODRIGUEZ MENDOZA EDGAR ALEJANDRO",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/TABOADA OCHOA CINTHIA DEYANIRA/MAY-MEX-06.png"
+                },
+                {
+                    "login": "AUT-DF-21",
+                    "nombre": "RODRIGUEZ VARGAS JOSUE",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/TABOADA OCHOA CINTHIA DEYANIRA/AUT-DF-21.png"
+                },
+                {
+                    "login": "AUT-DF-26",
+                    "nombre": "SALAZAR FLORES ANA LEYCI",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/TABOADA OCHOA CINTHIA DEYANIRA/AUT-DF-26.png"
+                },
+                {
+                    "login": "ABA-MEX-02",
+                    "nombre": "SALAZAR GARCIA LAURA CRISTINA",
+                    "ruta_grafico": "Resumenes_ALL/A5/LIZBETH CETINA/TABOADA OCHOA CINTHIA DEYANIRA/ABA-MEX-02.png"
+                }
+            ]
+        },
+        "NATALIA VAZQUEZ": {
+            "GARCIA GARCIA LORENA": [
+                {
+                    "login": "AUT-MOR-03",
+                    "nombre": "ARTEAGA GONZALEZ RUBEN ORLANDO",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GARCIA GARCIA LORENA/AUT-MOR-03.png"
+                },
+                {
+                    "login": "AUT-MOR-06",
+                    "nombre": "CEDILLO CORNEJO SERGIO JARET",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GARCIA GARCIA LORENA/AUT-MOR-06.png"
+                },
+                {
+                    "login": "MAY-MOR-03",
+                    "nombre": "GONZALEZ JUAREZ LEONARDO",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GARCIA GARCIA LORENA/MAY-MOR-03.png"
+                },
+                {
+                    "login": "MAY-MOR-01",
+                    "nombre": "GONZALEZ ROSAS LUIS ANGEL",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GARCIA GARCIA LORENA/MAY-MOR-01.png"
+                },
+                {
+                    "login": "MAY-MOR-02",
+                    "nombre": "GONZALEZ VELAZQUEZ MAXIMILIANO",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GARCIA GARCIA LORENA/MAY-MOR-02.png"
+                },
+                {
+                    "login": "AUT-MOR-04",
+                    "nombre": "GUERRERO ZUÑIGA VICENTE JACINTO",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GARCIA GARCIA LORENA/AUT-MOR-04.png"
+                },
+                {
+                    "login": "AUT-MOR-05",
+                    "nombre": "LAVIN RODRIGUEZ CARLOS",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GARCIA GARCIA LORENA/AUT-MOR-05.png"
+                },
+                {
+                    "login": "MAY-MOR-05",
+                    "nombre": "MONTES HERNANDEZ JAINA",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GARCIA GARCIA LORENA/MAY-MOR-05.png"
+                },
+                {
+                    "login": "AUT-MOR-01",
+                    "nombre": "NAVA GONZALEZ MARCO ANTONIO",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GARCIA GARCIA LORENA/AUT-MOR-01.png"
+                },
+                {
+                    "login": "AUT-MOR-07",
+                    "nombre": "RIVERA GARCIA ISMAEL",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GARCIA GARCIA LORENA/AUT-MOR-07.png"
+                },
+                {
+                    "login": "AUT-MOR-02",
+                    "nombre": "ROQUE ROMAN EDGAR",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GARCIA GARCIA LORENA/AUT-MOR-02.png"
+                },
+                {
+                    "login": "MAY-MOR-04",
+                    "nombre": "SALGADO BUENO NOE JAIR",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GARCIA GARCIA LORENA/MAY-MOR-04.png"
+                },
+                {
+                    "login": "AUT-MOR-08",
+                    "nombre": "VAZQUEZ FLORES ROBERTO",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GARCIA GARCIA LORENA/AUT-MOR-08.png"
+                }
+            ],
+            "GUERRERO RAMIREZ ANDRES ISRAEL": [
+                {
+                    "login": "AUT-PUE-10",
+                    "nombre": "ARCOS PEÑA EDUARDO IORDANNY",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GUERRERO RAMIREZ ANDRES ISRAEL/AUT-PUE-10.png"
+                },
+                {
+                    "login": "AUT-PUE-04",
+                    "nombre": "FLORES CEGADOR ALMA GABRIELA",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GUERRERO RAMIREZ ANDRES ISRAEL/AUT-PUE-04.png"
+                },
+                {
+                    "login": "MAY-PUE-05",
+                    "nombre": "GOMEZ RODRIGUEZ ANGELICA",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GUERRERO RAMIREZ ANDRES ISRAEL/MAY-PUE-05.png"
+                },
+                {
+                    "login": "AUT-TLA-01",
+                    "nombre": "HERNANDEZ HERNANDEZ SALVADOR",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GUERRERO RAMIREZ ANDRES ISRAEL/AUT-TLA-01.png"
+                },
+                {
+                    "login": "AUT-PUE-01",
+                    "nombre": "LOPEZ CABRERA ARACELI",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GUERRERO RAMIREZ ANDRES ISRAEL/AUT-PUE-01.png"
+                },
+                {
+                    "login": "AUT-MUL-13",
+                    "nombre": "LOPEZ FLORES JOAHO IVAN",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GUERRERO RAMIREZ ANDRES ISRAEL/AUT-MUL-13.png"
+                },
+                {
+                    "login": "AUT-PUE-05",
+                    "nombre": "PEREZ CRUZ JOSE ENRIQUE",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GUERRERO RAMIREZ ANDRES ISRAEL/AUT-PUE-05.png"
+                },
+                {
+                    "login": "AUT-MUL-12",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GUERRERO RAMIREZ ANDRES ISRAEL/AUT-MUL-12.png"
+                },
+                {
+                    "login": "MAY-PUE-03",
+                    "nombre": "VAZQUEZ ALVARADO MARISOL",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/GUERRERO RAMIREZ ANDRES ISRAEL/MAY-PUE-03.png"
+                }
+            ],
+            "NO APLICA SUPERVISOR": [
+                {
+                    "login": "SUP-MOR-01",
+                    "nombre": "GARCIA GARCIA LORENA",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/NO APLICA SUPERVISOR/SUP-MOR-01.png"
+                },
+                {
+                    "login": "SUP-PUE-02",
+                    "nombre": "GUERRERO RAMIREZ ANDRES ISRAEL",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/NO APLICA SUPERVISOR/SUP-PUE-02.png"
+                },
+                {
+                    "login": "SUP-GRO-01",
+                    "nombre": "PEREZ PUENTE CARLOS OMAR",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/NO APLICA SUPERVISOR/SUP-GRO-01.png"
+                },
+                {
+                    "login": "SUP-PUE-01",
+                    "nombre": "RAMIREZ PEREZ JENNY",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/NO APLICA SUPERVISOR/SUP-PUE-01.png"
+                },
+                {
+                    "login": "SUP-TOL-01",
+                    "nombre": "VAZQUEZ CONTRERAS AGLAE VIRIDIANA",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/NO APLICA SUPERVISOR/SUP-TOL-01.png"
+                }
+            ],
+            "PEREZ PUENTE CARLOS OMAR": [
+                {
+                    "login": "AUT-GRO-04",
+                    "nombre": "CERVANTES ZARAGOZA DIANA LIZ",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/PEREZ PUENTE CARLOS OMAR/AUT-GRO-04.png"
+                },
+                {
+                    "login": "AUT-GRO-05",
+                    "nombre": "DE JESUS BLANCO YAZMIN",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/PEREZ PUENTE CARLOS OMAR/AUT-GRO-05.png"
+                },
+                {
+                    "login": "AUT-GRO-03",
+                    "nombre": "LUNA GARCIA LUIS EDUARDO",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/PEREZ PUENTE CARLOS OMAR/AUT-GRO-03.png"
+                },
+                {
+                    "login": "AUT-GRO-06",
+                    "nombre": "TOLENTINO NAVA EDUARDO",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/PEREZ PUENTE CARLOS OMAR/AUT-GRO-06.png"
+                },
+                {
+                    "login": "AUT-GRO-01",
+                    "nombre": "VARGAS SERNA JOSEPH ALEJANDRO",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/PEREZ PUENTE CARLOS OMAR/AUT-GRO-01.png"
+                },
+                {
+                    "login": "AUT-GRO-02",
+                    "nombre": "YAÑEZ CISNEROS JORGE IVAN",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/PEREZ PUENTE CARLOS OMAR/AUT-GRO-02.png"
+                }
+            ],
+            "RAMIREZ PEREZ JENNY": [
+                {
+                    "login": "MAY-PUE-10",
+                    "nombre": "ALVARADO HUERTA FERNANDO",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/RAMIREZ PEREZ JENNY/MAY-PUE-10.png"
+                },
+                {
+                    "login": "AUT-PUE-09",
+                    "nombre": "CORDERO CASTAÑEDA HECTOR DANIEL",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/RAMIREZ PEREZ JENNY/AUT-PUE-09.png"
+                },
+                {
+                    "login": "AUT-PUE-03",
+                    "nombre": "COVARRUBIAS ORTEGA EDGAR ABNER",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/RAMIREZ PEREZ JENNY/AUT-PUE-03.png"
+                },
+                {
+                    "login": "MAY-PUE-09",
+                    "nombre": "CRUZ CORDOBA MERCEDES",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/RAMIREZ PEREZ JENNY/MAY-PUE-09.png"
+                },
+                {
+                    "login": "AUT-PUE-06",
+                    "nombre": "LUNA BERNARDINO ABEL",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/RAMIREZ PEREZ JENNY/AUT-PUE-06.png"
+                },
+                {
+                    "login": "AUT-PUE-11",
+                    "nombre": "MARTINEZ FLORES MARIA FERNANDA",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/RAMIREZ PEREZ JENNY/AUT-PUE-11.png"
+                },
+                {
+                    "login": "AUT-PUE-02",
+                    "nombre": "MENDIETA LEZAMA JOSE ADRIAN",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/RAMIREZ PEREZ JENNY/AUT-PUE-02.png"
+                },
+                {
+                    "login": "MAY-PUE-07",
+                    "nombre": "MUÑOZ ORTEGA ISRAEL",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/RAMIREZ PEREZ JENNY/MAY-PUE-07.png"
+                },
+                {
+                    "login": "AUT-PUE-08",
+                    "nombre": "URIBE AGUILAR JOSE",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/RAMIREZ PEREZ JENNY/AUT-PUE-08.png"
+                }
+            ],
+            "VAZQUEZ CONTRERAS AGLAE VIRIDIANA": [
+                {
+                    "login": "AUT-MUL-01",
+                    "nombre": "GARCIA MANJARREZ JESUS",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/VAZQUEZ CONTRERAS AGLAE VIRIDIANA/AUT-MUL-01.png"
+                },
+                {
+                    "login": "MAY-EDO-01",
+                    "nombre": "GUTIERREZ OLMOS NORMA ANGELICA",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/VAZQUEZ CONTRERAS AGLAE VIRIDIANA/MAY-EDO-01.png"
+                },
+                {
+                    "login": "AUT-MUL-03",
+                    "nombre": "PINEDA GONZALEZ JOSE GUADALUPE",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/VAZQUEZ CONTRERAS AGLAE VIRIDIANA/AUT-MUL-03.png"
+                },
+                {
+                    "login": "MAY-TOL-01",
+                    "nombre": "QUINTERO GONZALEZ ERNESTO",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/VAZQUEZ CONTRERAS AGLAE VIRIDIANA/MAY-TOL-01.png"
+                },
+                {
+                    "login": "AUT-MUL-02",
+                    "nombre": "REYES ANGELES ENRIQUE VIDAL",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/VAZQUEZ CONTRERAS AGLAE VIRIDIANA/AUT-MUL-02.png"
+                },
+                {
+                    "login": "AUT-TOL-05",
+                    "nombre": "SALINAS ROJAS JUAN ALFREDO",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/VAZQUEZ CONTRERAS AGLAE VIRIDIANA/AUT-TOL-05.png"
+                },
+                {
+                    "login": "MAY-EDO-02",
+                    "nombre": "SANCHEZ FLORENCIO LUIS FERNANDO",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/VAZQUEZ CONTRERAS AGLAE VIRIDIANA/MAY-EDO-02.png"
+                },
+                {
+                    "login": "AUT-TOL-02",
+                    "nombre": "SANCHEZ GONZALEZ JAIME",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/VAZQUEZ CONTRERAS AGLAE VIRIDIANA/AUT-TOL-02.png"
+                },
+                {
+                    "login": "AUT-MUL-04",
+                    "nombre": "SANCHEZ GONZALEZ JESUS",
+                    "ruta_grafico": "Resumenes_ALL/A4/NATALIA VAZQUEZ/VAZQUEZ CONTRERAS AGLAE VIRIDIANA/AUT-MUL-04.png"
+                }
+            ]
+        },
+        "SOFIA ACHACH": {
+            "CHAPARRO ALVIRDE PATRICIO": [
+                {
+                    "login": "AUT-YUC-10",
+                    "nombre": "ALVARADO DIAZ PATRICIA ELIZABETH",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CHAPARRO ALVIRDE PATRICIO/AUT-YUC-10.png"
+                },
+                {
+                    "login": "MAY-YUC-06",
+                    "nombre": "AZCORRA MEDINA EMILIO JESUS",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CHAPARRO ALVIRDE PATRICIO/MAY-YUC-06.png"
+                },
+                {
+                    "login": "AUT-CAM-02",
+                    "nombre": "CAMBRANIS XEQUEB DIDIER JOEL",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CHAPARRO ALVIRDE PATRICIO/AUT-CAM-02.png"
+                },
+                {
+                    "login": "MAY-YUC-11",
+                    "nombre": "CANUL CETZ EDWIN ARIEL",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CHAPARRO ALVIRDE PATRICIO/MAY-YUC-11.png"
+                },
+                {
+                    "login": "MAY-YUC-10",
+                    "nombre": "CHAB MOGUEL GHISLAYNE DEL CARMEN",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CHAPARRO ALVIRDE PATRICIO/MAY-YUC-10.png"
+                },
+                {
+                    "login": "AUT-YUC-02",
+                    "nombre": "CRUZ MEZA BRYAN MANUEL",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CHAPARRO ALVIRDE PATRICIO/AUT-YUC-02.png"
+                },
+                {
+                    "login": "AUT-CAM-03",
+                    "nombre": "DIAZ FUENTES AURORA DEL CARMEN",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CHAPARRO ALVIRDE PATRICIO/AUT-CAM-03.png"
+                },
+                {
+                    "login": "MAY-YUC-03",
+                    "nombre": "MARTIN TAMAYO JESUS MIGUEL",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CHAPARRO ALVIRDE PATRICIO/MAY-YUC-03.png"
+                },
+                {
+                    "login": "MAY-YUC-08",
+                    "nombre": "SEGURA CERVANTES YANELY DEL CARMEN",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CHAPARRO ALVIRDE PATRICIO/MAY-YUC-08.png"
+                },
+                {
+                    "login": "MAY-YUC-01",
+                    "nombre": "TRUJEQUE CHAB KAREN ARISDELSI",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CHAPARRO ALVIRDE PATRICIO/MAY-YUC-01.png"
+                },
+                {
+                    "login": "AUT-YUC-07",
+                    "nombre": "UC HUCHIM JUAN GABRIEL",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CHAPARRO ALVIRDE PATRICIO/AUT-YUC-07.png"
+                },
+                {
+                    "login": "AUT-YUC-08",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CHAPARRO ALVIRDE PATRICIO/AUT-YUC-08.png"
+                },
+                {
+                    "login": "AUT-YUC-11",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CHAPARRO ALVIRDE PATRICIO/AUT-YUC-11.png"
+                },
+                {
+                    "login": "AUT-CAM-05",
+                    "nombre": "ZAPATA CHI LIZZIE BEATRIZ",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CHAPARRO ALVIRDE PATRICIO/AUT-CAM-05.png"
+                }
+            ],
+            "CRUZ CABRERA ILSE ISELA": [
+                {
+                    "login": "AUT-QOO-13",
+                    "nombre": "ALVARADO ROJAS ERICK ANTONIO",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CRUZ CABRERA ILSE ISELA/AUT-QOO-13.png"
+                },
+                {
+                    "login": "MAY-QOO-09",
+                    "nombre": "CAB RIVERO SAIDY GRISEL",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CRUZ CABRERA ILSE ISELA/MAY-QOO-09.png"
+                },
+                {
+                    "login": "AUT-QOO-01",
+                    "nombre": "CASTILLO ARIAS PAMELA ALEJANDRA",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CRUZ CABRERA ILSE ISELA/AUT-QOO-01.png"
+                },
+                {
+                    "login": "AUT-QOO-14",
+                    "nombre": "CASTRO HERRERA FRANKLYN EFRAIN",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CRUZ CABRERA ILSE ISELA/AUT-QOO-14.png"
+                },
+                {
+                    "login": "MAY-QOO-02",
+                    "nombre": "DE LA CRUZ SANCHEZ CRISTEL",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CRUZ CABRERA ILSE ISELA/MAY-QOO-02.png"
+                },
+                {
+                    "login": "AUT-QOO-03",
+                    "nombre": "DIAZ ARJONA BRIANDA ABIGAIL",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CRUZ CABRERA ILSE ISELA/AUT-QOO-03.png"
+                },
+                {
+                    "login": "MAY-QOO-10",
+                    "nombre": "GARCIA REYES CLAUDIA PATRICIA",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CRUZ CABRERA ILSE ISELA/MAY-QOO-10.png"
+                },
+                {
+                    "login": "MAY-QOO-08",
+                    "nombre": "JIMENEZ MAYO ANGEL NEREO",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CRUZ CABRERA ILSE ISELA/MAY-QOO-08.png"
+                },
+                {
+                    "login": "AUT-QOO-17",
+                    "nombre": "ORTIZ JIMENEZ MEZTLI",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CRUZ CABRERA ILSE ISELA/AUT-QOO-17.png"
+                },
+                {
+                    "login": "AUT-QOO-05",
+                    "nombre": "RICO GARCIA MIROSLAVA FABIOLA",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CRUZ CABRERA ILSE ISELA/AUT-QOO-05.png"
+                },
+                {
+                    "login": "MAY-QOO-05",
+                    "nombre": "RIVERA RAMIREZ RAUL ANTONIO",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CRUZ CABRERA ILSE ISELA/MAY-QOO-05.png"
+                },
+                {
+                    "login": "AUT-QOO-09",
+                    "nombre": "TOLEDO DELGADO BELEN",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CRUZ CABRERA ILSE ISELA/AUT-QOO-09.png"
+                },
+                {
+                    "login": "AUT-QOO-16",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CRUZ CABRERA ILSE ISELA/AUT-QOO-16.png"
+                },
+                {
+                    "login": "MAY-QOO-03",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/CRUZ CABRERA ILSE ISELA/MAY-QOO-03.png"
+                }
+            ],
+            "NO APLICA SUPERVISOR": [
+                {
+                    "login": "SUP-YUC-01",
+                    "nombre": "CHAPARRO ALVIRDE PATRICIO",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NO APLICA SUPERVISOR/SUP-YUC-01.png"
+                },
+                {
+                    "login": "SUP-CUN-02",
+                    "nombre": "CRUZ CABRERA ILSE ISELA",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NO APLICA SUPERVISOR/SUP-CUN-02.png"
+                },
+                {
+                    "login": "SUP-YUC-02",
+                    "nombre": "NOH DZUL GASPAR ADOLFO",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NO APLICA SUPERVISOR/SUP-YUC-02.png"
+                },
+                {
+                    "login": "SUP-TAB-01",
+                    "nombre": "SANCHEZ FLORES MELIDA",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NO APLICA SUPERVISOR/SUP-TAB-01.png"
+                },
+                {
+                    "login": "SUP-CUN-01",
+                    "nombre": "ZAPATA CHALE WILBERT ALFREDO",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NO APLICA SUPERVISOR/SUP-CUN-01.png"
+                }
+            ],
+            "NOH DZUL GASPAR ADOLFO": [
+                {
+                    "login": "AUT-YUC-03",
+                    "nombre": "ARAUJO CHUC REYES GASPAR",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NOH DZUL GASPAR ADOLFO/AUT-YUC-03.png"
+                },
+                {
+                    "login": "MAY-YUC-07",
+                    "nombre": "CETZ CHI KATY ESTHER",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NOH DZUL GASPAR ADOLFO/MAY-YUC-07.png"
+                },
+                {
+                    "login": "MAY-YUC-02",
+                    "nombre": "CUTZ BALAM RODRIGO ISMAEL",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NOH DZUL GASPAR ADOLFO/MAY-YUC-02.png"
+                },
+                {
+                    "login": "AUT-YUC-05",
+                    "nombre": "GALLOSO VALENCIA GABRIEL ALEJANDRO",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NOH DZUL GASPAR ADOLFO/AUT-YUC-05.png"
+                },
+                {
+                    "login": "AUT-YUC-01",
+                    "nombre": "GARCIA CARDEÑA DIEGO ISAIAS",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NOH DZUL GASPAR ADOLFO/AUT-YUC-01.png"
+                },
+                {
+                    "login": "MAY-YUC-09",
+                    "nombre": "LAINES CHIN FERNANDO HARLEY",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NOH DZUL GASPAR ADOLFO/MAY-YUC-09.png"
+                },
+                {
+                    "login": "MAY-YUC-13",
+                    "nombre": "MARTINEZ ZAPATA ABIGAIL",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NOH DZUL GASPAR ADOLFO/MAY-YUC-13.png"
+                },
+                {
+                    "login": "MAY-YUC-12",
+                    "nombre": "MAY MAY FLORCY ANAE",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NOH DZUL GASPAR ADOLFO/MAY-YUC-12.png"
+                },
+                {
+                    "login": "AUT-YUC-04",
+                    "nombre": "MAY MAY SILVIA MARIBEL",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NOH DZUL GASPAR ADOLFO/AUT-YUC-04.png"
+                },
+                {
+                    "login": "AUT-YUC-09",
+                    "nombre": "MENDEZ CAL JOSE JOAQUIN",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NOH DZUL GASPAR ADOLFO/AUT-YUC-09.png"
+                },
+                {
+                    "login": "MAY-YUC-04",
+                    "nombre": "POOT EUAN LAURA GABRIELA",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NOH DZUL GASPAR ADOLFO/MAY-YUC-04.png"
+                },
+                {
+                    "login": "MAY-CAM-01",
+                    "nombre": "ROSADO COYOC JESUS ALBERTO",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/NOH DZUL GASPAR ADOLFO/MAY-CAM-01.png"
+                }
+            ],
+            "SANCHEZ FLORES MELIDA": [
+                {
+                    "login": "MAY-TAB-06",
+                    "nombre": "ARCOS LOPEZ FELIPE",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/MAY-TAB-06.png"
+                },
+                {
+                    "login": "MAY-TAB-07",
+                    "nombre": "BALAN CHACON MARIA GUADALUPE",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/MAY-TAB-07.png"
+                },
+                {
+                    "login": "MAY-CAM-03",
+                    "nombre": "CHAVEZ CABRERA RUBI QUETZALLI",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/MAY-CAM-03.png"
+                },
+                {
+                    "login": "AUT-TAB-04",
+                    "nombre": "HERNANDEZ CAMACHO JAVIER",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/AUT-TAB-04.png"
+                },
+                {
+                    "login": "MAY-TAB-03",
+                    "nombre": "HERNANDEZ MICELES LEYDI DEL SOCORRO",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/MAY-TAB-03.png"
+                },
+                {
+                    "login": "AUT-CAM-01",
+                    "nombre": "HERNANDEZ SANCHEZ RAUL ANTONIO",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/AUT-CAM-01.png"
+                },
+                {
+                    "login": "AUT-CAM-04",
+                    "nombre": "JIMENEZ PEREZ NORMA DINORA",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/AUT-CAM-04.png"
+                },
+                {
+                    "login": "MAY-TAB-10",
+                    "nombre": "LOMBARDINI VELAZQUEZ MARITZA GUADALUPE",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/MAY-TAB-10.png"
+                },
+                {
+                    "login": "MAY-CAM-02",
+                    "nombre": "LOPEZ DAMIAN DULCE CECILIA",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/MAY-CAM-02.png"
+                },
+                {
+                    "login": "AUT-TAB-08",
+                    "nombre": "LOZANO OSORIO MARIA",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/AUT-TAB-08.png"
+                },
+                {
+                    "login": "MAY-TAB-01",
+                    "nombre": "MIGUEL MARTINEZ MAHYDALY",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/MAY-TAB-01.png"
+                },
+                {
+                    "login": "MAY-TAB-04",
+                    "nombre": "NARVAEZ HERNANDEZ JAZMIN",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/MAY-TAB-04.png"
+                },
+                {
+                    "login": "AUT-TAB-03",
+                    "nombre": "NERIO HERNANDEZ JORGE ALBERTO",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/AUT-TAB-03.png"
+                },
+                {
+                    "login": "AUT-TAB-05",
+                    "nombre": "PALACIO PEREZ MARIA DIONICIA",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/AUT-TAB-05.png"
+                },
+                {
+                    "login": "AUT-TAB-11",
+                    "nombre": "RAMIREZ SANCHEZ JIMMY",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/AUT-TAB-11.png"
+                },
+                {
+                    "login": "MAY-TAB-02",
+                    "nombre": "RIVAS GONZALEZ MARCO ANTONIO",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/MAY-TAB-02.png"
+                },
+                {
+                    "login": "MAY-TAB-09",
+                    "nombre": "ZACARIAS FELIX ISMAEL",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/SANCHEZ FLORES MELIDA/MAY-TAB-09.png"
+                }
+            ],
+            "ZAPATA CHALE WILBERT ALFREDO": [
+                {
+                    "login": "AUT-QOO-04",
+                    "nombre": "CAAMAL SANCHEZ JOSEFINA",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/ZAPATA CHALE WILBERT ALFREDO/AUT-QOO-04.png"
+                },
+                {
+                    "login": "AUT-QOO-06",
+                    "nombre": "CAN BASTO JOEL MANASES",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/ZAPATA CHALE WILBERT ALFREDO/AUT-QOO-06.png"
+                },
+                {
+                    "login": "MAY-QOO-06",
+                    "nombre": "COYOC CASTILLO ROSALIA GUADALUPE",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/ZAPATA CHALE WILBERT ALFREDO/MAY-QOO-06.png"
+                },
+                {
+                    "login": "AUT-QOO-08",
+                    "nombre": "DZUL NARVAEZ CECILIA STHEFANY",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/ZAPATA CHALE WILBERT ALFREDO/AUT-QOO-08.png"
+                },
+                {
+                    "login": "AUT-QOO-10",
+                    "nombre": "FIGUEROA OCHOA JUAN DIEGO",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/ZAPATA CHALE WILBERT ALFREDO/AUT-QOO-10.png"
+                },
+                {
+                    "login": "AUT-MUL-30",
+                    "nombre": "GONGORA HERNANDEZ CARMEN GUADALUPE",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/ZAPATA CHALE WILBERT ALFREDO/AUT-MUL-30.png"
+                },
+                {
+                    "login": "MAY-QOO-07",
+                    "nombre": "MENDOZA GOMEZ SULEM",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/ZAPATA CHALE WILBERT ALFREDO/MAY-QOO-07.png"
+                },
+                {
+                    "login": "MAY-QOO-04",
+                    "nombre": "PENICHE CANUL MARIA MERCEDES",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/ZAPATA CHALE WILBERT ALFREDO/MAY-QOO-04.png"
+                },
+                {
+                    "login": "AUT-QOO-11",
+                    "nombre": "POLANCO CAAMAL HECTOR EDUARDO",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/ZAPATA CHALE WILBERT ALFREDO/AUT-QOO-11.png"
+                },
+                {
+                    "login": "AUT-QOO-15",
+                    "nombre": "RUIZ GARCIA KARLA VERONICA",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/ZAPATA CHALE WILBERT ALFREDO/AUT-QOO-15.png"
+                },
+                {
+                    "login": "AUT-QOO-12",
+                    "nombre": "SARRICOLEA VILLACORTA LEONARDO",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/ZAPATA CHALE WILBERT ALFREDO/AUT-QOO-12.png"
+                },
+                {
+                    "login": "AUT-QOO-02",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/ZAPATA CHALE WILBERT ALFREDO/AUT-QOO-02.png"
+                },
+                {
+                    "login": "AUT-QOO-07",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/ZAPATA CHALE WILBERT ALFREDO/AUT-QOO-07.png"
+                },
+                {
+                    "login": "MAY-QOO-01",
+                    "nombre": "ZENTENO RUIZ CLARA CRISTEL",
+                    "ruta_grafico": "Resumenes_ALL/A6/SOFIA ACHACH/ZAPATA CHALE WILBERT ALFREDO/MAY-QOO-01.png"
+                }
+            ]
+        },
+        "VACANTE EJECUTIVO MARS A2": {
+            "DE LA CRUZ CARDOZO CLAUDIA": [
+                {
+                    "login": "AUT-CHH-12",
+                    "nombre": "DE LA ROSA BAEZA MONICA",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA CRUZ CARDOZO CLAUDIA/AUT-CHH-12.png"
+                },
+                {
+                    "login": "AUT-CHH-10",
+                    "nombre": "FERNANDEZ MENDEZ JOHAN JAEL",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA CRUZ CARDOZO CLAUDIA/AUT-CHH-10.png"
+                },
+                {
+                    "login": "AUT-MUL-39",
+                    "nombre": "GUZMAN ARREAGA GUADALUPE",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA CRUZ CARDOZO CLAUDIA/AUT-MUL-39.png"
+                },
+                {
+                    "login": "AUT-CHH-11",
+                    "nombre": "GUZMAN SALAS CARLOS DANIEL",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA CRUZ CARDOZO CLAUDIA/AUT-CHH-11.png"
+                },
+                {
+                    "login": "AUT-CHH-08",
+                    "nombre": "MANRIQUEZ FERNANDEZ GABRIEL ERNESTO",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA CRUZ CARDOZO CLAUDIA/AUT-CHH-08.png"
+                },
+                {
+                    "login": "AUT-CHH-09",
+                    "nombre": "ROJAS HERNANDEZ JESUS MANUEL",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA CRUZ CARDOZO CLAUDIA/AUT-CHH-09.png"
+                }
+            ],
+            "DE LA O RODRIGUEZ NERICK HASSAM": [
+                {
+                    "login": "MAY-SAL-01",
+                    "nombre": "BARRERA TOBIAS JULIETA ABIGAIL",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA O RODRIGUEZ NERICK HASSAM/MAY-SAL-01.png"
+                },
+                {
+                    "login": "AUT-MUL-44",
+                    "nombre": "CHAVEZ REYEZ JOSE MIGUEL",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA O RODRIGUEZ NERICK HASSAM/AUT-MUL-44.png"
+                },
+                {
+                    "login": "AUT-NL-17",
+                    "nombre": "ENRIQUEZ DUARTE VELIA BERENICE",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA O RODRIGUEZ NERICK HASSAM/AUT-NL-17.png"
+                },
+                {
+                    "login": "AUT-NL-22",
+                    "nombre": "FRIAS RAMOS JESUS DAVID",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA O RODRIGUEZ NERICK HASSAM/AUT-NL-22.png"
+                },
+                {
+                    "login": "AUT-NL-03",
+                    "nombre": "LOPEZ GARCIA ONEIDA GUADALUPE",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA O RODRIGUEZ NERICK HASSAM/AUT-NL-03.png"
+                },
+                {
+                    "login": "AUT-SOR-01",
+                    "nombre": "MENDOZA IBARRA DAVID",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA O RODRIGUEZ NERICK HASSAM/AUT-SOR-01.png"
+                },
+                {
+                    "login": "AUT-COA-05",
+                    "nombre": "MORENO DAVILA IVONE KARINA",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA O RODRIGUEZ NERICK HASSAM/AUT-COA-05.png"
+                },
+                {
+                    "login": "AUT-NL-04",
+                    "nombre": "MUÑOZ DIAZ RUBEN NEFTALI",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA O RODRIGUEZ NERICK HASSAM/AUT-NL-04.png"
+                },
+                {
+                    "login": "AUT-SAL-01",
+                    "nombre": "PEREZ GONZALEZ IRMA ELIZABETH",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA O RODRIGUEZ NERICK HASSAM/AUT-SAL-01.png"
+                },
+                {
+                    "login": "AUT-NL-10",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA O RODRIGUEZ NERICK HASSAM/AUT-NL-10.png"
+                },
+                {
+                    "login": "AUT-NL-23",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA O RODRIGUEZ NERICK HASSAM/AUT-NL-23.png"
+                },
+                {
+                    "login": "AUT-NL-26",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/DE LA O RODRIGUEZ NERICK HASSAM/AUT-NL-26.png"
+                }
+            ],
+            "MONSIVAIS HERNANDEZ JULIO CESAR": [
+                {
+                    "login": "AUT-NL-05",
+                    "nombre": "BRACHO ALFARO SALVADOR EMMANUEL",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MONSIVAIS HERNANDEZ JULIO CESAR/AUT-NL-05.png"
+                },
+                {
+                    "login": "AUT-NL-19",
+                    "nombre": "CASTILLO MONSIVAIS MARTIN",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MONSIVAIS HERNANDEZ JULIO CESAR/AUT-NL-19.png"
+                },
+                {
+                    "login": "AUT-NL-11",
+                    "nombre": "CHIRINO RAMIREZ YESICA YASMIN",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MONSIVAIS HERNANDEZ JULIO CESAR/AUT-NL-11.png"
+                },
+                {
+                    "login": "AUT-NL-08",
+                    "nombre": "CONTRERAS LUNA OSCAR MAURICIO",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MONSIVAIS HERNANDEZ JULIO CESAR/AUT-NL-08.png"
+                },
+                {
+                    "login": "AUT-NL-09",
+                    "nombre": "CONTRERAS MARTINEZ GERALDO JADIR",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MONSIVAIS HERNANDEZ JULIO CESAR/AUT-NL-09.png"
+                },
+                {
+                    "login": "AUT-NL-01",
+                    "nombre": "HERNANDEZ BANDA HECTOR GERARDO",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MONSIVAIS HERNANDEZ JULIO CESAR/AUT-NL-01.png"
+                },
+                {
+                    "login": "AUT-NL-07",
+                    "nombre": "MANCILLAS RODRIGUEZ MILTON CARLOS",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MONSIVAIS HERNANDEZ JULIO CESAR/AUT-NL-07.png"
+                },
+                {
+                    "login": "MAY-MTY-04",
+                    "nombre": "MARTINEZ ZAMARRIPA DANIEL ALEJANDRO",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MONSIVAIS HERNANDEZ JULIO CESAR/MAY-MTY-04.png"
+                },
+                {
+                    "login": "AUT-COA-03",
+                    "nombre": "PONCE SANMIGUEL MARISA",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MONSIVAIS HERNANDEZ JULIO CESAR/AUT-COA-03.png"
+                },
+                {
+                    "login": "AUT-NL-15",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MONSIVAIS HERNANDEZ JULIO CESAR/AUT-NL-15.png"
+                },
+                {
+                    "login": "AUT-NL-20",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MONSIVAIS HERNANDEZ JULIO CESAR/AUT-NL-20.png"
+                }
+            ],
+            "MORATO NAVARRO CARLOS": [
+                {
+                    "login": "MAY-TAM-02",
+                    "nombre": "CORDOVA TORRUCO HINGUE",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MORATO NAVARRO CARLOS/MAY-TAM-02.png"
+                },
+                {
+                    "login": "MAY-TAM-09",
+                    "nombre": "ESCALANTE GUERRERO DAVID",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MORATO NAVARRO CARLOS/MAY-TAM-09.png"
+                },
+                {
+                    "login": "AUT-TAM-18",
+                    "nombre": "ESPINOSA GARCIA ABIMAEL",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MORATO NAVARRO CARLOS/AUT-TAM-18.png"
+                },
+                {
+                    "login": "AUT-TAM-05",
+                    "nombre": "GARCIA BENITEZ MARCOS",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MORATO NAVARRO CARLOS/AUT-TAM-05.png"
+                },
+                {
+                    "login": "AUT-TAM-04",
+                    "nombre": "GONZALEZ GARCIA JUAN JOSE",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MORATO NAVARRO CARLOS/AUT-TAM-04.png"
+                },
+                {
+                    "login": "AUT-TAM-02",
+                    "nombre": "HERNANDEZ MEDINA FRANCISCO JAVIER",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MORATO NAVARRO CARLOS/AUT-TAM-02.png"
+                },
+                {
+                    "login": "MAY-TAM-10",
+                    "nombre": "LISARDO DE LEON CARMEN NATALI",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MORATO NAVARRO CARLOS/MAY-TAM-10.png"
+                },
+                {
+                    "login": "AUT-TAM-03",
+                    "nombre": "MONTOYA MARTINEZ SERGIO ARTURO",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/MORATO NAVARRO CARLOS/AUT-TAM-03.png"
+                }
+            ],
+            "NO APLICA SUPERVISOR": [
+                {
+                    "login": "SUP-JUA-01",
+                    "nombre": "DE LA CRUZ CARDOZO CLAUDIA",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/NO APLICA SUPERVISOR/SUP-JUA-01.png"
+                },
+                {
+                    "login": "SUP-NL-02",
+                    "nombre": "DE LA O RODRIGUEZ NERICK HASSAM",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/NO APLICA SUPERVISOR/SUP-NL-02.png"
+                },
+                {
+                    "login": "SUP-NL-01",
+                    "nombre": "MONSIVAIS HERNANDEZ JULIO CESAR",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/NO APLICA SUPERVISOR/SUP-NL-01.png"
+                },
+                {
+                    "login": "SUP-TAM-01",
+                    "nombre": "MORATO NAVARRO CARLOS",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/NO APLICA SUPERVISOR/SUP-TAM-01.png"
+                },
+                {
+                    "login": "SUP-CHH-01",
+                    "nombre": "RAMIREZ TORRES JAZMIN",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/NO APLICA SUPERVISOR/SUP-CHH-01.png"
+                }
+            ],
+            "RAMIREZ TORRES JAZMIN": [
+                {
+                    "login": "AUT-CHH-17",
+                    "nombre": "ANCHONDO CASTAÑEDA BLANCA LUZ",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/RAMIREZ TORRES JAZMIN/AUT-CHH-17.png"
+                },
+                {
+                    "login": "AUT-CHH-02",
+                    "nombre": "BELTRAN OCHOA MARCO ANTONIO GUADALUPE",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/RAMIREZ TORRES JAZMIN/AUT-CHH-02.png"
+                },
+                {
+                    "login": "AUT-CHH-07",
+                    "nombre": "CORONEL GOMEZ ASUNCION",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/RAMIREZ TORRES JAZMIN/AUT-CHH-07.png"
+                },
+                {
+                    "login": "AUT-CHH-03",
+                    "nombre": "FIGUEROA ALMAGUER SALVADOR",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/RAMIREZ TORRES JAZMIN/AUT-CHH-03.png"
+                },
+                {
+                    "login": "AUT-CHH-06",
+                    "nombre": "FLORES VINAGRE NINIVE",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/RAMIREZ TORRES JAZMIN/AUT-CHH-06.png"
+                },
+                {
+                    "login": "AUT-CHH-01",
+                    "nombre": "GARCIA TORRES JUAN MANUEL",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/RAMIREZ TORRES JAZMIN/AUT-CHH-01.png"
+                },
+                {
+                    "login": "AUT-CHH-05",
+                    "nombre": "MARTINEZ IBAVEN EDNA MARIANA",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/RAMIREZ TORRES JAZMIN/AUT-CHH-05.png"
+                },
+                {
+                    "login": "AUT-CHH-04",
+                    "nombre": "SALAS ESTRADA IRMA LILIANA",
+                    "ruta_grafico": "Resumenes_ALL/A2/VACANTE EJECUTIVO MARS A2/RAMIREZ TORRES JAZMIN/AUT-CHH-04.png"
+                }
+            ]
+        },
+        "YANETH MUÑIZ": {
+            "ALVARADO MONTALVO CLAUDIA LIZETH": [
+                {
+                    "login": "AUT-TAM-11",
+                    "nombre": "AGUILAR DUANZ JANET ELIZABETH",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/ALVARADO MONTALVO CLAUDIA LIZETH/AUT-TAM-11.png"
+                },
+                {
+                    "login": "AUT-TAM-16",
+                    "nombre": "CRUZ GONZALEZ ALEXANDRA AKETZALLI",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/ALVARADO MONTALVO CLAUDIA LIZETH/AUT-TAM-16.png"
+                },
+                {
+                    "login": "AUT-TAM-10",
+                    "nombre": "HERNANDEZ HERNANDEZ BENITA",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/ALVARADO MONTALVO CLAUDIA LIZETH/AUT-TAM-10.png"
+                },
+                {
+                    "login": "MAY-TAM-07",
+                    "nombre": "OCHOA ROMERO JESSICA",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/ALVARADO MONTALVO CLAUDIA LIZETH/MAY-TAM-07.png"
+                },
+                {
+                    "login": "AUT-TAM-14",
+                    "nombre": "SANCHEZ TORRES JUAN CARLOS",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/ALVARADO MONTALVO CLAUDIA LIZETH/AUT-TAM-14.png"
+                },
+                {
+                    "login": "MAY-TAM-06",
+                    "nombre": "SERRANO LARA MARIA GUADALUPE",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/ALVARADO MONTALVO CLAUDIA LIZETH/MAY-TAM-06.png"
+                },
+                {
+                    "login": "MAY-TAM-01",
+                    "nombre": "SOSA HERNANDEZ ANA LIDIA",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/ALVARADO MONTALVO CLAUDIA LIZETH/MAY-TAM-01.png"
+                },
+                {
+                    "login": "AUT-TAM-09",
+                    "nombre": "VENEGAS ESCOBEDO EDITH MONSERRATH",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/ALVARADO MONTALVO CLAUDIA LIZETH/AUT-TAM-09.png"
+                }
+            ],
+            "HERNANDEZ GARCIA YADIRA GEXSABEL": [
+                {
+                    "login": "MAY-SLP-03",
+                    "nombre": "ALVARADO ESCOBEDO ROSA MARIA",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/HERNANDEZ GARCIA YADIRA GEXSABEL/MAY-SLP-03.png"
+                },
+                {
+                    "login": "MAY-TAM-04",
+                    "nombre": "BADILLO MIRELES PATRICIA NOHEMI",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/HERNANDEZ GARCIA YADIRA GEXSABEL/MAY-TAM-04.png"
+                },
+                {
+                    "login": "AUT-SLP-04",
+                    "nombre": "CHAVEZ FIGUEROA JOEL",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/HERNANDEZ GARCIA YADIRA GEXSABEL/AUT-SLP-04.png"
+                },
+                {
+                    "login": "AUT-TAM-15",
+                    "nombre": "MORENO AGUILAR LUIS ARTURO",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/HERNANDEZ GARCIA YADIRA GEXSABEL/AUT-TAM-15.png"
+                },
+                {
+                    "login": "AUT-TAM-06",
+                    "nombre": "PIÑA CRUZ LUIS ALBERTO",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/HERNANDEZ GARCIA YADIRA GEXSABEL/AUT-TAM-06.png"
+                },
+                {
+                    "login": "MAY-TAM-05",
+                    "nombre": "RODRIGUEZ DE LEON JUAN GABRIEL",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/HERNANDEZ GARCIA YADIRA GEXSABEL/MAY-TAM-05.png"
+                },
+                {
+                    "login": "MAY-TAM-08",
+                    "nombre": "RODRIGUEZ HERNANDEZ EVELIN YADIRA",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/HERNANDEZ GARCIA YADIRA GEXSABEL/MAY-TAM-08.png"
+                }
+            ],
+            "MARRUFO ARMENTA ALEXIS DE JESUS": [
+                {
+                    "login": "MAY-MTY-02",
+                    "nombre": "AGUIÑAGA AMAYA CRISTOFHER",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/MARRUFO ARMENTA ALEXIS DE JESUS/MAY-MTY-02.png"
+                },
+                {
+                    "login": "AUT-TAM-19",
+                    "nombre": "ALONSO DIAZ NELDA LAURA",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/MARRUFO ARMENTA ALEXIS DE JESUS/AUT-TAM-19.png"
+                },
+                {
+                    "login": "AUT-NL-13",
+                    "nombre": "CERVANTES MORENO SERGIO GERARDO",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/MARRUFO ARMENTA ALEXIS DE JESUS/AUT-NL-13.png"
+                },
+                {
+                    "login": "AUT-NL-06",
+                    "nombre": "CHAGOYA HERNANDEZ DENISSE ALEJANDRA",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/MARRUFO ARMENTA ALEXIS DE JESUS/AUT-NL-06.png"
+                },
+                {
+                    "login": "MAY-TAM-03",
+                    "nombre": "CRUZ MEDINA EDGAR AURELIO",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/MARRUFO ARMENTA ALEXIS DE JESUS/MAY-TAM-03.png"
+                },
+                {
+                    "login": "AUT-NL-21",
+                    "nombre": "JASSO BRAVO WENDY LORENA",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/MARRUFO ARMENTA ALEXIS DE JESUS/AUT-NL-21.png"
+                },
+                {
+                    "login": "MAY-MTY-01",
+                    "nombre": "LUNA CABRERA MARIA DEL ROSARIO",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/MARRUFO ARMENTA ALEXIS DE JESUS/MAY-MTY-01.png"
+                },
+                {
+                    "login": "AUT-NL-18",
+                    "nombre": "RODRIGUEZ SEGOVIA MARIA GUADALUPE",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/MARRUFO ARMENTA ALEXIS DE JESUS/AUT-NL-18.png"
+                },
+                {
+                    "login": "MAY-MTY-03",
+                    "nombre": "ROMERO CRUZ ANA KAREN",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/MARRUFO ARMENTA ALEXIS DE JESUS/MAY-MTY-03.png"
+                },
+                {
+                    "login": "AUT-NL-02",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/MARRUFO ARMENTA ALEXIS DE JESUS/AUT-NL-02.png"
+                },
+                {
+                    "login": "AUT-NL-12",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/MARRUFO ARMENTA ALEXIS DE JESUS/AUT-NL-12.png"
+                },
+                {
+                    "login": "AUT-TAM-01",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/MARRUFO ARMENTA ALEXIS DE JESUS/AUT-TAM-01.png"
+                }
+            ],
+            "NO APLICA SUPERVISOR": [
+                {
+                    "login": "SUP-TAM-02",
+                    "nombre": "ALVARADO MONTALVO CLAUDIA LIZETH",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/NO APLICA SUPERVISOR/SUP-TAM-02.png"
+                },
+                {
+                    "login": "SUP-TAM-03",
+                    "nombre": "HERNANDEZ GARCIA YADIRA GEXSABEL",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/NO APLICA SUPERVISOR/SUP-TAM-03.png"
+                },
+                {
+                    "login": "SUP-NL-03",
+                    "nombre": "MARRUFO ARMENTA ALEXIS DE JESUS",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/NO APLICA SUPERVISOR/SUP-NL-03.png"
+                },
+                {
+                    "login": "SUP-TOR-01",
+                    "nombre": "RODRIGUEZ GAMEZ ALAN",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/NO APLICA SUPERVISOR/SUP-TOR-01.png"
+                }
+            ],
+            "RODRIGUEZ GAMEZ ALAN": [
+                {
+                    "login": "AUT-COA-06",
+                    "nombre": "CALDERON TERRONES ALEJANDRO",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/RODRIGUEZ GAMEZ ALAN/AUT-COA-06.png"
+                },
+                {
+                    "login": "AUT-COA-07",
+                    "nombre": "HERNANDEZ CAVANZON OSCAR OMAR",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/RODRIGUEZ GAMEZ ALAN/AUT-COA-07.png"
+                },
+                {
+                    "login": "AUT-TOR-02",
+                    "nombre": "MARTINEZ BERNAL SAGRARIO LILIANA",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/RODRIGUEZ GAMEZ ALAN/AUT-TOR-02.png"
+                },
+                {
+                    "login": "AUT-DGO-03",
+                    "nombre": "MARTINEZ MIJARES JESUS GUSTAVO",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/RODRIGUEZ GAMEZ ALAN/AUT-DGO-03.png"
+                },
+                {
+                    "login": "AUT-DGO-04",
+                    "nombre": "MEDRANO GUEVARA BASILIA CLAUDIA",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/RODRIGUEZ GAMEZ ALAN/AUT-DGO-04.png"
+                },
+                {
+                    "login": "AUT-MUL-46",
+                    "nombre": "MONTOYA ARREOLA HOMERO",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/RODRIGUEZ GAMEZ ALAN/AUT-MUL-46.png"
+                },
+                {
+                    "login": "AUT-DGO-02",
+                    "nombre": "MORALES HERRERA ABEL",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/RODRIGUEZ GAMEZ ALAN/AUT-DGO-02.png"
+                },
+                {
+                    "login": "AUT-DGO-01",
+                    "nombre": "PARRA MIRANDA JAVIER FRANCISCO",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/RODRIGUEZ GAMEZ ALAN/AUT-DGO-01.png"
+                },
+                {
+                    "login": "AUT-TOR-01",
+                    "nombre": "VACANTE",
+                    "ruta_grafico": "Resumenes_ALL/A2/YANETH MUÑIZ/RODRIGUEZ GAMEZ ALAN/AUT-TOR-01.png"
+                }
+            ]
+        }
+    }
+}

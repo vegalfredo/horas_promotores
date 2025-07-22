@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+:root {
+    --color-background: #3d3d3d; /* Fondo gris oscuro */
+    --color-container: #f5f5dc; /* Blanco Hueso (Beige) */
+    --color-primary: #c8102e; /* Tono rojo Mars */
+    --color-text: #2c2c2c;     /* Texto oscuro para contraste con fondo claro */
+    --color-text-muted: #666;
+    --color-border: #ccc;
+    --color-input-bg: #fff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--color-background);
+    color: var(--color-text);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.hidden {
+    display: none !important;
+}
+
+/* --- Estilos del Login (ahora con fondo claro) --- */
+#login-container {
+    width: 100%;
+    max-width: 400px;
+}
+
+.login-box {
+    background-color: var(--color-container);
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+.login-box h1 {
+    margin-bottom: 10px;
+    color: var(--color-primary);
+}
+
+.login-box p {
+    margin-bottom: 30px;
+    color: var(--color-text-muted);
+}
+
+#login-form input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid var(--color-border);
+    background-color: var(--color-input-bg);
+    color: var(--color-text);
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+#login-form button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    background-color: var(--color-primary);
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#login-form button:hover {
+    background-color: #a20c24;
+}
+
+.error-text {
+    color: var(--color-primary);
+    margin-top: 15px;
+    height: 20px;
+}
+
+/* --- Estilos del Contenedor Principal (ahora con fondo claro) --- */
+#main-container {
+    width: 90%;
+    max-width: 1200px;
+    background-color: var(--color-container);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+#main-container.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+#main-container header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--color-border);
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+#logout-button {
+    padding: 8px 16px;
+    border: 1px solid var(--color-primary);
+    background-color: transparent;
+    color: var(--color-primary);
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#logout-button:hover {
+    background-color: var(--color-primary);
+    color: white;
+}
+
+.controls {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+.select-wrapper {
+    flex: 1;
+}
+
+.select-wrapper label {
+    display: block;
+    margin-bottom: 8px;
+    color: var(--color-text-muted);
+}
+
+.select-wrapper select {
+    width: 100%;
+    padding: 12px;
+    background-color: var(--color-input-bg);
+    color: var(--color-text);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.select-wrapper select:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+#image-container {
+    margin-top: 20px;
+    text-align: center;
+    min-height: 100px;
+}
+
+#report-image {
+    max-width: 100%;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    background-color: #fff;
+}
+
+#report-image.loaded {
+    opacity: 1;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: scale(0.95); }
+    to { opacity: 1; transform: scale(1); }
+}
