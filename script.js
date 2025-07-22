@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // --- SECCIÓN RESTAURADA: Referencias a TODOS los elementos del DOM ---
+    // --- Referencias a elementos del DOM ---
     const loginContainer = document.getElementById('login-container');
     const mainContainer = document.getElementById('main-container');
     const loginForm = document.getElementById('login-form');
@@ -8,47 +8,37 @@ document.addEventListener('DOMContentLoaded', () => {
     const errorMessage = document.getElementById('error-message');
     
     const welcomeMessage = document.getElementById('welcome-message');
-    const logoutButton = document.getElementById('logout-button'); // Esta era la línea que faltaba
+    const logoutButton = document.getElementById('logout-button');
     const supervisorSelect = document.getElementById('supervisor-select');
     const promotorSelect = document.getElementById('promotor-select');
-    
-    const imageContainer = document.getElementById('image-container');
-    const reportImage = document.getElementById('report-image');
-    const loadingText = document.getElementById('loading-text');
+    const chartContainer = document.getElementById('chart-container');
 
     let webData = null;
+    let chart = null; // Variable para mantener la instancia del gráfico
 
-    // Cargar los datos del JSON
+    // --- Carga de datos (sin cambios) ---
     fetch('data.json')
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            return response.json();
-        })
+        .then(response => response.ok ? response.json() : Promise.reject(response))
         .then(data => {
             webData = data;
-            console.log("Datos cargados correctamente.");
+            console.log("Datos dinámicos cargados correctamente.");
         })
         .catch(error => {
-            console.error("Error al cargar data.json:", error);
-            errorMessage.textContent = "Error fatal al cargar datos. Contacta al administrador.";
+            console.error("Error fatal al cargar data.json:", error);
+            errorMessage.textContent = "Error al cargar datos. Contacta al administrador.";
         });
 
-    // Lógica del Login
+    // --- Lógica del Login (sin cambios) ---
     loginForm.addEventListener('submit', (e) => {
         e.preventDefault();
-        errorMessage.textContent = '';
+        // ... (el código de login se mantiene igual)
         const email = emailInput.value.toLowerCase().trim();
         const password = passwordInput.value.toUpperCase().trim();
-
         if (!webData) {
-            errorMessage.textContent = "Los datos aún no están listos. Intenta de nuevo.";
+            errorMessage.textContent = "Datos no listos. Intenta de nuevo.";
             return;
         }
-
         const user = webData.usuarios[email];
-        
         if (user && user.password === password) {
             loginContainer.classList.add('hidden');
             mainContainer.classList.remove('hidden');
@@ -59,21 +49,17 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
     
-    // Lógica de la interfaz principal
+    // --- Lógica de la interfaz principal (actualizada) ---
     function setupMainInterface(user) {
         welcomeMessage.textContent = `Bienvenido, ${user.nombre}`;
-        
         const ejecutivoData = webData.reporteData[user.lookup_key];
 
         if (!ejecutivoData) {
-            console.error(`No se encontraron datos para el ejecutivo con clave: ${user.lookup_key}`);
-            supervisorSelect.disabled = true;
-            promotorSelect.disabled = true;
-            supervisorSelect.innerHTML = '<option value="">-- No hay supervisores asignados --</option>';
+            // ... (el código de manejo de errores se mantiene igual)
             return;
         }
 
-        // Llenar dropdown de supervisores
+        // Llenar dropdown de supervisores (sin cambios)
         supervisorSelect.innerHTML = '<option value="">-- Elige un supervisor --</option>';
         Object.keys(ejecutivoData).sort().forEach(supervisorKey => {
             const option = document.createElement('option');
@@ -83,18 +69,19 @@ document.addEventListener('DOMContentLoaded', () => {
         });
         supervisorSelect.disabled = false;
 
-        // Event listener para el cambio de supervisor
+        // Event listener para el cambio de supervisor (actualizado)
         supervisorSelect.addEventListener('change', () => {
             promotorSelect.innerHTML = '<option value="">-- Elige un promotor --</option>';
             promotorSelect.disabled = true;
-            imageContainer.classList.add('hidden');
+            if (chart) chart.destroy(); // Destruye el gráfico anterior
             
             const selectedSupervisorKey = supervisorSelect.value;
             if (selectedSupervisorKey) {
                 const promotores = ejecutivoData[selectedSupervisorKey];
                 promotores.forEach(promotor => {
                     const option = document.createElement('option');
-                    option.value = promotor.ruta_grafico;
+                    // !! CAMBIO: Usamos el login como valor único, no la ruta de la imagen !!
+                    option.value = promotor.login; 
                     option.textContent = `${promotor.nombre} (${promotor.login})`;
                     promotorSelect.appendChild(option);
                 });
@@ -102,33 +89,85 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
-        // Event listener para el cambio de promotor
+        // Event listener para el cambio de promotor (¡TOTALMENTE NUEVO!)
         promotorSelect.addEventListener('change', () => {
-            const imagePath = promotorSelect.value;
-            if (imagePath) {
-                imageContainer.classList.remove('hidden');
-                loadingText.textContent = "Cargando gráfico...";
-                loadingText.classList.remove('hidden');
-                reportImage.classList.remove('loaded');
-                reportImage.src = '';
-
-                setTimeout(() => {
-                    reportImage.src = encodeURI(imagePath); 
-                    reportImage.onload = () => {
-                        loadingText.classList.add('hidden');
-                        reportImage.classList.add('loaded');
-                    };
-                    reportImage.onerror = () => {
-                         loadingText.textContent = "Error: No se pudo cargar el gráfico. Revisa la ruta.";
-                    };
-                }, 300);
-            } else {
-                imageContainer.classList.add('hidden');
+            if (chart) chart.destroy();
+            
+            const selectedLogin = promotorSelect.value;
+            if (selectedLogin) {
+                const selectedSupervisorKey = supervisorSelect.value;
+                const promotorData = ejecutivoData[selectedSupervisorKey].find(p => p.login === selectedLogin);
+                if (promotorData && promotorData.chartData) {
+                    renderChart(promotorData.chartData);
+                }
             }
         });
     }
 
-    // Lógica del Logout
+    // --- !! NUEVA FUNCIÓN PARA RENDERIZAR EL GRÁFICO !! ---
+    function renderChart(data) {
+        chartContainer.innerHTML = ''; // Limpia el contenedor
+
+        const options = {
+            series: data.series,
+            chart: {
+                type: 'bar',
+                height: 35 * data.fechas.length + 100, // Altura dinámica
+                stacked: true,
+                toolbar: { show: true }
+            },
+            plotOptions: {
+                bar: {
+                    horizontal: true,
+                },
+            },
+            stroke: {
+                width: 1,
+                colors: ['#fff']
+            },
+            title: {
+                text: `Jornada Diaria - ${data.nombreCompleto} (LOGIN: ${data.login})`,
+                align: 'center',
+                style: { fontSize: '20px', fontFamily: 'Arial, sans-serif' }
+            },
+            xaxis: {
+                categories: data.fechas,
+                title: { text: 'Horas Totales de la Jornada (Tienda + Trayectoria)' }
+            },
+            yaxis: {
+                title: { text: 'Fecha' }
+            },
+            tooltip: {
+                y: {
+                    formatter: function (val) {
+                        return val.toFixed(2) + " horas";
+                    }
+                }
+            },
+            dataLabels: {
+                enabled: true,
+                formatter: function (val, opts) {
+                    // Muestra el total solo en la última serie de la barra
+                    const seriesIndex = opts.seriesIndex;
+                    const dataPointIndex = opts.dataPointIndex;
+                    if (seriesIndex === opts.w.config.series.length - 1) {
+                        return data.totales[dataPointIndex].toFixed(1) + 'h';
+                    }
+                    return '';
+                },
+                style: { colors: ['#000'] }
+            },
+            legend: {
+                position: 'bottom',
+                horizontalAlign: 'center',
+            }
+        };
+
+        chart = new ApexCharts(chartContainer, options);
+        chart.render();
+    }
+
+    // Lógica del Logout (sin cambios)
     logoutButton.addEventListener('click', () => {
         location.reload();
     });

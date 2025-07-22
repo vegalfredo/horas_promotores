@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF--8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Informes por Promotor</title>
     <link rel="stylesheet" href="style.css">
+    <!-- AÑADIMOS LA LIBRERÍA DE GRÁFICOS APEXCHARTS -->
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
 </head>
 <body>
 
-    <!-- Contenedor del Login -->
+    <!-- Contenedor del Login (sin cambios) -->
     <div id="login-container">
         <div class="login-box">
             <h1>Informes por Promotor</h1>
@@ -22,7 +24,7 @@
         </div>
     </div>
 
-    <!-- Contenedor Principal (oculto al inicio) -->
+    <!-- Contenedor Principal (con el cambio clave) -->
     <main id="main-container" class="hidden">
         <header>
             <h1 id="welcome-message">Bienvenido</h1>
@@ -44,9 +46,9 @@
             </div>
         </div>
 
-        <div id="image-container" class="hidden">
-            <p id="loading-text">Cargando gráfico...</p>
-            <img id="report-image" src="" alt="Reporte de Actividad del Promotor">
+        <!-- !! CAMBIO CLAVE: REEMPLAZAMOS EL 'img' POR UN 'div' PARA EL GRÁFICO !! -->
+        <div id="chart-container">
+            <!-- El gráfico se renderizará aquí -->
         </div>
     </main>
 
