@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF--8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Informes por Promotor</title>
+    <title>Portal de Informes</title>
     <link rel="stylesheet" href="style.css">
-    <!-- AÑADIMOS LA LIBRERÍA DE GRÁFICOS APEXCHARTS -->
     <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
 </head>
 <body>
@@ -13,7 +12,7 @@
     <!-- Contenedor del Login (sin cambios) -->
     <div id="login-container">
         <div class="login-box">
-            <h1>Informes por Promotor</h1>
+            <h1>Portal de Informes</h1>
             <p>Acceso para Ejecutivos</p>
             <form id="login-form">
                 <input type="email" id="email" placeholder="Correo electrónico" required>
@@ -24,32 +23,76 @@
         </div>
     </div>
 
-    <!-- Contenedor Principal (con el cambio clave) -->
+    <!-- Contenedor Principal (totalmente reestructurado) -->
     <main id="main-container" class="hidden">
         <header>
             <h1 id="welcome-message">Bienvenido</h1>
             <button id="logout-button">Cerrar Sesión</button>
         </header>
+
+        <!-- Pestañas de Navegación -->
+        <nav class="tabs">
+            <button id="tab-productividad" class="tab-button active">Reporte de Productividad</button>
+            <button id="tab-cumplimiento" class="tab-button">Auditoría de Cumplimiento</button>
+        </nav>
         
-        <div class="controls">
-            <div class="select-wrapper">
-                <label for="supervisor-select">Selecciona un Supervisor:</label>
-                <select id="supervisor-select" disabled>
-                    <option value="">-- Elige un supervisor --</option>
-                </select>
+        <!-- Contenedor para el informe de Productividad (visible por defecto) -->
+        <div id="report-productividad" class="report-content">
+            <div class="controls">
+                <div class="select-wrapper">
+                    <label for="supervisor-select-prod">Selecciona un Supervisor:</label>
+                    <select id="supervisor-select-prod" disabled>
+                        <option value="">-- Elige un supervisor --</option>
+                    </select>
+                </div>
+                <div class="select-wrapper">
+                    <label for="promotor-select-prod">Selecciona un Promotor:</label>
+                    <select id="promotor-select-prod" disabled>
+                        <option value="">-- Elige un promotor --</option>
+                    </select>
+                </div>
             </div>
-            <div class="select-wrapper">
-                <label for="promotor-select">Selecciona un Promotor:</label>
-                <select id="promotor-select" disabled>
-                    <option value="">-- Elige un promotor --</option>
-                </select>
+            <!-- Contenedor de fecha de actualización para Productividad -->
+            <div id="update-date-prod">
+                <span>Última actualización:</span>
+                <span id="update-date-value-prod">--</span>
+            </div>
+            <div id="chart-container" class="output-container">
+                <!-- El gráfico de horas se renderizará aquí -->
+            </div>
+        </div>
+        
+        <!-- Contenedor para el informe de Cumplimiento (oculto por defecto) -->
+        <div id="report-cumplimiento" class="report-content hidden">
+            <div class="controls">
+                <div class="select-wrapper">
+                    <label for="supervisor-select-cump">Selecciona un Supervisor:</label>
+                    <select id="supervisor-select-cump" disabled>
+                        <option value="">-- Elige un supervisor --</option>
+                    </select>
+                </div>
+                <div class="select-wrapper">
+                    <label for="promotor-select-cump">Selecciona un Promotor:</label>
+                    <select id="promotor-select-cump" disabled>
+                        <option value="">-- Elige un promotor --</option>
+                    </select>
+                </div>
+            </div>
+            
+            <!-- Contenedor de fecha de actualización para Cumplimiento -->
+            <div id="update-date-cump">
+                <span>Última actualización:</span>
+                <span id="update-date-value-cump">--</span>
+            </div>
+            
+            <!-- Contenedor para el resumen de KPIs -->
+            <div id="summary-container"></div>
+
+            <div id="table-container" class="output-container">
+                <!-- La tabla de apego a ruta se renderizará aquí -->
             </div>
         </div>
 
-        <!-- !! CAMBIO CLAVE: REEMPLAZAMOS EL 'img' POR UN 'div' PARA EL GRÁFICO !! -->
-        <div id="chart-container">
-            <!-- El gráfico se renderizará aquí -->
-        </div>
     </main>
 
     <script src="script.js"></script>

@@ -2,7 +2,7 @@
 
 :root {
     --color-background: #3d3d3d; /* Fondo gris oscuro */
-    --color-container: #f7f7ed; /* Blanco Hueso (Beige) */
+    --color-container: #ebebe2; /* Blanco Hueso (Beige) */
     --color-primary: #c8102e; /* Tono rojo Mars */
     --color-text: #2c2c2c;     /* Texto oscuro para contraste con fondo claro */
     --color-text-muted: #666;
@@ -22,16 +22,16 @@ body {
     color: var(--color-text);
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start; /* Cambiado a flex-start para que no se centre verticalmente si el contenido es grande */
     min-height: 100vh;
-    padding: 20px;
+    padding: 40px 20px; /* Aumentado el padding vertical */
 }
 
 .hidden {
     display: none !important;
 }
 
-/* --- Estilos del Login (ahora con fondo claro) --- */
+/* --- Estilos del Login --- */
 #login-container {
     width: 100%;
     max-width: 400px;
@@ -90,10 +90,10 @@ body {
     height: 20px;
 }
 
-/* --- Estilos del Contenedor Principal (ahora con fondo claro) --- */
+/* --- Estilos del Contenedor Principal --- */
 #main-container {
-    width: 90%;
-    max-width: 1200px;
+    width: 95%; /* Aumentado el ancho para los nuevos informes */
+    max-width: 1400px; /* Aumentado el ancho máximo */
     background-color: var(--color-container);
     padding: 30px;
     border-radius: 8px;
@@ -114,7 +114,7 @@ body {
     align-items: center;
     border-bottom: 1px solid var(--color-border);
     padding-bottom: 20px;
-    margin-bottom: 30px;
+    margin-bottom: 20px; /* Reducido el margen para dar espacio a las pestañas */
 }
 
 #logout-button {
@@ -132,20 +132,57 @@ body {
     color: white;
 }
 
+/* ========================================================== */
+/* ========= NUEVOS ESTILOS PARA LA INTERFAZ MULTI-INFORME ==== */
+/* ========================================================== */
+
+/* --- Estilos para las Pestañas (Tabs) --- */
+.tabs {
+    display: flex;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 30px;
+}
+
+.tab-button {
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--color-text-muted);
+    border-bottom: 3px solid transparent;
+    margin-bottom: -2px;
+    transition: color 0.3s, border-color 0.3s;
+}
+
+.tab-button.active {
+    color: var(--color-primary);
+    border-bottom-color: var(--color-primary);
+}
+
+.tab-button:hover:not(.active) {
+    color: var(--color-text);
+}
+
+/* --- Estilos Generales para Controles y Contenedores --- */
 .controls {
     display: flex;
+    flex-wrap: wrap; /* Para que se adapte en pantallas pequeñas */
     gap: 30px;
     margin-bottom: 30px;
 }
 
 .select-wrapper {
     flex: 1;
+    min-width: 250px; /* Ancho mínimo para cada dropdown */
 }
 
 .select-wrapper label {
     display: block;
     margin-bottom: 8px;
     color: var(--color-text-muted);
+    font-weight: 400;
 }
 
 .select-wrapper select {
@@ -156,6 +193,13 @@ body {
     border: 1px solid var(--color-border);
     border-radius: 4px;
     font-size: 16px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23666%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-13%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2013l128%20127.9c3.6%203.6%207.8%205.4%2013%205.4s9.4-1.8%2013-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-13%200-5-1.9-9.4-5.4-13z%22%2F%3E%3C%2Fsvg%3E');
+    background-repeat: no-repeat;
+    background-position: right 12px center;
+    background-size: 12px;
 }
 
 .select-wrapper select:disabled {
@@ -163,25 +207,101 @@ body {
     cursor: not-allowed;
 }
 
-#image-container {
+.output-container {
     margin-top: 20px;
-    text-align: center;
     min-height: 100px;
+    overflow-x: auto; /* Permite scroll horizontal en gráficos/tablas grandes */
+    padding-bottom: 10px; /* Espacio para la barra de scroll */
 }
 
-#report-image {
-    max-width: 100%;
-    border: 1px solid var(--color-border);
-    border-radius: 4px;
-    opacity: 0;
-    transition: opacity 0.5s ease;
-    background-color: #fff;
+.no-data-message {
+    text-align: center;
+    padding: 50px;
+    font-size: 18px;
+    color: var(--color-text-muted);
 }
 
-#report-image.loaded {
-    opacity: 1;
+/* --- Estilos para el Resumen de KPIs de Cumplimiento --- */
+#summary-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 30px;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #dee2e6;
 }
 
+.summary-box {
+    text-align: center;
+}
+
+.summary-label {
+    display: block;
+    font-size: 14px;
+    color: #6c757d;
+}
+
+.summary-value {
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+    color: var(--color-text);
+}
+
+/* --- Estilos para la Tabla de Apego a Ruta --- */
+.apego-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.apego-table th, .apego-table td {
+    border: 1px solid #ddd;
+    padding: 8px 10px;
+    white-space: nowrap;
+}
+
+.apego-table thead {
+    background-color: #e9ecef;
+    font-weight: 700;
+    position: sticky;
+    top: -1px; /* Para que el borde se vea bien con el scroll */
+    z-index: 10;
+}
+
+/* Estilo para los nuevos encabezados de fecha */
+.date-header {
+    text-align: center;
+    min-width: 60px; /* Ancho mínimo para las columnas de fecha */
+}
+.date-header span {
+    display: block;
+    line-height: 1.2;
+}
+.date-header span:first-child { /* lun, mar... */
+    font-size: 11px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.date-header span:last-child { /* 29/12 */
+    font-weight: 700;
+}
+
+.apego-table td:not(:nth-child(-n+3)) {
+    text-align: center;
+}
+
+.missed-visit {
+    background-color: #fff0f1;
+    color: var(--color-primary);
+    font-weight: bold;
+}
+
+/* --- Animaciones y otros --- */
 @keyframes fadeIn {
     from { opacity: 0; transform: scale(0.95); }
     to { opacity: 1; transform: scale(1); }
