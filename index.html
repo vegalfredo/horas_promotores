@@ -23,23 +23,18 @@
         </div>
     </div>
 
-    <!-- Contenedor Principal (totalmente reestructurado) -->
+    <!-- Contenedor Principal (sin cambios en su estructura interna) -->
     <main id="main-container" class="hidden">
         <header>
             <h1 id="welcome-message">Bienvenido</h1>
             <button id="logout-button">Cerrar Sesión</button>
         </header>
 
-        <!-- Pestañas de Navegación -->
         <nav class="tabs">
             <button id="tab-productividad" class="tab-button active">Reporte de Productividad</button>
-            <!-- ======================================= -->
-            <!--     ↓↓↓ ÚNICO CAMBIO REALIZADO AQUÍ ↓↓↓     -->
-            <!-- ======================================= -->
             <button id="tab-cumplimiento" class="tab-button">Apego a Ruta</button>
         </nav>
         
-        <!-- Contenedor para el informe de Productividad (visible por defecto) -->
         <div id="report-productividad" class="report-content">
             <div class="controls">
                 <div class="select-wrapper">
@@ -55,17 +50,13 @@
                     </select>
                 </div>
             </div>
-            <!-- Contenedor de fecha de actualización para Productividad -->
             <div id="update-date-prod">
                 <span>Última actualización:</span>
                 <span id="update-date-value-prod">--</span>
             </div>
-            <div id="chart-container" class="output-container">
-                <!-- El gráfico de horas se renderizará aquí -->
-            </div>
+            <div id="chart-container" class="output-container"></div>
         </div>
         
-        <!-- Contenedor para el informe de Cumplimiento (oculto por defecto) -->
         <div id="report-cumplimiento" class="report-content hidden">
             <div class="controls">
                 <div class="select-wrapper">
@@ -82,21 +73,29 @@
                 </div>
             </div>
             
-            <!-- Contenedor de fecha de actualización para Cumplimiento -->
             <div id="update-date-cump">
                 <span>Última actualización:</span>
                 <span id="update-date-value-cump">--</span>
             </div>
             
-            <!-- Contenedor para el resumen de KPIs -->
             <div id="summary-container"></div>
 
-            <div id="table-container" class="output-container">
-                <!-- La tabla de apego a ruta se renderizará aquí -->
-            </div>
+            <div id="table-container" class="output-container"></div>
         </div>
 
     </main>
+
+    <!-- === NUEVO: ESTRUCTURA HTML PARA LA VENTANA MODAL === -->
+    <div id="modal-container" class="modal">
+        <div class="modal-content">
+            <span class="modal-close-button">×</span>
+            <h2>Visitas Fuera de Ruta</h2>
+            <div id="modal-table-container">
+                <!-- La tabla con las visitas se insertará aquí con JS -->
+            </div>
+        </div>
+    </div>
+
 
     <script src="script.js"></script>
 </body>

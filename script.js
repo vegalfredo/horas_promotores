@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // --- Referencias a elementos del DOM (sin cambios) ---
+    // === Referencias al DOM (sin cambios) ===
     const loginContainer = document.getElementById('login-container');
     const mainContainer = document.getElementById('main-container');
     const loginForm = document.getElementById('login-form');
@@ -19,6 +19,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const promotorSelectCump = document.getElementById('promotor-select-cump');
     const summaryContainer = document.getElementById('summary-container');
     const tableContainer = document.getElementById('table-container');
+    const modalContainer = document.getElementById('modal-container');
+    const modalCloseButton = document.querySelector('.modal-close-button');
+    const modalTableContainer = document.getElementById('modal-table-container');
 
     let webData = null;
     let chart = null;
@@ -164,7 +167,7 @@ document.addEventListener('DOMContentLoaded', () => {
         chart.render();
     }
 
-    // --- FUNCIÓN DE RENDERIZADO DE TABLA "APEGO A RUTA" (LÓGICA CORREGIDA) ---
+    // --- FUNCIÓN DE RENDERIZADO DE TABLA "APEGO A RUTA" (sin cambios) ---
     function renderApegoTable(data) {
         summaryContainer.innerHTML = '';
         tableContainer.innerHTML = '';
@@ -188,7 +191,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 <span class="summary-label">Apego:</span>
                 <span class="summary-value">${summary.apego || '0.0%'}</span>
             </div>
+            <div class="summary-box clickable" id="fuera-de-ruta-btn">
+                <span class="summary-label">Fuera de Ruta:</span>
+                <span class="summary-value">${summary.fueraDeRuta || 0}</span>
+            </div>
         `;
+        
+        document.getElementById('fuera-de-ruta-btn').addEventListener('click', () => {
+            showFueraDeRutaModal(data.visitasFueraDeRuta || []);
+        });
 
         const table = document.createElement('table');
         table.className = 'apego-table';
@@ -196,8 +207,6 @@ document.addEventListener('DOMContentLoaded', () => {
         const tbody = table.createTBody();
         const headerRow = thead.insertRow();
         
-        // --- CONSTRUCCIÓN DE CABECERAS ---
-        // 1. Encabezados fijos (usando data_keys para asegurar consistencia)
         const fixedHeaders = data.data_keys.slice(0, 3);
         fixedHeaders.forEach(text => {
             const th = document.createElement('th');
@@ -205,7 +214,6 @@ document.addEventListener('DOMContentLoaded', () => {
             headerRow.appendChild(th);
         });
         
-        // 2. Encabezados de fechas (leídos desde la estructura 'headers' del JSON)
         data.headers.forEach(headerObj => {
             const th = document.createElement('th');
             th.className = 'date-header';
@@ -213,15 +221,12 @@ document.addEventListener('DOMContentLoaded', () => {
             headerRow.appendChild(th);
         });
 
-        // --- LLENAR EL CUERPO DE LA TABLA ---
-        // Iteramos sobre las filas y luego sobre `data_keys` para asegurar el orden correcto de las celdas
         data.rows.forEach(rowData => {
             const row = tbody.insertRow();
             data.data_keys.forEach(key => {
                 const cell = row.insertCell();
                 const value = rowData[key] !== undefined && rowData[key] !== null ? rowData[key] : '';
                 cell.textContent = value;
-                // Aplicar clase si la visita se marcó como perdida (00:00)
                 if (value === '00:00') { 
                     cell.classList.add('missed-visit'); 
                 }
@@ -230,6 +235,42 @@ document.addEventListener('DOMContentLoaded', () => {
 
         tableContainer.appendChild(table);
     }
+
+    // === MODIFICADO: FUNCIÓN PARA MOSTRAR EL MODAL CON VISITAS FUERA DE RUTA ===
+    function showFueraDeRutaModal(visits) {
+        if (!visits || visits.length === 0) {
+            modalTableContainer.innerHTML = '<p class="no-data-message">No se encontraron visitas fuera de ruta.</p>';
+        } else {
+            // Se añaden las nuevas columnas a la tabla del modal
+            let tableHTML = '<table class="apego-table"><thead><tr><th>Fecha</th><th>Entrada</th><th>Salida</th><th>Duración</th><th>Folio</th><th>Cadena</th><th>Sucursal</th><th>Motivo</th></tr></thead><tbody>';
+            visits.forEach(visit => {
+                tableHTML += `<tr>
+                    <td>${visit.Fecha}</td>
+                    <td>${visit.Entrada}</td>
+                    <td>${visit.Salida}</td>
+                    <td>${visit.Duracion}</td>
+                    <td>${visit.Folio}</td>
+                    <td>${visit.Cadena}</td>
+                    <td>${visit.Sucursal}</td>
+                    <td>${visit.Motivo}</td>
+                </tr>`;
+            });
+            tableHTML += '</tbody></table>';
+            modalTableContainer.innerHTML = tableHTML;
+        }
+        modalContainer.style.display = 'flex';
+    }
+
+    // --- Lógica para cerrar el modal (sin cambios) ---
+    modalCloseButton.addEventListener('click', () => {
+        modalContainer.style.display = 'none';
+    });
+    
+    window.addEventListener('click', (event) => {
+        if (event.target === modalContainer) {
+            modalContainer.style.display = 'none';
+        }
+    });
     
     // --- Logout (sin cambios) ---
     logoutButton.addEventListener('click', () => location.reload());
