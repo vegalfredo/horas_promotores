@@ -1,27 +1,20 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // --- Referencias a elementos del DOM ---
+    // --- Referencias a elementos del DOM (sin cambios) ---
     const loginContainer = document.getElementById('login-container');
     const mainContainer = document.getElementById('main-container');
     const loginForm = document.getElementById('login-form');
     const emailInput = document.getElementById('email');
     const passwordInput = document.getElementById('password');
     const errorMessage = document.getElementById('error-message');
-    
     const welcomeMessage = document.getElementById('welcome-message');
     const logoutButton = document.getElementById('logout-button');
-    
-    // Pestañas y contenedores de informes
     const tabProductividad = document.getElementById('tab-productividad');
     const tabCumplimiento = document.getElementById('tab-cumplimiento');
     const reportProductividad = document.getElementById('report-productividad');
     const reportCumplimiento = document.getElementById('report-cumplimiento');
-
-    // Controles y salidas de Productividad
     const supervisorSelectProd = document.getElementById('supervisor-select-prod');
     const promotorSelectProd = document.getElementById('promotor-select-prod');
     const chartContainer = document.getElementById('chart-container');
-    
-    // Controles y salidas de Cumplimiento
     const supervisorSelectCump = document.getElementById('supervisor-select-cump');
     const promotorSelectCump = document.getElementById('promotor-select-cump');
     const summaryContainer = document.getElementById('summary-container');
@@ -30,48 +23,25 @@ document.addEventListener('DOMContentLoaded', () => {
     let webData = null;
     let chart = null;
 
-    // --- Función para actualizar fecha de actualización ---
-    function updateLastUpdateDate(reportType = 'both') {
-        const now = new Date();
-        const formattedDate = now.toLocaleString('es-MX', {
-            year: 'numeric',
-            month: '2-digit',
-            day: '2-digit',
-            hour: '2-digit',
-            minute: '2-digit',
-            timeZone: 'America/Mexico_City'
-        });
-        
-        if (reportType === 'productividad' || reportType === 'both') {
-            const prodElement = document.getElementById('update-date-value-prod');
-            if (prodElement) {
-                prodElement.textContent = formattedDate;
-            }
-        }
-        
-        if (reportType === 'cumplimiento' || reportType === 'both') {
-            const cumpElement = document.getElementById('update-date-value-cump');
-            if (cumpElement) {
-                cumpElement.textContent = formattedDate;
-            }
-        }
-    }
-
-    // --- Carga de datos ---
+    // --- Carga de datos (sin cambios) ---
     fetch('data.json')
         .then(resp => resp.ok ? resp.json() : Promise.reject(resp))
         .then(data => { 
             webData = data;
             console.log("Datos unificados cargados correctamente:", webData);
-            // Actualizar fecha inicial al cargar los datos
-            updateLastUpdateDate();
+            if (webData && webData.fechaActualizacion) {
+                const dateElementProd = document.getElementById('update-date-value-prod');
+                const dateElementCump = document.getElementById('update-date-value-cump');
+                if (dateElementProd) dateElementProd.textContent = webData.fechaActualizacion;
+                if (dateElementCump) dateElementCump.textContent = webData.fechaActualizacion;
+            }
         })
         .catch(err => {
             console.error("Error al cargar data.json:", err);
             errorMessage.textContent = "Error al cargar datos. Contacta al administrador.";
         });
 
-    // --- Login ---
+    // --- Login (sin cambios) ---
     loginForm.addEventListener('submit', e => {
         e.preventDefault();
         const email = emailInput.value.toLowerCase().trim();
@@ -88,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    // --- Lógica de Pestañas ---
+    // --- Lógica de Pestañas (sin cambios) ---
     tabProductividad.addEventListener('click', () => switchTab('productividad'));
     tabCumplimiento.addEventListener('click', () => switchTab('cumplimiento'));
 
@@ -106,32 +76,24 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // --- Configuración de la Interfaz Principal ---
+    // --- Configuración de la Interfaz Principal (sin cambios) ---
     function setupMainInterface(user) {
         welcomeMessage.textContent = `Bienvenido, ${user.nombre}`;
-        
-        // Obtenemos los datos de ambos informes para el ejecutivo logueado
         const ejecutivoDataProd = webData.reporteData.productividad[user.lookup_key] || {};
         const ejecutivoDataCump = webData.reporteData.cumplimiento[user.lookup_key] || {};
-
-        console.log("Datos ejecutivo cumplimiento:", ejecutivoDataCump);
-
-        // Configurar los dropdowns para cada informe
         setupDropdowns('prod', ejecutivoDataProd, supervisorSelectProd, promotorSelectProd, renderChart);
         setupDropdowns('cump', ejecutivoDataCump, supervisorSelectCump, promotorSelectCump, renderApegoTable);
     }
 
-    // --- Función Genérica para Configurar Dropdowns ---
+    // --- Función Genérica para Configurar Dropdowns (sin cambios) ---
     function setupDropdowns(type, ejecutivoData, supervisorSelect, promotorSelect, renderFunction) {
         const supervisores = Object.keys(ejecutivoData).sort();
         supervisorSelect.innerHTML = '<option value="">-- Elige un supervisor --</option>';
-        
         if (supervisores.length === 0) {
             supervisorSelect.disabled = true;
             supervisorSelect.innerHTML = '<option>-- No hay supervisores --</option>';
             return;
         }
-
         supervisorSelect.disabled = false;
         supervisores.forEach(key => {
             const o = document.createElement('option');
@@ -139,18 +101,14 @@ document.addEventListener('DOMContentLoaded', () => {
             o.textContent = key.replace(/_/g, ' ');
             supervisorSelect.appendChild(o);
         });
-
         supervisorSelect.addEventListener('change', () => {
             promotorSelect.innerHTML = '<option value="">-- Elige un promotor --</option>';
             promotorSelect.disabled = true;
-            
-            // Limpiar el área de visualización correspondiente
             if (type === 'prod' && chart) chart.destroy();
             else if (type === 'cump') {
                 tableContainer.innerHTML = '';
                 summaryContainer.innerHTML = '';
             }
-            
             const promotores = ejecutivoData[supervisorSelect.value] || [];
             promotores.forEach(p => {
                 const o = document.createElement('option');
@@ -160,21 +118,14 @@ document.addEventListener('DOMContentLoaded', () => {
             });
             promotorSelect.disabled = !promotores.length;
         });
-
         promotorSelect.addEventListener('change', () => {
             const supKey = supervisorSelect.value;
             const selLog = promotorSelect.value;
             const promotor = (ejecutivoData[supKey] || []).find(p => p.login === selLog);
-            
             const dataKey = type === 'prod' ? 'chartData' : 'tableData';
             const outputContainer = type === 'prod' ? chartContainer : tableContainer;
-
-            console.log(`Datos del promotor (${type}):`, promotor);
-
             if (promotor && promotor[dataKey]) {
                 renderFunction(promotor[dataKey]);
-                // Actualizar fecha cuando se carga un reporte específico
-                updateLastUpdateDate(type === 'prod' ? 'productividad' : 'cumplimiento');
             } else {
                 outputContainer.innerHTML = '<p class="no-data-message">No hay datos de actividad para mostrar.</p>';
                 if (type === 'cump') summaryContainer.innerHTML = '';
@@ -182,7 +133,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // --- FUNCIÓN DE RENDERIZADO: Gráfico de Productividad ---
+    // --- FUNCIÓN DE RENDERIZADO: Gráfico de Productividad (sin cambios) ---
     function renderChart(data) {
         chartContainer.innerHTML = '';
         const pastelColors = ['#007bff','#28a745','#ffc107','#dc3545','#6f42c1','#fd7e14','#20c997','#6610f2','#e83e8c','#17a2b8'];
@@ -213,100 +164,65 @@ document.addEventListener('DOMContentLoaded', () => {
         chart.render();
     }
 
-    // --- FUNCIÓN DE RENDERIZADO CORREGIDA: Tabla de Cumplimiento ---
+    // --- FUNCIÓN DE RENDERIZADO DE TABLA "APEGO A RUTA" (LÓGICA CORREGIDA) ---
     function renderApegoTable(data) {
-        console.log("Datos recibidos en renderApegoTable:", data);
-        
         summaryContainer.innerHTML = '';
         tableContainer.innerHTML = '';
         
-        if (!data || !data.rows || data.rows.length === 0) {
+        if (!data || !data.rows || !data.headers || !data.data_keys) {
             tableContainer.innerHTML = '<p class="no-data-message">No hay datos de apego a ruta para este promotor.</p>';
             return;
         }
 
-        // CALCULAR CORRECTAMENTE LOS TOTALES
-        let programadasTotal = 0;
-        let realizadasTotal = 0;
-
-        // Recorrer todas las filas para calcular los totales correctos
-        data.rows.forEach(row => {
-            // Contar las visitas programadas (cualquier día que no sea vacío en el plan original)
-            data.data_keys.forEach((key, index) => {
-                if (index >= 3) { // Saltar FOLIO, CADENA, NOMBRE TIENDA
-                    const valor = row[key];
-                    if (valor && valor !== '' && valor !== '0:00') {
-                        programadasTotal++; // Cada celda con datos es una visita programada
-                        if (valor !== 'Sin visita') {
-                            realizadasTotal++; // Solo contar si tiene hora real
-                        }
-                    }
-                }
-            });
-        });
-
-        // Si los totales siguen mal, usar datos del summary como fallback pero recalcular
         const summary = data.summary || {};
-        if (programadasTotal === 0 && summary.programadas) {
-            programadasTotal = parseInt(summary.programadas) || 0;
-        }
-        if (realizadasTotal === 0 && summary.realizadas) {
-            realizadasTotal = parseInt(summary.realizadas) || 0;
-        }
-
-        const apegoCalculado = programadasTotal > 0 ? ((realizadasTotal / programadasTotal) * 100).toFixed(1) + '%' : '0.0%';
-
-        console.log(`Totales recalculados: Programadas: ${programadasTotal}, Realizadas: ${realizadasTotal}, Apego: ${apegoCalculado}`);
-
-        // Mostrar los totales corregidos
         summaryContainer.innerHTML = `
             <div class="summary-box">
                 <span class="summary-label">Programadas:</span>
-                <span class="summary-value">${programadasTotal}</span>
+                <span class="summary-value">${summary.programadas || 0}</span>
             </div>
             <div class="summary-box">
                 <span class="summary-label">Realizadas:</span>
-                <span class="summary-value">${realizadasTotal}</span>
+                <span class="summary-value">${summary.realizadas || 0}</span>
             </div>
             <div class="summary-box">
                 <span class="summary-label">Apego:</span>
-                <span class="summary-value">${apegoCalculado}</span>
+                <span class="summary-value">${summary.apego || '0.0%'}</span>
             </div>
         `;
 
-        // Crear la tabla
         const table = document.createElement('table');
         table.className = 'apego-table';
         const thead = table.createTHead();
-        const headerRow1 = thead.insertRow();
+        const tbody = table.createTBody();
+        const headerRow = thead.insertRow();
         
-        // Headers fijos
-        ['FOLIO', 'CADENA', 'NOMBRE TIENDA'].forEach(text => {
+        // --- CONSTRUCCIÓN DE CABECERAS ---
+        // 1. Encabezados fijos (usando data_keys para asegurar consistencia)
+        const fixedHeaders = data.data_keys.slice(0, 3);
+        fixedHeaders.forEach(text => {
             const th = document.createElement('th');
-            th.rowSpan = 2; 
-            th.textContent = text; 
-            headerRow1.appendChild(th);
+            th.textContent = text.replace(/_/g, ' ');
+            headerRow.appendChild(th);
         });
         
-        // Headers de fechas - MEJORAR FORMATO
-        data.headers.slice(3).forEach(headerObj => {
+        // 2. Encabezados de fechas (leídos desde la estructura 'headers' del JSON)
+        data.headers.forEach(headerObj => {
             const th = document.createElement('th');
             th.className = 'date-header';
-            // Mejorar el formato de las fechas
-            const fecha = headerObj.header || '';
-            const dia = headerObj.subHeader || '';
-            th.innerHTML = `<span>${dia}</span><span>${fecha}</span>`;
-            headerRow1.appendChild(th);
+            th.innerHTML = `<span>${headerObj.subHeader || ''}</span><span>${headerObj.header || ''}</span>`;
+            headerRow.appendChild(th);
         });
 
-        const tbody = table.createTBody();
+        // --- LLENAR EL CUERPO DE LA TABLA ---
+        // Iteramos sobre las filas y luego sobre `data_keys` para asegurar el orden correcto de las celdas
         data.rows.forEach(rowData => {
             const row = tbody.insertRow();
             data.data_keys.forEach(key => {
                 const cell = row.insertCell();
-                const value = rowData[key] || '';
+                const value = rowData[key] !== undefined && rowData[key] !== null ? rowData[key] : '';
                 cell.textContent = value;
-                if (value === '0:00' || value === 'Sin visita') { 
+                // Aplicar clase si la visita se marcó como perdida (00:00)
+                if (value === '00:00') { 
                     cell.classList.add('missed-visit'); 
                 }
             });
@@ -315,6 +231,6 @@ document.addEventListener('DOMContentLoaded', () => {
         tableContainer.appendChild(table);
     }
     
-    // --- Logout ---
+    // --- Logout (sin cambios) ---
     logoutButton.addEventListener('click', () => location.reload());
 });
