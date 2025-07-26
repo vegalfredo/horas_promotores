@@ -9,7 +9,7 @@
 </head>
 <body>
 
-    <!-- Contenedor del Login (sin cambios) -->
+    <!-- Contenedor del Login -->
     <div id="login-container">
         <div class="login-box">
             <h1>Portal de Informes</h1>
@@ -23,7 +23,7 @@
         </div>
     </div>
 
-    <!-- Contenedor Principal (sin cambios en su estructura interna) -->
+    <!-- Contenedor Principal -->
     <main id="main-container" class="hidden">
         <header>
             <h1 id="welcome-message">Bienvenido</h1>
@@ -35,53 +35,52 @@
             <button id="tab-cumplimiento" class="tab-button">Apego a Ruta</button>
         </nav>
         
+        <!-- Pestaña de Productividad -->
         <div id="report-productividad" class="report-content">
             <div class="controls">
                 <div class="select-wrapper">
                     <label for="supervisor-select-prod">Selecciona un Supervisor:</label>
-                    <select id="supervisor-select-prod" disabled>
-                        <option value="">-- Elige un supervisor --</option>
-                    </select>
+                    <select id="supervisor-select-prod" disabled><option>-- Elige --</option></select>
                 </div>
                 <div class="select-wrapper">
                     <label for="promotor-select-prod">Selecciona un Promotor:</label>
-                    <select id="promotor-select-prod" disabled>
-                        <option value="">-- Elige un promotor --</option>
-                    </select>
+                    <select id="promotor-select-prod" disabled><option>-- Elige --</option></select>
                 </div>
             </div>
-            <div id="update-date-prod">
+            <div class="update-date">
                 <span>Última actualización:</span>
                 <span id="update-date-value-prod">--</span>
             </div>
             <div id="chart-container" class="output-container"></div>
         </div>
         
+        <!-- Pestaña de Apego a Ruta -->
         <div id="report-cumplimiento" class="report-content hidden">
             <div class="controls">
                 <div class="select-wrapper">
                     <label for="supervisor-select-cump">Selecciona un Supervisor:</label>
-                    <select id="supervisor-select-cump" disabled>
-                        <option value="">-- Elige un supervisor --</option>
-                    </select>
+                    <select id="supervisor-select-cump" disabled><option>-- Elige --</option></select>
                 </div>
                 <div class="select-wrapper">
                     <label for="promotor-select-cump">Selecciona un Promotor:</label>
-                    <select id="promotor-select-cump" disabled>
-                        <option value="">-- Elige un promotor --</option>
-                    </select>
+                    <select id="promotor-select-cump" disabled><option>-- Elige --</option></select>
                 </div>
             </div>
             
-            <div id="update-date-cump">
-                <span>Última actualización:</span>
-                <span id="update-date-value-cump">--</span>
+            <div class="summary-area">
+                <div class="update-date">
+                    <span>Última actualización:</span>
+                    <span id="update-date-value-cump">--</span>
+                </div>
+                <div id="summary-container"></div>
+                <div id="leyenda-btn" class="info-icon" title="Ver leyenda de incidencias">i</div>
             </div>
             
-            <!-- === MODIFICADO: Contenedor para KPIs y botón de leyenda === -->
-            <div class="summary-wrapper">
-                <div id="summary-container"></div>
-                <div id="nomenclatura-btn" class="info-icon" title="Ver leyenda de incidencias">i</div>
+            <!-- Botón flotante para leyendas -->
+            <div class="leyenda-floating-btn">
+                <button id="toggle-leyendas-btn" class="floating-btn" title="Mostrar Leyendas">
+                    📋
+                </button>
             </div>
 
             <div id="table-container" class="output-container"></div>
@@ -89,20 +88,40 @@
     </main>
 
     <!-- Modal para Visitas Fuera de Ruta -->
-    <div id="modal-container" class="modal">
+    <div id="modal-fueraderuta-container" class="modal">
         <div class="modal-content">
             <span class="modal-close-button">×</span>
-            <h2 id="modal-title">Visitas Fuera de Ruta</h2>
-            <div id="modal-table-container"></div>
+            <h2 id="modal-fueraderuta-title">Visitas Fuera de Ruta</h2>
+            <div id="modal-fueraderuta-table-container"></div>
         </div>
     </div>
 
-    <!-- === NUEVO: Modal para la Leyenda de Nomenclaturas === -->
-    <div id="modal-nomenclatura-container" class="modal">
-        <div class="modal-content">
+    <!-- Modal para Leyendas -->
+    <div id="modal-leyenda-container" class="modal">
+        <div class="modal-content wide">
             <span class="modal-close-button">×</span>
-            <h2 id="modal-nomenclatura-title">Leyenda de Incidencias</h2>
-            <div id="modal-nomenclatura-table-container"></div>
+            <h2>Leyendas del Reporte</h2>
+            <div id="modal-leyenda-content"></div>
+        </div>
+    </div>
+
+    <!-- Pop-up flotante para Leyendas -->
+    <div id="leyendas-popup" class="leyendas-popup hidden">
+        <div class="leyendas-popup-content">
+            <div class="leyendas-popup-header">
+                <h3>📋 Leyendas del Reporte</h3>
+                <button id="close-leyendas-popup" class="close-popup-btn">×</button>
+            </div>
+            <div class="leyendas-popup-body">
+                <div class="leyenda-seccion">
+                    <h4>📋 Catálogo de Incidencias</h4>
+                    <div id="leyenda-incidencias" class="leyenda-grid"></div>
+                </div>
+                <div class="leyenda-seccion">
+                    <h4>🎨 Colores por Estatus</h4>
+                    <div id="leyenda-estatus" class="leyenda-grid"></div>
+                </div>
+            </div>
         </div>
     </div>
 
