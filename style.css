@@ -147,6 +147,32 @@ body {
     display: flex;
     border-bottom: 2px solid #ddd;
     margin-bottom: 30px;
+    list-style: none;
+    padding: 0;
+    justify-content: center;
+}
+
+.tab {
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--color-text-muted);
+    border-bottom: 3px solid transparent;
+    margin-bottom: -2px;
+    transition: color 0.3s, border-color 0.3s;
+    list-style: none;
+}
+
+.tab.active {
+    color: var(--color-primary);
+    border-bottom-color: var(--color-primary);
+}
+
+.tab:hover:not(.active) {
+    color: var(--color-text);
 }
 
 .tab-button {
@@ -169,6 +195,15 @@ body {
 
 .tab-button:hover:not(.active) {
     color: var(--color-text);
+}
+
+/* --- Estilos para Contenedores de Pestañas --- */
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
 }
 
 /* --- Estilos Generales para Controles y Contenedores --- */
@@ -444,7 +479,8 @@ body {
 #summary-container {
     display: flex;
     justify-content: center;
-    gap: 30px;
+    flex-wrap: wrap;
+    gap: 20px;
     margin-bottom: 30px;
     padding: 15px;
     background-color: #f8f9fa;
@@ -454,6 +490,9 @@ body {
 
 .summary-box {
     text-align: center;
+    min-width: 120px;
+    flex: 1;
+    max-width: 150px;
 }
 
 .summary-label {
@@ -655,4 +694,42 @@ body {
     color: var(--color-text);
     border-bottom: 2px solid var(--color-border);
     padding-bottom: 10px;
+}
+
+/* Resumen Ejecutivo */
+#contenido-resumen {
+  padding: 30px 10px 10px 10px;
+  background: #fafbfc;
+  min-height: 400px;
+}
+#resumen-ejecutivo-chart {
+  margin-bottom: 30px;
+}
+.tabla-resumen-ejecutivo {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 auto 30px auto;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+.tabla-resumen-ejecutivo th, .tabla-resumen-ejecutivo td {
+  border: 1px solid #e1e4e8;
+  padding: 8px 12px;
+  text-align: center;
+  font-size: 1rem;
+}
+.tabla-resumen-ejecutivo th {
+  background: #f5f6fa;
+  color: #2c3e50;
+  font-weight: 600;
+}
+.tabla-resumen-ejecutivo tr.fila-total {
+    background-color: #1e3a8a;  /* Fondo azul marino */
+    color: white;  /* Letras blancas */
+    font-weight: bold;
+}
+
+.tabla-resumen-ejecutivo tr.fila-total td {
+    color: white;  /* Asegurar que todas las celdas tengan letras blancas */
+    font-weight: bold;
 }

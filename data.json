@@ -86944,7 +86944,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 24,
+                "justificadas": 3,
                 "apego": "85.7%",
+                "apegoConJustificadas": "96.4%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -87445,7 +87447,9 @@
               "summary": {
                 "programadas": 53,
                 "realizadas": 33,
+                "justificadas": 7,
                 "apego": "62.3%",
+                "apegoConJustificadas": "75.5%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -89380,7 +89384,9 @@
               "summary": {
                 "programadas": 25,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -89977,7 +89983,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 18,
+                "justificadas": 3,
                 "apego": "69.2%",
+                "apegoConJustificadas": "80.8%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -90859,7 +90867,9 @@
               "summary": {
                 "programadas": 56,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -92743,7 +92753,9 @@
               "summary": {
                 "programadas": 29,
                 "realizadas": 19,
+                "justificadas": 6,
                 "apego": "65.5%",
+                "apegoConJustificadas": "86.2%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -93468,7 +93480,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 25,
+                "justificadas": 2,
                 "apego": "89.3%",
+                "apegoConJustificadas": "96.4%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -94193,7 +94207,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -94907,7 +94923,9 @@
               "summary": {
                 "programadas": 25,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -95504,7 +95522,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -96218,7 +96238,9 @@
               "summary": {
                 "programadas": 31,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -96817,7 +96839,9 @@
               "summary": {
                 "programadas": 50,
                 "realizadas": 40,
+                "justificadas": 0,
                 "apego": "80.0%",
+                "apegoConJustificadas": "80.0%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -98595,7 +98619,9 @@
               "summary": {
                 "programadas": 56,
                 "realizadas": 49,
+                "justificadas": 2,
                 "apego": "87.5%",
+                "apegoConJustificadas": "91.1%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -100637,7 +100663,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 24,
+                "justificadas": 2,
                 "apego": "85.7%",
+                "apegoConJustificadas": "92.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -101117,7 +101145,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 24,
+                "justificadas": 5,
                 "apego": "80.0%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -101714,7 +101744,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 25
               },
               "headers": [
@@ -102093,7 +102125,9 @@
               "summary": {
                 "programadas": 27,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -102924,7 +102958,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 21,
+                "justificadas": 5,
                 "apego": "70.0%",
+                "apegoConJustificadas": "86.7%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -103903,7 +103939,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 25,
+                "justificadas": 0,
                 "apego": "96.2%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -104628,7 +104666,9 @@
               "summary": {
                 "programadas": 27,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -105459,7 +105499,9 @@
               "summary": {
                 "programadas": 24,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -105939,7 +105981,9 @@
               "summary": {
                 "programadas": 31,
                 "realizadas": 16,
+                "justificadas": 0,
                 "apego": "51.6%",
+                "apegoConJustificadas": "51.6%",
                 "fueraDeRuta": 7
               },
               "headers": [
@@ -106490,7 +106534,9 @@
               "summary": {
                 "programadas": 29,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -107440,7 +107486,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 46
               },
               "headers": [
@@ -108029,7 +108077,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 57
               },
               "headers": [
@@ -108728,7 +108778,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -108899,7 +108951,9 @@
               "summary": {
                 "programadas": 33,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -109613,7 +109667,9 @@
               "summary": {
                 "programadas": 29,
                 "realizadas": 21,
+                "justificadas": 2,
                 "apego": "72.4%",
+                "apegoConJustificadas": "79.3%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -110348,7 +110404,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 23,
+                "justificadas": 5,
                 "apego": "71.9%",
+                "apegoConJustificadas": "87.5%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -111083,7 +111141,9 @@
               "summary": {
                 "programadas": 27,
                 "realizadas": 22,
+                "justificadas": 3,
                 "apego": "81.5%",
+                "apegoConJustificadas": "92.6%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -111584,7 +111644,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 28,
+                "justificadas": 0,
                 "apego": "77.8%",
+                "apegoConJustificadas": "77.8%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -112449,7 +112511,34 @@
               ]
             }
           }
-        ]
+        ],
+        "resumenEjecutivo": {
+          "supervisores": [
+            {
+              "nombre": "NAVEJAS DELGADILLO LUCIA ESMERALDA",
+              "programadas": 358,
+              "realizadas": 199,
+              "justificadas": 14,
+              "avance_realizadas": 0.56,
+              "avance_total": 0.59
+            },
+            {
+              "nombre": "LANDEROS JIMENEZ VIRIDIANA",
+              "programadas": 353,
+              "realizadas": 119,
+              "justificadas": 21,
+              "avance_realizadas": 0.34,
+              "avance_total": 0.4
+            }
+          ],
+          "total": {
+            "programadas": 711,
+            "realizadas": 318,
+            "justificadas": 35,
+            "avance_realizadas": 0.45,
+            "avance_total": 0.5
+          }
+        }
       },
       "CLARISA_OCHOA": {
         "AGUIRRE_CASTILLO_LAURA_RAMONA": [
@@ -112460,7 +112549,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -113642,7 +113733,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 31,
+                "justificadas": 2,
                 "apego": "91.2%",
+                "apegoConJustificadas": "97.1%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -114367,7 +114460,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 31,
+                "justificadas": 0,
                 "apego": "96.9%",
+                "apegoConJustificadas": "96.9%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -115209,7 +115304,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 29,
+                "justificadas": 4,
                 "apego": "82.9%",
+                "apegoConJustificadas": "94.3%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -115954,7 +116051,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 1,
+                "justificadas": 22,
                 "apego": "3.6%",
+                "apegoConJustificadas": "82.1%",
                 "fueraDeRuta": 6
               },
               "headers": [
@@ -116846,7 +116945,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 30,
+                "justificadas": 1,
                 "apego": "81.1%",
+                "apegoConJustificadas": "83.8%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -117794,7 +117895,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 29,
+                "justificadas": 2,
                 "apego": "90.6%",
+                "apegoConJustificadas": "96.9%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -118529,7 +118632,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -119362,7 +119467,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -119959,7 +120066,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 27,
+                "justificadas": 0,
                 "apego": "96.4%",
+                "apegoConJustificadas": "96.4%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -120684,7 +120793,9 @@
               "summary": {
                 "programadas": 29,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -121281,7 +121392,9 @@
               "summary": {
                 "programadas": 31,
                 "realizadas": 30,
+                "justificadas": 0,
                 "apego": "96.8%",
+                "apegoConJustificadas": "96.8%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -121995,7 +122108,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -122709,7 +122824,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -123306,7 +123423,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 36,
+                "justificadas": 0,
                 "apego": "92.3%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -124373,7 +124492,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 26,
+                "justificadas": 4,
                 "apego": "81.2%",
+                "apegoConJustificadas": "93.8%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -125098,7 +125219,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 26,
+                "justificadas": 4,
                 "apego": "81.2%",
+                "apegoConJustificadas": "93.8%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -125726,7 +125849,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 25,
+                "justificadas": 1,
                 "apego": "89.3%",
+                "apegoConJustificadas": "92.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -126206,7 +126331,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -126686,7 +126813,9 @@
               "summary": {
                 "programadas": 31,
                 "realizadas": 30,
+                "justificadas": 0,
                 "apego": "96.8%",
+                "apegoConJustificadas": "96.8%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -127400,7 +127529,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 27,
+                "justificadas": 2,
                 "apego": "90.0%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -127880,7 +128011,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -128360,7 +128493,9 @@
               "summary": {
                 "programadas": 27,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -128842,7 +128977,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 51
               },
               "headers": [
@@ -129481,7 +129618,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 45
               },
               "headers": [
@@ -130060,7 +130199,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 55
               },
               "headers": [
@@ -130739,7 +130880,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 29
               },
               "headers": [
@@ -131160,7 +131303,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -131874,7 +132019,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 26,
+                "justificadas": 2,
                 "apego": "86.7%",
+                "apegoConJustificadas": "93.3%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -132853,7 +133000,9 @@
               "summary": {
                 "programadas": 33,
                 "realizadas": 22,
+                "justificadas": 0,
                 "apego": "66.7%",
+                "apegoConJustificadas": "66.7%",
                 "fueraDeRuta": 9
               },
               "headers": [
@@ -133775,7 +133924,9 @@
               "summary": {
                 "programadas": 41,
                 "realizadas": 38,
+                "justificadas": 0,
                 "apego": "92.7%",
+                "apegoConJustificadas": "92.7%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -134606,7 +134757,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -135554,7 +135707,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 33,
+                "justificadas": 1,
                 "apego": "89.2%",
+                "apegoConJustificadas": "91.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -136502,7 +136657,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -137450,7 +137607,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 32,
+                "justificadas": 3,
                 "apego": "88.9%",
+                "apegoConJustificadas": "97.2%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -138292,7 +138451,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -139240,7 +139401,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -139947,7 +140110,50 @@
               "visitasFueraDeRuta": []
             }
           }
-        ]
+        ],
+        "resumenEjecutivo": {
+          "supervisores": [
+            {
+              "nombre": "JUAREZ ORTIZ YANETH MARGARITA",
+              "programadas": 238,
+              "realizadas": 134,
+              "justificadas": 11,
+              "avance_realizadas": 0.56,
+              "avance_total": 0.61
+            },
+            {
+              "nombre": "AGUIRRE CASTILLO LAURA RAMONA",
+              "programadas": 265,
+              "realizadas": 151,
+              "justificadas": 31,
+              "avance_realizadas": 0.57,
+              "avance_total": 0.69
+            },
+            {
+              "nombre": "CABRAL SIMENTAL DANIEL",
+              "programadas": 209,
+              "realizadas": 93,
+              "justificadas": 0,
+              "avance_realizadas": 0.44,
+              "avance_total": 0.44
+            },
+            {
+              "nombre": "TORRES SANTIAGO ALFREDO",
+              "programadas": 353,
+              "realizadas": 151,
+              "justificadas": 6,
+              "avance_realizadas": 0.43,
+              "avance_total": 0.44
+            }
+          ],
+          "total": {
+            "programadas": 1065,
+            "realizadas": 529,
+            "justificadas": 48,
+            "avance_realizadas": 0.5,
+            "avance_total": 0.54
+          }
+        }
       },
       "CYNTIA_CASTILLON": {
         "ESTRADA_HERNANDEZ_MIRNA": [
@@ -139958,7 +140164,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 25,
+                "justificadas": 0,
                 "apego": "96.2%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -140830,7 +141038,9 @@
               "summary": {
                 "programadas": 27,
                 "realizadas": 17,
+                "justificadas": 9,
                 "apego": "63.0%",
+                "apegoConJustificadas": "96.3%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -141712,7 +141922,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -142543,7 +142755,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 25,
+                "justificadas": 1,
                 "apego": "89.3%",
+                "apegoConJustificadas": "92.9%",
                 "fueraDeRuta": 6
               },
               "headers": [
@@ -143318,7 +143532,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 19,
+                "justificadas": 3,
                 "apego": "73.1%",
+                "apegoConJustificadas": "84.6%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -143819,7 +144035,9 @@
               "summary": {
                 "programadas": 22,
                 "realizadas": 13,
+                "justificadas": 8,
                 "apego": "59.1%",
+                "apegoConJustificadas": "95.5%",
                 "fueraDeRuta": 8
               },
               "headers": [
@@ -144614,7 +144832,9 @@
               "summary": {
                 "programadas": 33,
                 "realizadas": 23,
+                "justificadas": 6,
                 "apego": "69.7%",
+                "apegoConJustificadas": "87.9%",
                 "fueraDeRuta": 9
               },
               "headers": [
@@ -145419,7 +145639,9 @@
               "summary": {
                 "programadas": 44,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -146250,7 +146472,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 24,
+                "justificadas": 5,
                 "apego": "64.9%",
+                "apegoConJustificadas": "78.4%",
                 "fueraDeRuta": 11
               },
               "headers": [
@@ -147192,7 +147416,9 @@
               "summary": {
                 "programadas": 27,
                 "realizadas": 21,
+                "justificadas": 2,
                 "apego": "77.8%",
+                "apegoConJustificadas": "85.2%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -148054,7 +148280,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -148887,7 +149115,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 20,
+                "justificadas": 6,
                 "apego": "71.4%",
+                "apegoConJustificadas": "92.9%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -149535,7 +149765,9 @@
               "summary": {
                 "programadas": 55,
                 "realizadas": 47,
+                "justificadas": 4,
                 "apego": "85.5%",
+                "apegoConJustificadas": "92.7%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -150951,7 +151183,9 @@
               "summary": {
                 "programadas": 43,
                 "realizadas": 35,
+                "justificadas": 5,
                 "apego": "81.4%",
+                "apegoConJustificadas": "93.0%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -152057,7 +152291,9 @@
               "summary": {
                 "programadas": 31,
                 "realizadas": 21,
+                "justificadas": 3,
                 "apego": "67.7%",
+                "apegoConJustificadas": "77.4%",
                 "fueraDeRuta": 7
               },
               "headers": [
@@ -153076,7 +153312,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 26,
+                "justificadas": 9,
                 "apego": "72.2%",
+                "apegoConJustificadas": "97.2%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -153958,7 +154196,9 @@
               "summary": {
                 "programadas": 52,
                 "realizadas": 41,
+                "justificadas": 4,
                 "apego": "78.8%",
+                "apegoConJustificadas": "86.5%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -155736,7 +155976,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 19,
+                "justificadas": 2,
                 "apego": "73.1%",
+                "apegoConJustificadas": "80.8%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -156471,7 +156713,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 23,
+                "justificadas": 1,
                 "apego": "88.5%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -156962,7 +157206,9 @@
               "summary": {
                 "programadas": 61,
                 "realizadas": 56,
+                "justificadas": 2,
                 "apego": "91.8%",
+                "apegoConJustificadas": "95.1%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -159452,7 +159698,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 25,
+                "justificadas": 5,
                 "apego": "69.4%",
+                "apegoConJustificadas": "83.3%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -160433,7 +160681,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 62
               },
               "headers": [
@@ -161182,7 +161432,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 42
               },
               "headers": [
@@ -161731,7 +161983,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 37
               },
               "headers": [
@@ -162232,7 +162486,9 @@
               "summary": {
                 "programadas": 33,
                 "realizadas": 16,
+                "justificadas": 10,
                 "apego": "48.5%",
+                "apegoConJustificadas": "78.8%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -163114,7 +163370,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 22,
+                "justificadas": 0,
                 "apego": "68.8%",
+                "apegoConJustificadas": "68.8%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -163966,7 +164224,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 19,
+                "justificadas": 1,
                 "apego": "67.9%",
+                "apegoConJustificadas": "71.4%",
                 "fueraDeRuta": 9
               },
               "headers": [
@@ -164771,7 +165031,9 @@
               "summary": {
                 "programadas": 27,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -165602,7 +165864,9 @@
               "summary": {
                 "programadas": 31,
                 "realizadas": 24,
+                "justificadas": 5,
                 "apego": "77.4%",
+                "apegoConJustificadas": "93.5%",
                 "fueraDeRuta": 6
               },
               "headers": [
@@ -166494,7 +166758,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 21,
+                "justificadas": 5,
                 "apego": "60.0%",
+                "apegoConJustificadas": "74.3%",
                 "fueraDeRuta": 8
               },
               "headers": [
@@ -167406,7 +167672,9 @@
               "summary": {
                 "programadas": 31,
                 "realizadas": 24,
+                "justificadas": 5,
                 "apego": "77.4%",
+                "apegoConJustificadas": "93.5%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -168120,7 +168388,9 @@
               "summary": {
                 "programadas": 27,
                 "realizadas": 24,
+                "justificadas": 0,
                 "apego": "88.9%",
+                "apegoConJustificadas": "88.9%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -168885,7 +169155,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 28,
+                "justificadas": 0,
                 "apego": "93.3%",
+                "apegoConJustificadas": "93.3%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -169727,7 +169999,9 @@
               "summary": {
                 "programadas": 31,
                 "realizadas": 22,
+                "justificadas": 0,
                 "apego": "71.0%",
+                "apegoConJustificadas": "71.0%",
                 "fueraDeRuta": 7
               },
               "headers": [
@@ -170505,7 +170779,42 @@
               ]
             }
           }
-        ]
+        ],
+        "resumenEjecutivo": {
+          "supervisores": [
+            {
+              "nombre": "ESTRADA HERNANDEZ MIRNA",
+              "programadas": 328,
+              "realizadas": 167,
+              "justificadas": 34,
+              "avance_realizadas": 0.51,
+              "avance_total": 0.61
+            },
+            {
+              "nombre": "RIVERA VALLEJO LEONARDO",
+              "programadas": 305,
+              "realizadas": 200,
+              "justificadas": 26,
+              "avance_realizadas": 0.66,
+              "avance_total": 0.74
+            },
+            {
+              "nombre": "GUERRERO RICO JOSE ANTONIO",
+              "programadas": 394,
+              "realizadas": 313,
+              "justificadas": 41,
+              "avance_realizadas": 0.79,
+              "avance_total": 0.9
+            }
+          ],
+          "total": {
+            "programadas": 1027,
+            "realizadas": 680,
+            "justificadas": 101,
+            "avance_realizadas": 0.66,
+            "avance_total": 0.76
+          }
+        }
       },
       "DAVID_VELAZQUEZ": {
         "ARRIAGA_MUÑOZ_ELMER_ANTONIO": [
@@ -170516,7 +170825,9 @@
               "summary": {
                 "programadas": 17,
                 "realizadas": 16,
+                "justificadas": 1,
                 "apego": "94.1%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -170890,7 +171201,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -171370,7 +171683,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 25,
+                "justificadas": 0,
                 "apego": "96.2%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -171733,7 +172048,9 @@
               "summary": {
                 "programadas": 23,
                 "realizadas": 17,
+                "justificadas": 2,
                 "apego": "73.9%",
+                "apegoConJustificadas": "82.6%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -172224,7 +172541,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 25,
+                "justificadas": 0,
                 "apego": "96.2%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -172704,7 +173023,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 22,
+                "justificadas": 2,
                 "apego": "84.6%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -173556,7 +173877,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 33,
+                "justificadas": 0,
                 "apego": "94.3%",
+                "apegoConJustificadas": "94.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -174270,7 +174593,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -174750,7 +175075,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 24,
+                "justificadas": 1,
                 "apego": "92.3%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -175241,7 +175568,9 @@
               "summary": {
                 "programadas": 23,
                 "realizadas": 20,
+                "justificadas": 1,
                 "apego": "87.0%",
+                "apegoConJustificadas": "91.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -175838,7 +176167,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -176435,7 +176766,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -176800,7 +177133,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 19,
+                "justificadas": 6,
                 "apego": "73.1%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -177311,7 +177646,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 20,
+                "justificadas": 3,
                 "apego": "76.9%",
+                "apegoConJustificadas": "88.5%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -177822,7 +178159,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 25,
+                "justificadas": 2,
                 "apego": "89.3%",
+                "apegoConJustificadas": "96.4%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -178302,7 +178641,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 25,
+                "justificadas": 3,
                 "apego": "83.3%",
+                "apegoConJustificadas": "93.3%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -178930,7 +179271,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 18,
+                "justificadas": 0,
                 "apego": "60.0%",
+                "apegoConJustificadas": "60.0%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -179548,7 +179891,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 32,
+                "justificadas": 2,
                 "apego": "82.1%",
+                "apegoConJustificadas": "87.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -180613,7 +180958,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 23,
+                "justificadas": 1,
                 "apego": "88.5%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -180976,7 +181323,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 27,
+                "justificadas": 2,
                 "apego": "90.0%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -181456,7 +181805,9 @@
               "summary": {
                 "programadas": 19,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -181819,7 +182170,9 @@
               "summary": {
                 "programadas": 19,
                 "realizadas": 19,
+                "justificadas": 0,
                 "apego": "100.0%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -182182,7 +182535,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 21,
+                "justificadas": 5,
                 "apego": "80.8%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -182810,7 +183165,9 @@
               "summary": {
                 "programadas": 21,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -183175,7 +183532,9 @@
               "summary": {
                 "programadas": 22,
                 "realizadas": 21,
+                "justificadas": 0,
                 "apego": "95.5%",
+                "apegoConJustificadas": "95.5%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -183793,7 +184152,9 @@
               "summary": {
                 "programadas": 20,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -184273,7 +184634,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 25,
+                "justificadas": 2,
                 "apego": "89.3%",
+                "apegoConJustificadas": "96.4%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -184881,7 +185244,9 @@
               "summary": {
                 "programadas": 19,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -185244,7 +185609,9 @@
               "summary": {
                 "programadas": 24,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -185841,7 +186208,9 @@
               "summary": {
                 "programadas": 22,
                 "realizadas": 18,
+                "justificadas": 3,
                 "apego": "81.8%",
+                "apegoConJustificadas": "95.5%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -186235,7 +186604,9 @@
               "summary": {
                 "programadas": 19,
                 "realizadas": 19,
+                "justificadas": 0,
                 "apego": "100.0%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -186619,7 +186990,9 @@
               "summary": {
                 "programadas": 13,
                 "realizadas": 13,
+                "justificadas": 0,
                 "apego": "100.0%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -186865,7 +187238,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 20,
+                "justificadas": 0,
                 "apego": "76.9%",
+                "apegoConJustificadas": "76.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -187345,7 +187720,9 @@
               "summary": {
                 "programadas": 14,
                 "realizadas": 14,
+                "justificadas": 0,
                 "apego": "100.0%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -187591,7 +187968,9 @@
               "summary": {
                 "programadas": 24,
                 "realizadas": 15,
+                "justificadas": 6,
                 "apego": "62.5%",
+                "apegoConJustificadas": "87.5%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -188229,7 +188608,9 @@
               "summary": {
                 "programadas": 24,
                 "realizadas": 21,
+                "justificadas": 2,
                 "apego": "87.5%",
+                "apegoConJustificadas": "95.8%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -188730,7 +189111,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -189203,7 +189586,42 @@
               "visitasFueraDeRuta": []
             }
           }
-        ]
+        ],
+        "resumenEjecutivo": {
+          "supervisores": [
+            {
+              "nombre": "ARRIAGA MUÑOZ ELMER ANTONIO",
+              "programadas": 306,
+              "realizadas": 182,
+              "justificadas": 7,
+              "avance_realizadas": 0.59,
+              "avance_total": 0.62
+            },
+            {
+              "nombre": "RANGEL GARCIA HUGO ENRIQUE",
+              "programadas": 281,
+              "realizadas": 166,
+              "justificadas": 13,
+              "avance_realizadas": 0.59,
+              "avance_total": 0.64
+            },
+            {
+              "nombre": "MUÑOZ AMBROSIO ALAN",
+              "programadas": 320,
+              "realizadas": 229,
+              "justificadas": 24,
+              "avance_realizadas": 0.72,
+              "avance_total": 0.79
+            }
+          ],
+          "total": {
+            "programadas": 907,
+            "realizadas": 577,
+            "justificadas": 44,
+            "avance_realizadas": 0.64,
+            "avance_total": 0.68
+          }
+        }
       },
       "ERENDIRA_MORA": {
         "ANDRADE_PAXTIAN_RUTH_DEL_CARMEN": [
@@ -189214,7 +189632,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 18,
+                "justificadas": 17,
                 "apego": "48.6%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -190396,7 +190816,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 27,
+                "justificadas": 0,
                 "apego": "96.4%",
+                "apegoConJustificadas": "96.4%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -191121,7 +191543,9 @@
               "summary": {
                 "programadas": 24,
                 "realizadas": 23,
+                "justificadas": 0,
                 "apego": "95.8%",
+                "apegoConJustificadas": "95.8%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -191622,7 +192046,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 25,
+                "justificadas": 0,
                 "apego": "96.2%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -192357,7 +192783,9 @@
               "summary": {
                 "programadas": 58,
                 "realizadas": 7,
+                "justificadas": 46,
                 "apego": "12.1%",
+                "apegoConJustificadas": "91.4%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -194709,7 +195137,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 20,
+                "justificadas": 6,
                 "apego": "76.9%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -195189,7 +195619,9 @@
               "summary": {
                 "programadas": 23,
                 "realizadas": 22,
+                "justificadas": 0,
                 "apego": "95.7%",
+                "apegoConJustificadas": "95.7%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -195797,7 +196229,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 26,
+                "justificadas": 0,
                 "apego": "92.9%",
+                "apegoConJustificadas": "92.9%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -196522,7 +196956,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 27,
+                "justificadas": 2,
                 "apego": "90.0%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -197130,7 +197566,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 23,
+                "justificadas": 0,
                 "apego": "88.5%",
+                "apegoConJustificadas": "88.5%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -197641,7 +198079,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 33,
+                "justificadas": 0,
                 "apego": "97.1%",
+                "apegoConJustificadas": "97.1%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -198706,7 +199146,9 @@
               "summary": {
                 "programadas": 43,
                 "realizadas": 37,
+                "justificadas": 6,
                 "apego": "86.0%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -200018,7 +200460,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 31,
+                "justificadas": 0,
                 "apego": "96.9%",
+                "apegoConJustificadas": "96.9%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -200636,7 +201080,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 33,
+                "justificadas": 0,
                 "apego": "94.3%",
+                "apegoConJustificadas": "94.3%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -201274,7 +201720,9 @@
               "summary": {
                 "programadas": 45,
                 "realizadas": 41,
+                "justificadas": 0,
                 "apego": "91.1%",
+                "apegoConJustificadas": "91.1%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -202711,7 +203159,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 32,
+                "justificadas": 3,
                 "apego": "88.9%",
+                "apegoConJustificadas": "97.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -203191,7 +203641,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 25,
+                "justificadas": 0,
                 "apego": "96.2%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -203829,7 +204281,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 31,
+                "justificadas": 0,
                 "apego": "96.9%",
+                "apegoConJustificadas": "96.9%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -204447,7 +204901,9 @@
               "summary": {
                 "programadas": 33,
                 "realizadas": 31,
+                "justificadas": 0,
                 "apego": "93.9%",
+                "apegoConJustificadas": "93.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -205044,7 +205500,9 @@
               "summary": {
                 "programadas": 47,
                 "realizadas": 45,
+                "justificadas": 0,
                 "apego": "95.7%",
+                "apegoConJustificadas": "95.7%",
                 "fueraDeRuta": 6
               },
               "headers": [
@@ -206170,7 +206628,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 37,
+                "justificadas": 0,
                 "apego": "94.9%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -206769,7 +207229,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 24,
+                "justificadas": 7,
                 "apego": "75.0%",
+                "apegoConJustificadas": "96.9%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -207377,7 +207839,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 29,
+                "justificadas": 0,
                 "apego": "85.3%",
+                "apegoConJustificadas": "85.3%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -208025,7 +208489,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 28,
+                "justificadas": 0,
                 "apego": "87.5%",
+                "apegoConJustificadas": "87.5%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -208739,7 +209205,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -209453,7 +209921,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 25,
+                "justificadas": 0,
                 "apego": "96.2%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 7
               },
               "headers": [
@@ -209889,7 +210359,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 30
               },
               "headers": [
@@ -210318,7 +210790,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 50
               },
               "headers": [
@@ -210947,7 +211421,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 49
               },
               "headers": [
@@ -211566,7 +212042,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -211694,7 +212172,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 22
               },
               "headers": [
@@ -212045,7 +212525,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 26,
+                "justificadas": 0,
                 "apego": "86.7%",
+                "apegoConJustificadas": "86.7%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -212642,7 +213124,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 28,
+                "justificadas": 0,
                 "apego": "93.3%",
+                "apegoConJustificadas": "93.3%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -213260,7 +213744,9 @@
               "summary": {
                 "programadas": 33,
                 "realizadas": 28,
+                "justificadas": 0,
                 "apego": "84.8%",
+                "apegoConJustificadas": "84.8%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -213868,7 +214354,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 31,
+                "justificadas": 0,
                 "apego": "88.6%",
+                "apegoConJustificadas": "88.6%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -214603,7 +215091,9 @@
               "summary": {
                 "programadas": 29,
                 "realizadas": 22,
+                "justificadas": 4,
                 "apego": "75.9%",
+                "apegoConJustificadas": "89.7%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -215221,7 +215711,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 34,
+                "justificadas": 1,
                 "apego": "91.9%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -215935,7 +216427,9 @@
               "summary": {
                 "programadas": 52,
                 "realizadas": 49,
+                "justificadas": 0,
                 "apego": "94.2%",
+                "apegoConJustificadas": "94.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -217936,7 +218430,9 @@
               "summary": {
                 "programadas": 44,
                 "realizadas": 40,
+                "justificadas": 0,
                 "apego": "90.9%",
+                "apegoConJustificadas": "90.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -219352,7 +219848,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 22,
+                "justificadas": 11,
                 "apego": "62.9%",
+                "apegoConJustificadas": "94.3%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -219960,7 +220458,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 26,
+                "justificadas": 8,
                 "apego": "72.2%",
+                "apegoConJustificadas": "94.4%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -220793,7 +221293,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 24,
+                "justificadas": 0,
                 "apego": "92.3%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -221401,7 +221903,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -221998,7 +222502,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 24,
+                "justificadas": 0,
                 "apego": "80.0%",
+                "apegoConJustificadas": "80.0%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -222646,7 +223152,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 29,
+                "justificadas": 0,
                 "apego": "96.7%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -223243,7 +223751,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 31,
+                "justificadas": 0,
                 "apego": "96.9%",
+                "apegoConJustificadas": "96.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -223840,7 +224350,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 28,
+                "justificadas": 3,
                 "apego": "87.5%",
+                "apegoConJustificadas": "96.9%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -224331,7 +224843,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 31,
+                "justificadas": 0,
                 "apego": "96.9%",
+                "apegoConJustificadas": "96.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -224811,7 +225325,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -225291,7 +225807,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 29,
+                "justificadas": 2,
                 "apego": "90.6%",
+                "apegoConJustificadas": "96.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -225764,7 +226282,50 @@
               "visitasFueraDeRuta": []
             }
           }
-        ]
+        ],
+        "resumenEjecutivo": {
+          "supervisores": [
+            {
+              "nombre": "MATA GEORGINA SUSI",
+              "programadas": 161,
+              "realizadas": 106,
+              "justificadas": 7,
+              "avance_realizadas": 0.66,
+              "avance_total": 0.7
+            },
+            {
+              "nombre": "ANDRADE PAXTIAN RUTH DEL CARMEN",
+              "programadas": 383,
+              "realizadas": 288,
+              "justificadas": 77,
+              "avance_realizadas": 0.75,
+              "avance_total": 0.95
+            },
+            {
+              "nombre": "CONTRERAS GALAN ALMA GUADALUPE",
+              "programadas": 325,
+              "realizadas": 306,
+              "justificadas": 3,
+              "avance_realizadas": 0.94,
+              "avance_total": 0.95
+            },
+            {
+              "nombre": "SIERRA ESPINOSA LUZ DEL CARMEN",
+              "programadas": 278,
+              "realizadas": 196,
+              "justificadas": 5,
+              "avance_realizadas": 0.71,
+              "avance_total": 0.72
+            }
+          ],
+          "total": {
+            "programadas": 1147,
+            "realizadas": 896,
+            "justificadas": 92,
+            "avance_realizadas": 0.78,
+            "avance_total": 0.86
+          }
+        }
       },
       "FRANCISCO_GALICIA": {
         "CAÑEDO_ANGULO_GUADALUPE_GABRIELA": [
@@ -225775,7 +226336,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 32,
+                "justificadas": 4,
                 "apego": "82.1%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -226510,7 +227073,9 @@
               "summary": {
                 "programadas": 56,
                 "realizadas": 51,
+                "justificadas": 1,
                 "apego": "91.1%",
+                "apegoConJustificadas": "92.9%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -228415,7 +228980,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -229129,7 +229696,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 35,
+                "justificadas": 1,
                 "apego": "89.7%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -229726,7 +230295,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 34,
+                "justificadas": 3,
                 "apego": "87.2%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -230334,7 +230905,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 33,
+                "justificadas": 4,
                 "apego": "84.6%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -230952,7 +231525,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 33,
+                "justificadas": 3,
                 "apego": "84.6%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -231666,7 +232241,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 30,
+                "justificadas": 6,
                 "apego": "76.9%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -232411,7 +232988,9 @@
               "summary": {
                 "programadas": 63,
                 "realizadas": 58,
+                "justificadas": 0,
                 "apego": "92.1%",
+                "apegoConJustificadas": "92.1%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -234433,7 +235012,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 30,
+                "justificadas": 6,
                 "apego": "76.9%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -235277,7 +235858,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 53
               },
               "headers": [
@@ -235936,7 +236519,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 32
               },
               "headers": [
@@ -236385,7 +236970,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 46
               },
               "headers": [
@@ -236976,7 +237563,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 29,
+                "justificadas": 8,
                 "apego": "74.4%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -237711,7 +238300,9 @@
               "summary": {
                 "programadas": 43,
                 "realizadas": 37,
+                "justificadas": 0,
                 "apego": "86.0%",
+                "apegoConJustificadas": "86.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -238659,7 +239250,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 30,
+                "justificadas": 6,
                 "apego": "76.9%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -239394,7 +239987,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 25,
+                "justificadas": 11,
                 "apego": "64.1%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -240119,7 +240714,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 36,
+                "justificadas": 1,
                 "apego": "92.3%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -241067,7 +241664,9 @@
               "summary": {
                 "programadas": 47,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -242249,7 +242848,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 32,
+                "justificadas": 1,
                 "apego": "91.4%",
+                "apegoConJustificadas": "94.3%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -243091,7 +243692,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 31,
+                "justificadas": 2,
                 "apego": "79.5%",
+                "apegoConJustificadas": "84.6%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -243943,7 +244546,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 34,
+                "justificadas": 2,
                 "apego": "87.2%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -244774,7 +245379,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 0,
+                "justificadas": 18,
                 "apego": "0.0%",
+                "apegoConJustificadas": "46.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -245488,7 +246095,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 10,
+                "justificadas": 17,
                 "apego": "25.6%",
+                "apegoConJustificadas": "69.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -246202,7 +246811,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 36,
+                "justificadas": 0,
                 "apego": "92.3%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -247035,7 +247646,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 37,
+                "justificadas": 0,
                 "apego": "94.9%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -247866,7 +248479,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 34,
+                "justificadas": 0,
                 "apego": "87.2%",
+                "apegoConJustificadas": "87.2%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -248718,7 +249333,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 34,
+                "justificadas": 0,
                 "apego": "87.2%",
+                "apegoConJustificadas": "87.2%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -249570,7 +250187,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 36,
+                "justificadas": 0,
                 "apego": "92.3%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -250284,7 +250903,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 36,
+                "justificadas": 0,
                 "apego": "92.3%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -251115,7 +251736,9 @@
               "summary": {
                 "programadas": 60,
                 "realizadas": 22,
+                "justificadas": 32,
                 "apego": "36.7%",
+                "apegoConJustificadas": "90.0%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -252652,7 +253275,42 @@
               ]
             }
           }
-        ]
+        ],
+        "resumenEjecutivo": {
+          "supervisores": [
+            {
+              "nombre": "OLIVAS LOPEZ DAVID EDUARDO",
+              "programadas": 476,
+              "realizadas": 300,
+              "justificadas": 66,
+              "avance_realizadas": 0.63,
+              "avance_total": 0.77
+            },
+            {
+              "nombre": "CAÑEDO ANGULO GUADALUPE GABRIELA",
+              "programadas": 431,
+              "realizadas": 336,
+              "justificadas": 28,
+              "avance_realizadas": 0.78,
+              "avance_total": 0.84
+            },
+            {
+              "nombre": "VALENZUELA DENNIS BENJAMIN",
+              "programadas": 255,
+              "realizadas": 199,
+              "justificadas": 32,
+              "avance_realizadas": 0.78,
+              "avance_total": 0.91
+            }
+          ],
+          "total": {
+            "programadas": 1162,
+            "realizadas": 835,
+            "justificadas": 126,
+            "avance_realizadas": 0.72,
+            "avance_total": 0.83
+          }
+        }
       },
       "HUGO_MENDEZ": {
         "LEMUS_GALVAN_GLORIA": [
@@ -252663,7 +253321,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 33,
+                "justificadas": 0,
                 "apego": "97.1%",
+                "apegoConJustificadas": "97.1%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -253377,7 +254037,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 29,
+                "justificadas": 6,
                 "apego": "80.6%",
+                "apegoConJustificadas": "97.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -254208,7 +254870,9 @@
               "summary": {
                 "programadas": 41,
                 "realizadas": 39,
+                "justificadas": 0,
                 "apego": "95.1%",
+                "apegoConJustificadas": "95.1%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -255156,7 +255820,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 27,
+                "justificadas": 0,
                 "apego": "96.4%",
+                "apegoConJustificadas": "96.4%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -255753,7 +256419,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 24,
+                "justificadas": 12,
                 "apego": "66.7%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -256595,7 +257263,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 27,
+                "justificadas": 2,
                 "apego": "90.0%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -257192,7 +257862,9 @@
               "summary": {
                 "programadas": 18,
                 "realizadas": 18,
+                "justificadas": 0,
                 "apego": "100.0%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -257555,7 +258227,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -258386,7 +259060,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 36,
+                "justificadas": 0,
                 "apego": "92.3%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -259345,7 +260021,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 33,
+                "justificadas": 0,
                 "apego": "84.6%",
+                "apegoConJustificadas": "84.6%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -260187,7 +260865,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 37,
+                "justificadas": 0,
                 "apego": "94.9%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -260901,7 +261581,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 35,
+                "justificadas": 2,
                 "apego": "89.7%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -261734,7 +262416,9 @@
               "summary": {
                 "programadas": 13,
                 "realizadas": 13,
+                "justificadas": 0,
                 "apego": "100.0%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -261980,7 +262664,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 21,
+                "justificadas": 4,
                 "apego": "80.8%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -262481,7 +263167,9 @@
               "summary": {
                 "programadas": 24,
                 "realizadas": 20,
+                "justificadas": 1,
                 "apego": "83.3%",
+                "apegoConJustificadas": "87.5%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -262982,7 +263670,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 27,
+                "justificadas": 0,
                 "apego": "96.4%",
+                "apegoConJustificadas": "96.4%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -263462,7 +264152,9 @@
               "summary": {
                 "programadas": 38,
                 "realizadas": 36,
+                "justificadas": 0,
                 "apego": "94.7%",
+                "apegoConJustificadas": "94.7%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -264527,7 +265219,9 @@
               "summary": {
                 "programadas": 31,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -265241,7 +265935,9 @@
               "summary": {
                 "programadas": 84,
                 "realizadas": 79,
+                "justificadas": 0,
                 "apego": "94.0%",
+                "apegoConJustificadas": "94.0%",
                 "fueraDeRuta": 17
               },
               "headers": [
@@ -267179,7 +267875,9 @@
               "summary": {
                 "programadas": 19,
                 "realizadas": 17,
+                "justificadas": 1,
                 "apego": "89.5%",
+                "apegoConJustificadas": "94.7%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -267542,7 +268240,9 @@
               "summary": {
                 "programadas": 41,
                 "realizadas": 38,
+                "justificadas": 1,
                 "apego": "92.7%",
+                "apegoConJustificadas": "95.1%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -268531,7 +269231,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 31,
+                "justificadas": 2,
                 "apego": "88.6%",
+                "apegoConJustificadas": "94.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -269128,7 +269830,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 23,
+                "justificadas": 9,
                 "apego": "67.6%",
+                "apegoConJustificadas": "94.1%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -270214,7 +270918,9 @@
               "summary": {
                 "programadas": 24,
                 "realizadas": 23,
+                "justificadas": 0,
                 "apego": "95.8%",
+                "apegoConJustificadas": "95.8%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -270577,7 +271283,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -271059,7 +271767,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 25,
+                "justificadas": 0,
                 "apego": "83.3%",
+                "apegoConJustificadas": "83.3%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -271784,7 +272494,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 23,
+                "justificadas": 1,
                 "apego": "82.1%",
+                "apegoConJustificadas": "85.7%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -272529,7 +273241,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 13,
+                "justificadas": 10,
                 "apego": "46.4%",
+                "apegoConJustificadas": "82.1%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -273167,7 +273881,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 23,
+                "justificadas": 6,
                 "apego": "71.9%",
+                "apegoConJustificadas": "90.6%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -273932,7 +274648,9 @@
               "summary": {
                 "programadas": 52,
                 "realizadas": 41,
+                "justificadas": 8,
                 "apego": "78.8%",
+                "apegoConJustificadas": "94.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -275582,7 +276300,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 22,
+                "justificadas": 3,
                 "apego": "59.5%",
+                "apegoConJustificadas": "67.6%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -276541,7 +277261,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 23,
+                "justificadas": 2,
                 "apego": "88.5%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -277159,7 +277881,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 10,
+                "justificadas": 4,
                 "apego": "35.7%",
+                "apegoConJustificadas": "50.0%",
                 "fueraDeRuta": 6
               },
               "headers": [
@@ -277817,7 +278541,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 6,
+                "justificadas": 22,
                 "apego": "20.0%",
+                "apegoConJustificadas": "93.3%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -278679,7 +279405,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 26,
+                "justificadas": 1,
                 "apego": "92.9%",
+                "apegoConJustificadas": "96.4%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -279297,7 +280025,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 21,
+                "justificadas": 4,
                 "apego": "80.8%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -279907,7 +280637,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 48
               },
               "headers": [
@@ -280516,7 +281248,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 41
               },
               "headers": [
@@ -281055,7 +281789,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 32
               },
               "headers": [
@@ -281504,7 +282240,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 37
               },
               "headers": [
@@ -282003,7 +282741,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 53
               },
               "headers": [
@@ -282655,7 +283395,42 @@
               ]
             }
           }
-        ]
+        ],
+        "resumenEjecutivo": {
+          "supervisores": [
+            {
+              "nombre": "MONDRAGON MUÑOZ KARLA AIDE",
+              "programadas": 345,
+              "realizadas": 233,
+              "justificadas": 61,
+              "avance_realizadas": 0.68,
+              "avance_total": 0.85
+            },
+            {
+              "nombre": "LEMUS GALVAN GLORIA",
+              "programadas": 418,
+              "realizadas": 338,
+              "justificadas": 22,
+              "avance_realizadas": 0.81,
+              "avance_total": 0.86
+            },
+            {
+              "nombre": "MARTINEZ RODRIGUEZ JOSE ALFREDO",
+              "programadas": 414,
+              "realizadas": 315,
+              "justificadas": 18,
+              "avance_realizadas": 0.76,
+              "avance_total": 0.8
+            }
+          ],
+          "total": {
+            "programadas": 1177,
+            "realizadas": 886,
+            "justificadas": 101,
+            "avance_realizadas": 0.75,
+            "avance_total": 0.84
+          }
+        }
       },
       "JUAN_LUIS_GARDUÑO": {
         "GONZALEZ_GAITAN_JUAN_PABLO": [
@@ -282666,7 +283441,9 @@
               "summary": {
                 "programadas": 27,
                 "realizadas": 23,
+                "justificadas": 3,
                 "apego": "85.2%",
+                "apegoConJustificadas": "96.3%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -283314,7 +284091,9 @@
               "summary": {
                 "programadas": 31,
                 "realizadas": 27,
+                "justificadas": 4,
                 "apego": "87.1%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -283825,7 +284604,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 27,
+                "justificadas": 2,
                 "apego": "90.0%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -284570,7 +285351,9 @@
               "summary": {
                 "programadas": 24,
                 "realizadas": 21,
+                "justificadas": 3,
                 "apego": "87.5%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -285198,7 +285981,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 31,
+                "justificadas": 5,
                 "apego": "79.5%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -286625,7 +287410,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 31,
+                "justificadas": 4,
                 "apego": "86.1%",
+                "apegoConJustificadas": "97.2%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -287126,7 +287913,9 @@
               "summary": {
                 "programadas": 33,
                 "realizadas": 29,
+                "justificadas": 3,
                 "apego": "87.9%",
+                "apegoConJustificadas": "97.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -287723,7 +288512,9 @@
               "summary": {
                 "programadas": 31,
                 "realizadas": 30,
+                "justificadas": 0,
                 "apego": "96.8%",
+                "apegoConJustificadas": "96.8%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -288203,7 +288994,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 29,
+                "justificadas": 3,
                 "apego": "82.9%",
+                "apegoConJustificadas": "91.4%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -288811,7 +289604,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 23,
+                "justificadas": 6,
                 "apego": "76.7%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -289663,7 +290458,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 27,
+                "justificadas": 10,
                 "apego": "69.2%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -290260,7 +291057,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 32,
+                "justificadas": 1,
                 "apego": "94.1%",
+                "apegoConJustificadas": "97.1%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -290974,7 +291773,9 @@
               "summary": {
                 "programadas": 22,
                 "realizadas": 10,
+                "justificadas": 11,
                 "apego": "45.5%",
+                "apegoConJustificadas": "95.5%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -291497,7 +292298,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 29,
+                "justificadas": 0,
                 "apego": "96.7%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -292339,7 +293142,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 25,
+                "justificadas": 6,
                 "apego": "78.1%",
+                "apegoConJustificadas": "96.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -293404,7 +294209,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -294469,7 +295276,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 33,
+                "justificadas": 0,
                 "apego": "97.1%",
+                "apegoConJustificadas": "97.1%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -295183,7 +295992,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 26,
+                "justificadas": 1,
                 "apego": "92.9%",
+                "apegoConJustificadas": "96.4%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -295918,7 +296729,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 37,
+                "justificadas": 0,
                 "apego": "94.9%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -297334,7 +298147,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 29,
+                "justificadas": 0,
                 "apego": "96.7%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -298069,7 +298884,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 27,
+                "justificadas": 0,
                 "apego": "96.4%",
+                "apegoConJustificadas": "96.4%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -298687,7 +299504,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 12,
+                "justificadas": 18,
                 "apego": "40.0%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -299520,7 +300339,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 47
               },
               "headers": [
@@ -300119,7 +300940,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 45
               },
               "headers": [
@@ -300691,7 +301514,34 @@
               ]
             }
           }
-        ]
+        ],
+        "resumenEjecutivo": {
+          "supervisores": [
+            {
+              "nombre": "HERNANDEZ HINOJOSA DIANA",
+              "programadas": 283,
+              "realizadas": 218,
+              "justificadas": 25,
+              "avance_realizadas": 0.77,
+              "avance_total": 0.86
+            },
+            {
+              "nombre": "GONZALEZ GAITAN JUAN PABLO",
+              "programadas": 411,
+              "realizadas": 340,
+              "justificadas": 55,
+              "avance_realizadas": 0.83,
+              "avance_total": 0.96
+            }
+          ],
+          "total": {
+            "programadas": 694,
+            "realizadas": 558,
+            "justificadas": 80,
+            "avance_realizadas": 0.8,
+            "avance_total": 0.92
+          }
+        }
       },
       "LIZBETH_CETINA": {
         "ADONA_FUENTES_MIGUEL_ISRAEL": [
@@ -300702,7 +301552,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 23,
+                "justificadas": 3,
                 "apego": "76.7%",
+                "apegoConJustificadas": "86.7%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -301182,7 +302034,9 @@
               "summary": {
                 "programadas": 19,
                 "realizadas": 19,
+                "justificadas": 0,
                 "apego": "100.0%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -301556,7 +302410,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 23,
+                "justificadas": 2,
                 "apego": "82.1%",
+                "apegoConJustificadas": "89.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -302036,7 +302892,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 24,
+                "justificadas": 1,
                 "apego": "92.3%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -302516,7 +303374,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 10,
+                "justificadas": 0,
                 "apego": "38.5%",
+                "apegoConJustificadas": "38.5%",
                 "fueraDeRuta": 12
               },
               "headers": [
@@ -303117,7 +303977,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -303714,7 +304576,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 16,
+                "justificadas": 4,
                 "apego": "61.5%",
+                "apegoConJustificadas": "76.9%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -304245,7 +305109,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 22,
+                "justificadas": 3,
                 "apego": "84.6%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -304756,7 +305622,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 23,
+                "justificadas": 5,
                 "apego": "76.7%",
+                "apegoConJustificadas": "93.3%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -305257,7 +306125,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 22,
+                "justificadas": 1,
                 "apego": "84.6%",
+                "apegoConJustificadas": "88.5%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -305748,7 +306618,9 @@
               "summary": {
                 "programadas": 20,
                 "realizadas": 17,
+                "justificadas": 2,
                 "apego": "85.0%",
+                "apegoConJustificadas": "95.0%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -306122,7 +306994,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 21,
+                "justificadas": 4,
                 "apego": "80.8%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -306633,7 +307507,9 @@
               "summary": {
                 "programadas": 23,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -307115,7 +307991,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 45
               },
               "headers": [
@@ -307694,7 +308572,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 45
               },
               "headers": [
@@ -308273,7 +309153,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 49
               },
               "headers": [
@@ -308892,7 +309774,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 55
               },
               "headers": [
@@ -309573,7 +310457,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -310170,7 +311056,9 @@
               "summary": {
                 "programadas": 13,
                 "realizadas": 13,
+                "justificadas": 0,
                 "apego": "100.0%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -310416,7 +311304,9 @@
               "summary": {
                 "programadas": 27,
                 "realizadas": 19,
+                "justificadas": 7,
                 "apego": "70.4%",
+                "apegoConJustificadas": "96.3%",
                 "fueraDeRuta": 8
               },
               "headers": [
@@ -311328,7 +312218,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 17,
+                "justificadas": 2,
                 "apego": "65.4%",
+                "apegoConJustificadas": "73.1%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -311839,7 +312731,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 25,
+                "justificadas": 0,
                 "apego": "83.3%",
+                "apegoConJustificadas": "83.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -312670,7 +313564,9 @@
               "summary": {
                 "programadas": 38,
                 "realizadas": 30,
+                "justificadas": 7,
                 "apego": "78.9%",
+                "apegoConJustificadas": "97.4%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -313639,7 +314535,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 21,
+                "justificadas": 2,
                 "apego": "80.8%",
+                "apegoConJustificadas": "88.5%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -314002,7 +314900,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 21,
+                "justificadas": 2,
                 "apego": "80.8%",
+                "apegoConJustificadas": "88.5%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -314533,7 +315433,9 @@
               "summary": {
                 "programadas": 25,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -315013,7 +315915,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 25,
+                "justificadas": 0,
                 "apego": "89.3%",
+                "apegoConJustificadas": "89.3%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -315504,7 +316408,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 21,
+                "justificadas": 0,
                 "apego": "70.0%",
+                "apegoConJustificadas": "70.0%",
                 "fueraDeRuta": 7
               },
               "headers": [
@@ -316055,7 +316961,9 @@
               "summary": {
                 "programadas": 21,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -316418,7 +317326,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -316900,7 +317810,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 14,
+                "justificadas": 13,
                 "apego": "46.7%",
+                "apegoConJustificadas": "90.0%",
                 "fueraDeRuta": 11
               },
               "headers": [
@@ -317725,7 +318637,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 26,
+                "justificadas": 3,
                 "apego": "86.7%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -318460,7 +319374,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 19,
+                "justificadas": 6,
                 "apego": "67.9%",
+                "apegoConJustificadas": "89.3%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -318991,7 +319907,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 23,
+                "justificadas": 8,
                 "apego": "71.9%",
+                "apegoConJustificadas": "96.9%",
                 "fueraDeRuta": 6
               },
               "headers": [
@@ -319766,7 +320684,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -320480,7 +321400,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 21,
+                "justificadas": 4,
                 "apego": "80.8%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -321098,7 +322020,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 29,
+                "justificadas": 0,
                 "apego": "96.7%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -321812,7 +322736,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 2,
+                "justificadas": 9,
                 "apego": "6.7%",
+                "apegoConJustificadas": "36.7%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -322547,7 +323473,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 22,
+                "justificadas": 7,
                 "apego": "73.3%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -323302,7 +324230,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 20,
+                "justificadas": 4,
                 "apego": "62.5%",
+                "apegoConJustificadas": "75.0%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -323920,7 +324850,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 29,
+                "justificadas": 3,
                 "apego": "80.6%",
+                "apegoConJustificadas": "88.9%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -324872,7 +325804,42 @@
               ]
             }
           }
-        ]
+        ],
+        "resumenEjecutivo": {
+          "supervisores": [
+            {
+              "nombre": "RODRIGUEZ GIL IRVING",
+              "programadas": 342,
+              "realizadas": 192,
+              "justificadas": 20,
+              "avance_realizadas": 0.56,
+              "avance_total": 0.62
+            },
+            {
+              "nombre": "TABOADA OCHOA CINTHIA DEYANIRA",
+              "programadas": 334,
+              "realizadas": 205,
+              "justificadas": 57,
+              "avance_realizadas": 0.61,
+              "avance_total": 0.78
+            },
+            {
+              "nombre": "ADONA FUENTES MIGUEL ISRAEL",
+              "programadas": 332,
+              "realizadas": 220,
+              "justificadas": 25,
+              "avance_realizadas": 0.66,
+              "avance_total": 0.74
+            }
+          ],
+          "total": {
+            "programadas": 1008,
+            "realizadas": 617,
+            "justificadas": 102,
+            "avance_realizadas": 0.61,
+            "avance_total": 0.71
+          }
+        }
       },
       "NATALIA_VAZQUEZ": {
         "GARCIA_GARCIA_LORENA": [
@@ -324883,7 +325850,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 22,
+                "justificadas": 6,
                 "apego": "73.3%",
+                "apegoConJustificadas": "93.3%",
                 "fueraDeRuta": 6
               },
               "headers": [
@@ -325892,7 +326861,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 25,
+                "justificadas": 2,
                 "apego": "89.3%",
+                "apegoConJustificadas": "96.4%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -326617,7 +327588,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 33,
+                "justificadas": 0,
                 "apego": "97.1%",
+                "apegoConJustificadas": "97.1%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -327810,7 +328783,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 36,
+                "justificadas": 0,
                 "apego": "97.3%",
+                "apegoConJustificadas": "97.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -328524,7 +329499,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 33,
+                "justificadas": 1,
                 "apego": "91.7%",
+                "apegoConJustificadas": "94.4%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -329366,7 +330343,9 @@
               "summary": {
                 "programadas": 29,
                 "realizadas": 28,
+                "justificadas": 0,
                 "apego": "96.6%",
+                "apegoConJustificadas": "96.6%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -329867,7 +330846,9 @@
               "summary": {
                 "programadas": 27,
                 "realizadas": 26,
+                "justificadas": 0,
                 "apego": "96.3%",
+                "apegoConJustificadas": "96.3%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -330475,7 +331456,9 @@
               "summary": {
                 "programadas": 38,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -331423,7 +332406,9 @@
               "summary": {
                 "programadas": 33,
                 "realizadas": 32,
+                "justificadas": 0,
                 "apego": "97.0%",
+                "apegoConJustificadas": "97.0%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -332148,7 +333133,9 @@
               "summary": {
                 "programadas": 29,
                 "realizadas": 27,
+                "justificadas": 1,
                 "apego": "93.1%",
+                "apegoConJustificadas": "96.6%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -332893,7 +333880,9 @@
               "summary": {
                 "programadas": 29,
                 "realizadas": 23,
+                "justificadas": 1,
                 "apego": "79.3%",
+                "apegoConJustificadas": "82.8%",
                 "fueraDeRuta": 7
               },
               "headers": [
@@ -333678,7 +334667,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 35,
+                "justificadas": 0,
                 "apego": "97.2%",
+                "apegoConJustificadas": "97.2%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -334784,7 +335775,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 25,
+                "justificadas": 4,
                 "apego": "83.3%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -335531,7 +336524,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 30,
+                "justificadas": 4,
                 "apego": "81.1%",
+                "apegoConJustificadas": "91.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -336479,7 +337474,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 28,
+                "justificadas": 7,
                 "apego": "75.7%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -337427,7 +338424,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 21,
+                "justificadas": 8,
                 "apego": "56.8%",
+                "apegoConJustificadas": "78.4%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -338386,7 +339385,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 34,
+                "justificadas": 3,
                 "apego": "87.2%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -339462,7 +340463,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 32,
+                "justificadas": 1,
                 "apego": "94.1%",
+                "apegoConJustificadas": "97.1%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -340059,7 +341062,9 @@
               "summary": {
                 "programadas": 41,
                 "realizadas": 38,
+                "justificadas": 0,
                 "apego": "92.7%",
+                "apegoConJustificadas": "92.7%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -341241,7 +342246,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 31,
+                "justificadas": 2,
                 "apego": "83.8%",
+                "apegoConJustificadas": "89.2%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -342200,7 +343207,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -343031,7 +344040,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 24,
+                "justificadas": 7,
                 "apego": "75.0%",
+                "apegoConJustificadas": "96.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -343864,7 +344875,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 37
               },
               "headers": [
@@ -344363,7 +345376,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 37
               },
               "headers": [
@@ -344862,7 +345877,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 29
               },
               "headers": [
@@ -345281,7 +346298,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 46
               },
               "headers": [
@@ -345870,7 +346889,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 41
               },
               "headers": [
@@ -346411,7 +347432,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -347125,7 +348148,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 23,
+                "justificadas": 0,
                 "apego": "82.1%",
+                "apegoConJustificadas": "82.1%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -347967,7 +348992,9 @@
               "summary": {
                 "programadas": 31,
                 "realizadas": 29,
+                "justificadas": 0,
                 "apego": "93.5%",
+                "apegoConJustificadas": "93.5%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -348798,7 +349825,9 @@
               "summary": {
                 "programadas": 31,
                 "realizadas": 19,
+                "justificadas": 9,
                 "apego": "61.3%",
+                "apegoConJustificadas": "90.3%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -349757,7 +350786,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 0,
+                "justificadas": 3,
                 "apego": "0.0%",
+                "apegoConJustificadas": "8.8%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -350471,7 +351502,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 30,
+                "justificadas": 2,
                 "apego": "88.2%",
+                "apegoConJustificadas": "94.1%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -351070,7 +352103,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 21,
+                "justificadas": 14,
                 "apego": "56.8%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -352135,7 +353170,9 @@
               "summary": {
                 "programadas": 29,
                 "realizadas": 27,
+                "justificadas": 0,
                 "apego": "93.1%",
+                "apegoConJustificadas": "93.1%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -352977,7 +354014,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 23,
+                "justificadas": 5,
                 "apego": "82.1%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -353691,7 +354730,9 @@
               "summary": {
                 "programadas": 31,
                 "realizadas": 29,
+                "justificadas": 0,
                 "apego": "93.5%",
+                "apegoConJustificadas": "93.5%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -354639,7 +355680,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 24,
+                "justificadas": 0,
                 "apego": "92.3%",
+                "apegoConJustificadas": "92.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -355704,7 +356747,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 21,
+                "justificadas": 6,
                 "apego": "70.0%",
+                "apegoConJustificadas": "90.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -356886,7 +357931,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 28,
+                "justificadas": 1,
                 "apego": "93.3%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -357397,7 +358444,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 29,
+                "justificadas": 3,
                 "apego": "90.6%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 8
               },
               "headers": [
@@ -358543,7 +359592,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 24,
+                "justificadas": 1,
                 "apego": "92.3%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -359280,7 +360331,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 18,
+                "justificadas": 9,
                 "apego": "60.0%",
+                "apegoConJustificadas": "90.0%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -360015,7 +361068,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 25,
+                "justificadas": 10,
                 "apego": "67.6%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -361101,7 +362156,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 28,
+                "justificadas": 7,
                 "apego": "75.7%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -361866,7 +362923,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 20,
+                "justificadas": 0,
                 "apego": "57.1%",
+                "apegoConJustificadas": "57.1%",
                 "fueraDeRuta": 13
               },
               "headers": [
@@ -362945,7 +364004,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 29,
+                "justificadas": 0,
                 "apego": "90.6%",
+                "apegoConJustificadas": "90.6%",
                 "fueraDeRuta": 6
               },
               "headers": [
@@ -363603,7 +364664,9 @@
               "summary": {
                 "programadas": 33,
                 "realizadas": 24,
+                "justificadas": 0,
                 "apego": "72.7%",
+                "apegoConJustificadas": "72.7%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -364709,7 +365772,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 26,
+                "justificadas": 5,
                 "apego": "76.5%",
+                "apegoConJustificadas": "91.2%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -365434,7 +366499,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 20,
+                "justificadas": 0,
                 "apego": "54.1%",
+                "apegoConJustificadas": "54.1%",
                 "fueraDeRuta": 7
               },
               "headers": [
@@ -366336,7 +367403,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 34,
+                "justificadas": 0,
                 "apego": "91.9%",
+                "apegoConJustificadas": "91.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -367043,7 +368112,58 @@
               "visitasFueraDeRuta": []
             }
           }
-        ]
+        ],
+        "resumenEjecutivo": {
+          "supervisores": [
+            {
+              "nombre": "PEREZ PUENTE CARLOS OMAR",
+              "programadas": 188,
+              "realizadas": 101,
+              "justificadas": 14,
+              "avance_realizadas": 0.54,
+              "avance_total": 0.61
+            },
+            {
+              "nombre": "GARCIA GARCIA LORENA",
+              "programadas": 416,
+              "realizadas": 345,
+              "justificadas": 15,
+              "avance_realizadas": 0.83,
+              "avance_total": 0.87
+            },
+            {
+              "nombre": "RAMIREZ PEREZ JENNY",
+              "programadas": 269,
+              "realizadas": 226,
+              "justificadas": 30,
+              "avance_realizadas": 0.84,
+              "avance_total": 0.95
+            },
+            {
+              "nombre": "GUERRERO RAMIREZ ANDRES ISRAEL",
+              "programadas": 328,
+              "realizadas": 238,
+              "justificadas": 32,
+              "avance_realizadas": 0.73,
+              "avance_total": 0.82
+            },
+            {
+              "nombre": "VAZQUEZ CONTRERAS AGLAE VIRIDIANA",
+              "programadas": 312,
+              "realizadas": 224,
+              "justificadas": 31,
+              "avance_realizadas": 0.72,
+              "avance_total": 0.82
+            }
+          ],
+          "total": {
+            "programadas": 1513,
+            "realizadas": 1134,
+            "justificadas": 122,
+            "avance_realizadas": 0.75,
+            "avance_total": 0.83
+          }
+        }
       },
       "SOFIA_ACHACH": {
         "CHAPARRO_ALVIRDE_PATRICIO": [
@@ -367054,7 +368174,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 32,
+                "justificadas": 1,
                 "apego": "91.4%",
+                "apegoConJustificadas": "94.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -367885,7 +369007,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 32,
+                "justificadas": 0,
                 "apego": "86.5%",
+                "apegoConJustificadas": "86.5%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -368961,7 +370085,9 @@
               "summary": {
                 "programadas": 24,
                 "realizadas": 23,
+                "justificadas": 0,
                 "apego": "95.8%",
+                "apegoConJustificadas": "95.8%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -369441,7 +370567,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 16,
+                "justificadas": 0,
                 "apego": "50.0%",
+                "apegoConJustificadas": "50.0%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -370293,7 +371421,9 @@
               "summary": {
                 "programadas": 44,
                 "realizadas": 18,
+                "justificadas": 23,
                 "apego": "40.9%",
+                "apegoConJustificadas": "93.2%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -371603,7 +372733,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 30,
+                "justificadas": 1,
                 "apego": "93.8%",
+                "apegoConJustificadas": "96.9%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -372445,7 +373577,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 27,
+                "justificadas": 4,
                 "apego": "79.4%",
+                "apegoConJustificadas": "91.2%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -373404,7 +374538,9 @@
               "summary": {
                 "programadas": 47,
                 "realizadas": 20,
+                "justificadas": 0,
                 "apego": "42.6%",
+                "apegoConJustificadas": "42.6%",
                 "fueraDeRuta": 7
               },
               "headers": [
@@ -375242,7 +376378,9 @@
               "summary": {
                 "programadas": 59,
                 "realizadas": 53,
+                "justificadas": 0,
                 "apego": "89.8%",
+                "apegoConJustificadas": "89.8%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -377594,7 +378732,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 27,
+                "justificadas": 2,
                 "apego": "90.0%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -378436,7 +379576,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 30,
+                "justificadas": 0,
                 "apego": "93.8%",
+                "apegoConJustificadas": "93.8%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -379161,7 +380303,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -380109,7 +381253,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -381174,7 +382320,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 33,
+                "justificadas": 0,
                 "apego": "94.3%",
+                "apegoConJustificadas": "94.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -382358,7 +383506,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 35,
+                "justificadas": 0,
                 "apego": "97.2%",
+                "apegoConJustificadas": "97.2%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -383688,7 +384838,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -384987,7 +386139,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 20,
+                "justificadas": 0,
                 "apego": "58.8%",
+                "apegoConJustificadas": "58.8%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -386403,7 +387557,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 25,
+                "justificadas": 0,
                 "apego": "96.2%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -386883,7 +388039,9 @@
               "summary": {
                 "programadas": 55,
                 "realizadas": 21,
+                "justificadas": 0,
                 "apego": "38.2%",
+                "apegoConJustificadas": "38.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -388767,7 +389925,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 30,
+                "justificadas": 0,
                 "apego": "88.2%",
+                "apegoConJustificadas": "88.2%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -389726,7 +390886,9 @@
               "summary": {
                 "programadas": 51,
                 "realizadas": 17,
+                "justificadas": 28,
                 "apego": "33.3%",
+                "apegoConJustificadas": "88.2%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -391514,7 +392676,9 @@
               "summary": {
                 "programadas": 38,
                 "realizadas": 37,
+                "justificadas": 0,
                 "apego": "97.4%",
+                "apegoConJustificadas": "97.4%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -392930,7 +394094,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 27,
+                "justificadas": 0,
                 "apego": "90.0%",
+                "apegoConJustificadas": "90.0%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -393675,7 +394841,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -394272,7 +395440,9 @@
               "summary": {
                 "programadas": 53,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -396390,7 +397560,9 @@
               "summary": {
                 "programadas": 24,
                 "realizadas": 22,
+                "justificadas": 1,
                 "apego": "91.7%",
+                "apegoConJustificadas": "95.8%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -396764,7 +397936,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -397361,7 +398535,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -398311,7 +399487,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 20,
+                "justificadas": 0,
                 "apego": "57.1%",
+                "apegoConJustificadas": "57.1%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -399376,7 +400554,9 @@
               "summary": {
                 "programadas": 62,
                 "realizadas": 57,
+                "justificadas": 0,
                 "apego": "91.9%",
+                "apegoConJustificadas": "91.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -402079,7 +403259,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -403027,7 +404209,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -403858,7 +405042,9 @@
               "summary": {
                 "programadas": 45,
                 "realizadas": 39,
+                "justificadas": 3,
                 "apego": "86.7%",
+                "apegoConJustificadas": "93.3%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -405656,7 +406842,9 @@
               "summary": {
                 "programadas": 40,
                 "realizadas": 39,
+                "justificadas": 0,
                 "apego": "97.5%",
+                "apegoConJustificadas": "97.5%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -407189,7 +408377,9 @@
               "summary": {
                 "programadas": 53,
                 "realizadas": 45,
+                "justificadas": 0,
                 "apego": "84.9%",
+                "apegoConJustificadas": "84.9%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -409435,7 +410625,9 @@
               "summary": {
                 "programadas": 38,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -410383,7 +411575,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -411682,7 +412876,9 @@
               "summary": {
                 "programadas": 24,
                 "realizadas": 20,
+                "justificadas": 3,
                 "apego": "83.3%",
+                "apegoConJustificadas": "95.8%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -412066,7 +413262,9 @@
               "summary": {
                 "programadas": 44,
                 "realizadas": 42,
+                "justificadas": 1,
                 "apego": "95.5%",
+                "apegoConJustificadas": "97.7%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -413599,7 +414797,9 @@
               "summary": {
                 "programadas": 41,
                 "realizadas": 39,
+                "justificadas": 0,
                 "apego": "95.1%",
+                "apegoConJustificadas": "95.1%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -415134,7 +416334,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 54
               },
               "headers": [
@@ -415803,7 +417005,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 70
               },
               "headers": [
@@ -416632,7 +417836,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 60
               },
               "headers": [
@@ -417361,7 +418567,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 54
               },
               "headers": [
@@ -418030,7 +419238,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 58
               },
               "headers": [
@@ -418741,7 +419951,9 @@
               "summary": {
                 "programadas": 50,
                 "realizadas": 47,
+                "justificadas": 0,
                 "apego": "94.0%",
+                "apegoConJustificadas": "94.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -421210,7 +422422,9 @@
               "summary": {
                 "programadas": 59,
                 "realizadas": 55,
+                "justificadas": 1,
                 "apego": "93.2%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -423690,7 +424904,9 @@
               "summary": {
                 "programadas": 41,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -424989,7 +426205,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 26,
+                "justificadas": 1,
                 "apego": "92.9%",
+                "apegoConJustificadas": "96.4%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -425851,7 +427069,9 @@
               "summary": {
                 "programadas": 44,
                 "realizadas": 41,
+                "justificadas": 0,
                 "apego": "93.2%",
+                "apegoConJustificadas": "93.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -427735,7 +428955,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 25,
+                "justificadas": 0,
                 "apego": "96.2%",
+                "apegoConJustificadas": "96.2%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -428470,7 +429692,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 32,
+                "justificadas": 1,
                 "apego": "94.1%",
+                "apegoConJustificadas": "97.1%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -429332,7 +430556,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 31,
+                "justificadas": 4,
                 "apego": "83.8%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -430408,7 +431634,9 @@
               "summary": {
                 "programadas": 47,
                 "realizadas": 45,
+                "justificadas": 0,
                 "apego": "95.7%",
+                "apegoConJustificadas": "95.7%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -431941,7 +433169,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 0,
+                "justificadas": 37,
                 "apego": "0.0%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -433123,7 +434353,9 @@
               "summary": {
                 "programadas": 50,
                 "realizadas": 43,
+                "justificadas": 4,
                 "apego": "86.0%",
+                "apegoConJustificadas": "94.0%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -435506,7 +436738,9 @@
               "summary": {
                 "programadas": 64,
                 "realizadas": 0,
+                "justificadas": 12,
                 "apego": "0.0%",
+                "apegoConJustificadas": "18.8%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -438092,7 +439326,9 @@
               "summary": {
                 "programadas": 31,
                 "realizadas": 29,
+                "justificadas": 0,
                 "apego": "93.5%",
+                "apegoConJustificadas": "93.5%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -439274,7 +440510,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 27,
+                "justificadas": 1,
                 "apego": "90.0%",
+                "apegoConJustificadas": "93.3%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -440019,7 +441257,9 @@
               "summary": {
                 "programadas": 29,
                 "realizadas": 27,
+                "justificadas": 0,
                 "apego": "93.1%",
+                "apegoConJustificadas": "93.1%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -440988,7 +442228,9 @@
               "summary": {
                 "programadas": 44,
                 "realizadas": 30,
+                "justificadas": 13,
                 "apego": "68.2%",
+                "apegoConJustificadas": "97.7%",
                 "fueraDeRuta": 6
               },
               "headers": [
@@ -442933,7 +444175,9 @@
               "summary": {
                 "programadas": 40,
                 "realizadas": 8,
+                "justificadas": 8,
                 "apego": "20.0%",
+                "apegoConJustificadas": "40.0%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -444830,7 +446074,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 22,
+                "justificadas": 0,
                 "apego": "84.6%",
+                "apegoConJustificadas": "84.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -445310,7 +446556,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 11,
+                "justificadas": 4,
                 "apego": "42.3%",
+                "apegoConJustificadas": "57.7%",
                 "fueraDeRuta": 11
               },
               "headers": [
@@ -446018,7 +447266,9 @@
               "summary": {
                 "programadas": 44,
                 "realizadas": 29,
+                "justificadas": 4,
                 "apego": "65.9%",
+                "apegoConJustificadas": "75.0%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -447562,7 +448812,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 23,
+                "justificadas": 0,
                 "apego": "88.5%",
+                "apegoConJustificadas": "88.5%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -448053,7 +449305,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -448533,7 +449787,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 25,
+                "justificadas": 2,
                 "apego": "89.3%",
+                "apegoConJustificadas": "96.4%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -449141,7 +450397,9 @@
               "summary": {
                 "programadas": 53,
                 "realizadas": 34,
+                "justificadas": 7,
                 "apego": "64.2%",
+                "apegoConJustificadas": "77.4%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -451025,7 +452283,9 @@
               "summary": {
                 "programadas": 51,
                 "realizadas": 37,
+                "justificadas": 0,
                 "apego": "72.5%",
+                "apegoConJustificadas": "72.5%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -452909,7 +454169,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -453506,7 +454768,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -453986,7 +455250,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 21,
+                "justificadas": 0,
                 "apego": "65.6%",
+                "apegoConJustificadas": "65.6%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -454848,7 +456114,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -455328,7 +456596,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -455925,7 +457195,9 @@
               "summary": {
                 "programadas": 43,
                 "realizadas": 24,
+                "justificadas": 13,
                 "apego": "55.8%",
+                "apegoConJustificadas": "86.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -457451,7 +458723,58 @@
               "visitasFueraDeRuta": []
             }
           }
-        ]
+        ],
+        "resumenEjecutivo": {
+          "supervisores": [
+            {
+              "nombre": "ZAPATA CHALE WILBERT ALFREDO",
+              "programadas": 463,
+              "realizadas": 226,
+              "justificadas": 30,
+              "avance_realizadas": 0.49,
+              "avance_total": 0.55
+            },
+            {
+              "nombre": "CRUZ CABRERA ILSE ISELA",
+              "programadas": 503,
+              "realizadas": 234,
+              "justificadas": 29,
+              "avance_realizadas": 0.47,
+              "avance_total": 0.52
+            },
+            {
+              "nombre": "SANCHEZ FLORES MELIDA",
+              "programadas": 691,
+              "realizadas": 466,
+              "justificadas": 82,
+              "avance_realizadas": 0.67,
+              "avance_total": 0.79
+            },
+            {
+              "nombre": "CHAPARRO ALVIRDE PATRICIO",
+              "programadas": 509,
+              "realizadas": 341,
+              "justificadas": 31,
+              "avance_realizadas": 0.67,
+              "avance_total": 0.73
+            },
+            {
+              "nombre": "NOH DZUL GASPAR ADOLFO",
+              "programadas": 485,
+              "realizadas": 301,
+              "justificadas": 7,
+              "avance_realizadas": 0.62,
+              "avance_total": 0.64
+            }
+          ],
+          "total": {
+            "programadas": 2651,
+            "realizadas": 1568,
+            "justificadas": 179,
+            "avance_realizadas": 0.59,
+            "avance_total": 0.66
+          }
+        }
       },
       "VACANTE_EJECUTIVO_MARS_A2": {
         "DE_LA_CRUZ_CARDOZO_CLAUDIA": [
@@ -457462,7 +458785,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -458293,7 +459618,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 24,
+                "justificadas": 5,
                 "apego": "70.6%",
+                "apegoConJustificadas": "85.3%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -459048,7 +460375,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 33,
+                "justificadas": 0,
                 "apego": "89.2%",
+                "apegoConJustificadas": "89.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -459879,7 +461208,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 29,
+                "justificadas": 0,
                 "apego": "90.6%",
+                "apegoConJustificadas": "90.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -460593,7 +461924,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -461307,7 +462640,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 27,
+                "justificadas": 5,
                 "apego": "73.0%",
+                "apegoConJustificadas": "86.5%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -462140,7 +463475,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -462971,7 +464308,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 32,
+                "justificadas": 3,
                 "apego": "86.5%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -464077,7 +465416,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 31,
+                "justificadas": 0,
                 "apego": "91.2%",
+                "apegoConJustificadas": "91.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -464908,7 +466249,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -465622,7 +466965,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 25,
+                "justificadas": 6,
                 "apego": "64.1%",
+                "apegoConJustificadas": "79.5%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -466357,7 +467702,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 35,
+                "justificadas": 0,
                 "apego": "94.6%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -467305,7 +468652,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 28,
+                "justificadas": 3,
                 "apego": "75.7%",
+                "apegoConJustificadas": "83.8%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -468253,7 +469602,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 20,
+                "justificadas": 8,
                 "apego": "66.7%",
+                "apegoConJustificadas": "93.3%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -469018,7 +470369,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 22,
+                "justificadas": 6,
                 "apego": "56.4%",
+                "apegoConJustificadas": "71.8%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -469997,7 +471350,9 @@
               "summary": {
                 "programadas": 33,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -470711,7 +472066,9 @@
               "summary": {
                 "programadas": 33,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -471425,7 +472782,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -472141,7 +473500,9 @@
               "summary": {
                 "programadas": 27,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -472738,7 +474099,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 23,
+                "justificadas": 9,
                 "apego": "65.7%",
+                "apegoConJustificadas": "91.4%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -473473,7 +474836,9 @@
               "summary": {
                 "programadas": 28,
                 "realizadas": 7,
+                "justificadas": 6,
                 "apego": "25.0%",
+                "apegoConJustificadas": "46.4%",
                 "fueraDeRuta": 15
               },
               "headers": [
@@ -474338,7 +475703,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 36,
+                "justificadas": 1,
                 "apego": "92.3%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -475169,7 +476536,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -476000,7 +477369,9 @@
               "summary": {
                 "programadas": 32,
                 "realizadas": 25,
+                "justificadas": 0,
                 "apego": "78.1%",
+                "apegoConJustificadas": "78.1%",
                 "fueraDeRuta": 5
               },
               "headers": [
@@ -476765,7 +478136,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 27,
+                "justificadas": 3,
                 "apego": "79.4%",
+                "apegoConJustificadas": "88.2%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -477500,7 +478873,9 @@
               "summary": {
                 "programadas": 41,
                 "realizadas": 35,
+                "justificadas": 4,
                 "apego": "85.4%",
+                "apegoConJustificadas": "95.1%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -478799,7 +480174,9 @@
               "summary": {
                 "programadas": 34,
                 "realizadas": 25,
+                "justificadas": 6,
                 "apego": "73.5%",
+                "apegoConJustificadas": "91.2%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -479641,7 +481018,9 @@
               "summary": {
                 "programadas": 29,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -480472,7 +481851,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -481305,7 +482686,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 37,
+                "justificadas": 0,
                 "apego": "94.9%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -481796,7 +483179,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 38,
+                "justificadas": 0,
                 "apego": "97.4%",
+                "apegoConJustificadas": "97.4%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -482521,7 +483906,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 34,
+                "justificadas": 0,
                 "apego": "94.4%",
+                "apegoConJustificadas": "94.4%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -483235,7 +484622,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 37,
+                "justificadas": 0,
                 "apego": "94.9%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -484066,7 +485455,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 35,
+                "justificadas": 0,
                 "apego": "94.6%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -484897,7 +486288,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 35,
+                "justificadas": 0,
                 "apego": "94.6%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -485728,7 +487121,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 27,
+                "justificadas": 5,
                 "apego": "75.0%",
+                "apegoConJustificadas": "88.9%",
                 "fueraDeRuta": 6
               },
               "headers": [
@@ -486269,7 +487664,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 28,
+                "justificadas": 5,
                 "apego": "80.0%",
+                "apegoConJustificadas": "94.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -487102,7 +488499,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 30
               },
               "headers": [
@@ -487531,7 +488930,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 58
               },
               "headers": [
@@ -488240,7 +489641,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 62
               },
               "headers": [
@@ -488989,7 +490392,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 63
               },
               "headers": [
@@ -489748,7 +491153,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 45
               },
               "headers": [
@@ -490329,7 +491736,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 33,
+                "justificadas": 4,
                 "apego": "84.6%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -491394,7 +492803,9 @@
               "summary": {
                 "programadas": 41,
                 "realizadas": 39,
+                "justificadas": 0,
                 "apego": "95.1%",
+                "apegoConJustificadas": "95.1%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -492459,7 +493870,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 37,
+                "justificadas": 0,
                 "apego": "94.9%",
+                "apegoConJustificadas": "94.9%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -493407,7 +494820,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 29,
+                "justificadas": 0,
                 "apego": "96.7%",
+                "apegoConJustificadas": "96.7%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -494132,7 +495547,9 @@
               "summary": {
                 "programadas": 35,
                 "realizadas": 0,
+                "justificadas": 35,
                 "apego": "0.0%",
+                "apegoConJustificadas": "100.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -494846,7 +496263,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 33,
+                "justificadas": 2,
                 "apego": "89.2%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -495911,7 +497330,9 @@
               "summary": {
                 "programadas": 41,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -496859,7 +498280,9 @@
               "summary": {
                 "programadas": 39,
                 "realizadas": 34,
+                "justificadas": 0,
                 "apego": "87.2%",
+                "apegoConJustificadas": "87.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -497800,7 +499223,58 @@
               "visitasFueraDeRuta": []
             }
           }
-        ]
+        ],
+        "resumenEjecutivo": {
+          "supervisores": [
+            {
+              "nombre": "RAMIREZ TORRES JAZMIN",
+              "programadas": 301,
+              "realizadas": 205,
+              "justificadas": 41,
+              "avance_realizadas": 0.68,
+              "avance_total": 0.82
+            },
+            {
+              "nombre": "DE LA CRUZ CARDOZO CLAUDIA",
+              "programadas": 207,
+              "realizadas": 113,
+              "justificadas": 10,
+              "avance_realizadas": 0.55,
+              "avance_total": 0.59
+            },
+            {
+              "nombre": "MONSIVAIS HERNANDEZ JULIO CESAR",
+              "programadas": 374,
+              "realizadas": 178,
+              "justificadas": 29,
+              "avance_realizadas": 0.48,
+              "avance_total": 0.55
+            },
+            {
+              "nombre": "DE LA O RODRIGUEZ NERICK HASSAM",
+              "programadas": 431,
+              "realizadas": 193,
+              "justificadas": 26,
+              "avance_realizadas": 0.45,
+              "avance_total": 0.51
+            },
+            {
+              "nombre": "MORATO NAVARRO CARLOS",
+              "programadas": 298,
+              "realizadas": 271,
+              "justificadas": 10,
+              "avance_realizadas": 0.91,
+              "avance_total": 0.94
+            }
+          ],
+          "total": {
+            "programadas": 1611,
+            "realizadas": 960,
+            "justificadas": 116,
+            "avance_realizadas": 0.6,
+            "avance_total": 0.67
+          }
+        }
       },
       "YANETH_MUÑIZ": {
         "ALVARADO_MONTALVO_CLAUDIA_LIZETH": [
@@ -497811,7 +499285,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 35,
+                "justificadas": 0,
                 "apego": "94.6%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -498653,7 +500129,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 32,
+                "justificadas": 0,
                 "apego": "86.5%",
+                "apegoConJustificadas": "86.5%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -499484,7 +500962,9 @@
               "summary": {
                 "programadas": 41,
                 "realizadas": 35,
+                "justificadas": 0,
                 "apego": "85.4%",
+                "apegoConJustificadas": "85.4%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -500473,7 +501953,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -501421,7 +502903,9 @@
               "summary": {
                 "programadas": 38,
                 "realizadas": 37,
+                "justificadas": 0,
                 "apego": "97.4%",
+                "apegoConJustificadas": "97.4%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -502369,7 +503853,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 34,
+                "justificadas": 0,
                 "apego": "91.9%",
+                "apegoConJustificadas": "91.9%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -503241,7 +504727,9 @@
               "summary": {
                 "programadas": 40,
                 "realizadas": 31,
+                "justificadas": 5,
                 "apego": "77.5%",
+                "apegoConJustificadas": "90.0%",
                 "fueraDeRuta": 10
               },
               "headers": [
@@ -504524,7 +506012,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 17,
+                "justificadas": 18,
                 "apego": "45.9%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -505474,7 +506964,9 @@
               "summary": {
                 "programadas": 47,
                 "realizadas": 40,
+                "justificadas": 4,
                 "apego": "85.1%",
+                "apegoConJustificadas": "93.6%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -506346,7 +507838,9 @@
               "summary": {
                 "programadas": 50,
                 "realizadas": 41,
+                "justificadas": 2,
                 "apego": "82.0%",
+                "apegoConJustificadas": "86.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -507294,7 +508788,9 @@
               "summary": {
                 "programadas": 47,
                 "realizadas": 45,
+                "justificadas": 0,
                 "apego": "95.7%",
+                "apegoConJustificadas": "95.7%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -508146,7 +509642,9 @@
               "summary": {
                 "programadas": 47,
                 "realizadas": 36,
+                "justificadas": 2,
                 "apego": "76.6%",
+                "apegoConJustificadas": "80.9%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -509018,7 +510516,9 @@
               "summary": {
                 "programadas": 48,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -509849,7 +511349,9 @@
               "summary": {
                 "programadas": 50,
                 "realizadas": 46,
+                "justificadas": 0,
                 "apego": "92.0%",
+                "apegoConJustificadas": "92.0%",
                 "fueraDeRuta": 2
               },
               "headers": [
@@ -510935,7 +512437,9 @@
               "summary": {
                 "programadas": 45,
                 "realizadas": 39,
+                "justificadas": 4,
                 "apego": "86.7%",
+                "apegoConJustificadas": "95.6%",
                 "fueraDeRuta": 3
               },
               "headers": [
@@ -511799,7 +513303,9 @@
               "summary": {
                 "programadas": 23,
                 "realizadas": 21,
+                "justificadas": 0,
                 "apego": "91.3%",
+                "apegoConJustificadas": "91.3%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -512173,7 +513679,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 36,
+                "justificadas": 0,
                 "apego": "97.3%",
+                "apegoConJustificadas": "97.3%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -513004,7 +514512,9 @@
               "summary": {
                 "programadas": 26,
                 "realizadas": 23,
+                "justificadas": 0,
                 "apego": "88.5%",
+                "apegoConJustificadas": "88.5%",
                 "fueraDeRuta": 6
               },
               "headers": [
@@ -513779,7 +515289,9 @@
               "summary": {
                 "programadas": 25,
                 "realizadas": 14,
+                "justificadas": 6,
                 "apego": "56.0%",
+                "apegoConJustificadas": "80.0%",
                 "fueraDeRuta": 4
               },
               "headers": [
@@ -514768,7 +516280,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 35,
+                "justificadas": 0,
                 "apego": "97.2%",
+                "apegoConJustificadas": "97.2%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -515599,7 +517113,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 18,
+                "justificadas": 0,
                 "apego": "60.0%",
+                "apegoConJustificadas": "60.0%",
                 "fueraDeRuta": 7
               },
               "headers": [
@@ -516618,7 +518134,9 @@
               "summary": {
                 "programadas": 50,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -518034,7 +519552,9 @@
               "summary": {
                 "programadas": 27,
                 "realizadas": 22,
+                "justificadas": 0,
                 "apego": "81.5%",
+                "apegoConJustificadas": "81.5%",
                 "fueraDeRuta": 6
               },
               "headers": [
@@ -518926,7 +520446,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -519054,7 +520576,9 @@
               "summary": {
                 "programadas": 30,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -520002,7 +521526,9 @@
               "summary": {
                 "programadas": 33,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -520833,7 +522359,9 @@
               "summary": {
                 "programadas": 36,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -521666,7 +523194,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 61
               },
               "headers": [
@@ -522405,7 +523935,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 72
               },
               "headers": [
@@ -523254,7 +524786,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 58
               },
               "headers": [
@@ -523963,7 +525497,9 @@
               "summary": {
                 "programadas": 0,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 57
               },
               "headers": [
@@ -524664,7 +526200,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 35,
+                "justificadas": 0,
                 "apego": "94.6%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -525623,7 +527161,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 34,
+                "justificadas": 0,
                 "apego": "91.9%",
+                "apegoConJustificadas": "91.9%",
                 "fueraDeRuta": 1
               },
               "headers": [
@@ -526582,7 +528122,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 33,
+                "justificadas": 2,
                 "apego": "89.2%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -527647,7 +529189,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 35,
+                "justificadas": 0,
                 "apego": "94.6%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -528595,7 +530139,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 35,
+                "justificadas": 0,
                 "apego": "94.6%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -529426,7 +530972,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 35,
+                "justificadas": 0,
                 "apego": "94.6%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -530374,7 +531922,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 32,
+                "justificadas": 3,
                 "apego": "86.5%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -531205,7 +532755,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 35,
+                "justificadas": 0,
                 "apego": "94.6%",
+                "apegoConJustificadas": "94.6%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -532153,7 +533705,9 @@
               "summary": {
                 "programadas": 37,
                 "realizadas": 0,
+                "justificadas": 0,
                 "apego": "0.0%",
+                "apegoConJustificadas": "0.0%",
                 "fueraDeRuta": 0
               },
               "headers": [
@@ -533094,7 +534648,50 @@
               "visitasFueraDeRuta": []
             }
           }
-        ]
+        ],
+        "resumenEjecutivo": {
+          "supervisores": [
+            {
+              "nombre": "MARRUFO ARMENTA ALEXIS DE JESUS",
+              "programadas": 353,
+              "realizadas": 169,
+              "justificadas": 6,
+              "avance_realizadas": 0.48,
+              "avance_total": 0.5
+            },
+            {
+              "nombre": "ALVARADO MONTALVO CLAUDIA LIZETH",
+              "programadas": 304,
+              "realizadas": 221,
+              "justificadas": 23,
+              "avance_realizadas": 0.73,
+              "avance_total": 0.8
+            },
+            {
+              "nombre": "HERNANDEZ GARCIA YADIRA GEXSABEL",
+              "programadas": 334,
+              "realizadas": 247,
+              "justificadas": 12,
+              "avance_realizadas": 0.74,
+              "avance_total": 0.78
+            },
+            {
+              "nombre": "RODRIGUEZ GAMEZ ALAN",
+              "programadas": 333,
+              "realizadas": 274,
+              "justificadas": 5,
+              "avance_realizadas": 0.82,
+              "avance_total": 0.84
+            }
+          ],
+          "total": {
+            "programadas": 1324,
+            "realizadas": 911,
+            "justificadas": 46,
+            "avance_realizadas": 0.69,
+            "avance_total": 0.72
+          }
+        }
       }
     }
   }

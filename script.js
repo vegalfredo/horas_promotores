@@ -11,9 +11,9 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // Contenedores y Pestañas
     const tabProductividad = document.getElementById('tab-productividad');
-    const tabCumplimiento = document.getElementById('tab-cumplimiento');
-    const reportProductividad = document.getElementById('report-productividad');
-    const reportCumplimiento = document.getElementById('report-cumplimiento');
+    const tabCumplimiento = document.getElementById('tab-apego');
+    const reportProductividad = document.getElementById('contenido-productividad');
+    const reportCumplimiento = document.getElementById('contenido-apego');
 
     // Elementos de Productividad
     const supervisorSelectProd = document.getElementById('supervisor-select-prod');
@@ -37,6 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Variables de estado
     let webData = null;
     let chart = null;
+    let currentUser = null; // Agregar variable para el usuario actual
 
     // === SECCIÓN 2: LÓGICA DE LA APLICACIÓN ===
 
@@ -68,6 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const user = webData?.usuarios?.[email];
 
         if (user && user.password === password) {
+            currentUser = user; // Guardar usuario actual
             loginContainer.classList.add('hidden');
             mainContainer.classList.remove('hidden');
             setTimeout(() => mainContainer.classList.add('visible'), 50);
@@ -91,11 +93,35 @@ document.addEventListener('DOMContentLoaded', () => {
     tabProductividad.addEventListener('click', () => switchTab('productividad'));
     tabCumplimiento.addEventListener('click', () => switchTab('cumplimiento'));
     
+    // NUEVO: Agregar evento para la pestaña de Resumen Ejecutivo
+    const tabResumen = document.getElementById('tab-resumen');
+    const reportResumen = document.getElementById('contenido-resumen');
+    
+    if (tabResumen) {
+        tabResumen.addEventListener('click', () => switchTab('resumen'));
+    }
+    
     function switchTab(activeTab) {
+        // Actualizar clases activas de las pestañas
         tabProductividad.classList.toggle('active', activeTab === 'productividad');
         tabCumplimiento.classList.toggle('active', activeTab === 'cumplimiento');
-        reportProductividad.classList.toggle('hidden', activeTab !== 'productividad');
-        reportCumplimiento.classList.toggle('hidden', activeTab === 'productividad');
+        if (tabResumen) tabResumen.classList.toggle('active', activeTab === 'resumen');
+        
+        // Mostrar/ocultar contenido
+        reportProductividad.style.display = (activeTab === 'productividad') ? 'block' : 'none';
+        reportCumplimiento.style.display = (activeTab === 'cumplimiento') ? 'block' : 'none';
+        if (reportResumen) {
+            reportResumen.style.display = (activeTab === 'resumen') ? 'block' : 'none';
+            if (activeTab === 'resumen' && currentUser && webData) {
+                // Obtener el resumen ejecutivo específico del usuario logueado
+                const ejecutivoDataCump = webData.reporteData.cumplimiento?.[currentUser.lookup_key];
+                if (ejecutivoDataCump && ejecutivoDataCump.resumenEjecutivo) {
+                    mostrarResumenEjecutivo(ejecutivoDataCump.resumenEjecutivo);
+                } else {
+                    reportResumen.innerHTML = '<p>No hay datos de resumen ejecutivo disponibles.</p>';
+                }
+            }
+        }
     }
 
     // --- Configuración de la interfaz principal post-login ---
@@ -271,7 +297,9 @@ function renderChart(chartData) {
         summaryContainer.innerHTML = `
             <div class="summary-box"><span class="summary-label">Programadas:</span><span class="summary-value">${summary.programadas}</span></div>
             <div class="summary-box"><span class="summary-label">Realizadas:</span><span class="summary-value">${summary.realizadas}</span></div>
+            <div class="summary-box"><span class="summary-label">Justificadas:</span><span class="summary-value">${summary.justificadas || 0}</span></div>
             <div class="summary-box"><span class="summary-label">Apego:</span><span class="summary-value">${summary.apego}</span></div>
+            <div class="summary-box"><span class="summary-label">Apego con Justificadas:</span><span class="summary-value">${summary.apegoConJustificadas || '0.0%'}</span></div>
             <div class="summary-box clickable" id="fuera-de-ruta-btn"><span class="summary-label">Fuera de Ruta:</span><span class="summary-value">${summary.fueraDeRuta}</span></div>
         `;
         document.getElementById('fuera-de-ruta-btn').addEventListener('click', () => showFueraDeRutaModal(data.visitasFueraDeRuta || []));
@@ -428,5 +456,137 @@ function renderChart(chartData) {
             });
             leyendaEstatus.innerHTML = html;
         }
+    }
+    
+    // === NUEVO: Función para mostrar Resumen Ejecutivo ===
+    function mostrarResumenEjecutivo(resumen) {
+        const contenedor = document.getElementById('contenido-resumen');
+        if (!contenedor) return;
+        
+        contenedor.innerHTML = '';
+        if (!resumen || !resumen.supervisores || resumen.supervisores.length === 0) {
+            contenedor.innerHTML = '<p>No hay datos para mostrar.</p>';
+            return;
+        }
+        
+        // Gráfico de barras agrupadas
+        const categories = resumen.supervisores.map(s => s.nombre);
+        const programadas = resumen.supervisores.map(s => s.programadas);
+        const realizadas = resumen.supervisores.map(s => s.realizadas);
+        const justificadas = resumen.supervisores.map(s => s.justificadas);
+        
+        const chartDiv = document.createElement('div');
+        chartDiv.id = 'resumen-ejecutivo-chart';
+        chartDiv.style.width = '100%';
+        chartDiv.style.maxWidth = '900px';
+        chartDiv.style.margin = '0 auto 30px auto';
+        contenedor.appendChild(chartDiv);
+        
+        const options = {
+            chart: {
+                type: 'bar',
+                height: 400,
+                stacked: false,
+                toolbar: { show: false },
+                background: 'transparent',
+                foreColor: '#2c3e50'
+            },
+            plotOptions: {
+                bar: {
+                    horizontal: false,
+                    columnWidth: '45%',
+                    endingShape: 'rounded'
+                }
+            },
+            dataLabels: {
+                enabled: true,
+                formatter: val => parseInt(val, 10)
+            },
+            stroke: {
+                show: true,
+                width: 2,
+                colors: ['transparent']
+            },
+            series: [
+                {
+                    name: 'Programadas',
+                    data: programadas,
+                    color: '#8e44ad'  // Cambiado de gris a morado
+                },
+                {
+                    name: 'Realizadas',
+                    data: realizadas,
+                    color: '#00b894'
+                },
+                {
+                    name: 'Justificadas',
+                    data: justificadas,
+                    color: '#0984e3'
+                }
+            ],
+            xaxis: {
+                categories: categories,
+                title: { text: 'Supervisor' }
+            },
+            yaxis: {
+                title: { text: 'Visitas' },
+                labels: {
+                    formatter: val => parseInt(val, 10)
+                },
+                min: 0
+            },
+            legend: {
+                position: 'top',
+                horizontalAlign: 'center',
+                fontSize: '15px'
+            },
+            tooltip: {
+                y: {
+                    formatter: val => parseInt(val, 10)
+                }
+            },
+            grid: { show: false }
+        };
+        
+        if (window.resumenChart) window.resumenChart.destroy();
+        window.resumenChart = new ApexCharts(chartDiv, options);
+        window.resumenChart.render();
+
+        // Tabla resumen
+        const tabla = document.createElement('table');
+        tabla.className = 'tabla-resumen-ejecutivo';
+        tabla.innerHTML = `
+            <thead>
+                <tr>
+                    <th>Supervisor</th>
+                    <th>Programadas</th>
+                    <th>Realizadas</th>
+                    <th>Justificadas</th>
+                    <th>Avance Realizadas</th>
+                    <th>Avance Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                ${resumen.supervisores.map(s => `
+                    <tr>
+                        <td>${s.nombre}</td>
+                        <td>${s.programadas}</td>
+                        <td>${s.realizadas}</td>
+                        <td>${s.justificadas}</td>
+                        <td>${(s.avance_realizadas * 100).toFixed(1)}%</td>
+                        <td>${(s.avance_total * 100).toFixed(1)}%</td>
+                    </tr>
+                `).join('')}
+                <tr class="fila-total">
+                    <td><b>TOTAL</b></td>
+                    <td><b>${resumen.total.programadas}</b></td>
+                    <td><b>${resumen.total.realizadas}</b></td>
+                    <td><b>${resumen.total.justificadas}</b></td>
+                    <td><b>${(resumen.total.avance_realizadas * 100).toFixed(1)}%</b></td>
+                    <td><b>${(resumen.total.avance_total * 100).toFixed(1)}%</b></td>
+                </tr>
+            </tbody>
+        `;
+        contenedor.appendChild(tabla);
     }
 });
