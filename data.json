@@ -71,35 +71,35 @@
   "leyendaLetras": [
     {
       "letra": "CD",
-      "descripcion": "PERMISOS"
+      "descripcion": "Cambio de día de descanso laborado"
     },
     {
       "letra": "OA",
-      "descripcion": "PERMISOS"
+      "descripcion": "Otra Actividad Asignada por el Supervisor"
     },
     {
       "letra": "PCG",
-      "descripcion": "PERMISOS"
+      "descripcion": "Permiso Con Goce de sueldo"
     },
     {
       "letra": "PSG",
-      "descripcion": "PERMISOS"
+      "descripcion": "Permiso Sin Goce de sueldo"
     },
     {
       "letra": "PT",
-      "descripcion": "PERMISOS"
+      "descripcion": "Problemas con Team/Equipo"
     },
     {
       "letra": "RB",
-      "descripcion": "PERMISOS"
+      "descripcion": "Robo"
     },
     {
       "letra": "RJ",
-      "descripcion": "PERMISOS"
+      "descripcion": "Retardo Justificado-Cambio de Horario"
     },
     {
       "letra": "V",
-      "descripcion": "VACACIONES"
+      "descripcion": "Vacaciones"
     }
   ],
   "leyendaEstatus": [
