@@ -39,6 +39,30 @@ document.addEventListener('DOMContentLoaded', () => {
     let chart = null;
     let currentUser = null; // Agregar variable para el usuario actual
 
+    // === FUNCIÓN PARA GENERAR COLORES ÚNICOS ===
+    function generarColoresUnicos(cantidad) {
+        const colores = [];
+        const coloresBase = [
+            '#FF6B6B', '#4ECDC4', '#45B7D1', '#96CEB4', '#FFEAA7', '#DDA0DD', '#98D8C8', '#F7DC6F',
+            '#BB8FCE', '#85C1E9', '#F8C471', '#82E0AA', '#F1948A', '#85C1E9', '#D7BDE2', '#F9E79F',
+            '#A9DFBF', '#FAD7A0', '#D5A6BD', '#A3E4D7', '#F8C471', '#D7BDE2', '#A9DFBF', '#FAD7A0',
+            '#D5A6BD', '#A3E4D7', '#F8C471', '#D7BDE2', '#A9DFBF', '#FAD7A0', '#D5A6BD', '#A3E4D7'
+        ];
+        
+        for (let i = 0; i < cantidad; i++) {
+            if (i < coloresBase.length) {
+                colores.push(coloresBase[i]);
+            } else {
+                // Si se acaban los colores base, generar colores aleatorios
+                const hue = (i * 137.508) % 360; // Número áureo para distribución uniforme
+                const saturation = 60 + (i % 20); // 60-80%
+                const lightness = 50 + (i % 20); // 50-70%
+                colores.push(`hsl(${hue}, ${saturation}%, ${lightness}%)`);
+            }
+        }
+        return colores;
+    }
+
     // === SECCIÓN 2: LÓGICA DE LA APLICACIÓN ===
 
     // --- Carga inicial de datos ---
@@ -202,10 +226,28 @@ function renderChart(chartData) {
         return;
     }
 
+    // Generar colores únicos para cada serie
+    const coloresUnicos = generarColoresUnicos(chartData.series.length);
+    
+    // Aplicar colores únicos a cada serie
+    const seriesConColores = chartData.series.map((serie, index) => {
+        if (serie.name === 'Trayectoria') {
+            return {
+                ...serie,
+                color: '#808080' // Trayectoria siempre en gris
+            };
+        } else {
+            return {
+                ...serie,
+                color: coloresUnicos[index]
+            };
+        }
+    });
+
     // Opciones de configuración para el gráfico de barras apiladas de ApexCharts
     const options = {
         // Define las series de datos para gráfico apilado
-        series: chartData.series,
+        series: seriesConColores,
         // Categorías para el eje Y (fechas) en gráficos horizontales
         labels: chartData.categories,
         plotOptions: {
@@ -277,9 +319,8 @@ function renderChart(chartData) {
             show: true,
             position: 'top',
             horizontalAlign: 'center'
-        },
-        // Configuración de colores - Paleta profesional como en la imagen
-        colors: ['#3498db', '#2ecc71', '#f1c40f', '#e74c3c', '#9b59b6', '#808080']
+        }
+        // Ya no necesitamos colors aquí porque cada serie tiene su color específico
     };
 
     // Crea una nueva instancia del gráfico en el contenedor div#chart-container
