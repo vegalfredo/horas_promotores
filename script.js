@@ -125,11 +125,20 @@ document.addEventListener('DOMContentLoaded', () => {
         tabResumen.addEventListener('click', () => switchTab('resumen'));
     }
     
+    // NUEVO: Agregar evento para la pestaña de Resumen de Horas
+    const tabHoras = document.getElementById('tab-horas');
+    const reportHoras = document.getElementById('contenido-horas');
+    
+    if (tabHoras) {
+        tabHoras.addEventListener('click', () => switchTab('horas'));
+    }
+    
     function switchTab(activeTab) {
         // Actualizar clases activas de las pestañas
         tabProductividad.classList.toggle('active', activeTab === 'productividad');
         tabCumplimiento.classList.toggle('active', activeTab === 'cumplimiento');
         if (tabResumen) tabResumen.classList.toggle('active', activeTab === 'resumen');
+        if (tabHoras) tabHoras.classList.toggle('active', activeTab === 'horas');
         
         // Mostrar/ocultar contenido
         reportProductividad.style.display = (activeTab === 'productividad') ? 'block' : 'none';
@@ -143,6 +152,18 @@ document.addEventListener('DOMContentLoaded', () => {
                     mostrarResumenEjecutivo(ejecutivoDataCump.resumenEjecutivo);
                 } else {
                     reportResumen.innerHTML = '<p>No hay datos de resumen ejecutivo disponibles.</p>';
+                }
+            }
+        }
+        if (reportHoras) {
+            reportHoras.style.display = (activeTab === 'horas') ? 'block' : 'none';
+            if (activeTab === 'horas' && currentUser && webData) {
+                // Obtener el resumen de horas específico del usuario logueado
+                const ejecutivoDataCump = webData.reporteData.cumplimiento?.[currentUser.lookup_key];
+                if (ejecutivoDataCump && ejecutivoDataCump.resumenHoras) {
+                    mostrarResumenHoras(ejecutivoDataCump.resumenHoras);
+                } else {
+                    reportHoras.innerHTML = '<p>No hay datos de resumen de horas disponibles.</p>';
                 }
             }
         }
@@ -625,6 +646,144 @@ function renderChart(chartData) {
                     <td><b>${resumen.total.justificadas}</b></td>
                     <td><b>${(resumen.total.avance_realizadas * 100).toFixed(1)}%</b></td>
                     <td><b>${(resumen.total.avance_total * 100).toFixed(1)}%</b></td>
+                </tr>
+            </tbody>
+        `;
+        contenedor.appendChild(tabla);
+    }
+    
+    // === NUEVO: Función para mostrar Resumen de Horas ===
+    function mostrarResumenHoras(resumen) {
+        const contenedor = document.getElementById('contenido-horas');
+        if (!contenedor) return;
+        
+        contenedor.innerHTML = '';
+        if (!resumen || !resumen.supervisores || resumen.supervisores.length === 0) {
+            contenedor.innerHTML = '<p>No hay datos para mostrar.</p>';
+            return;
+        }
+        
+        // Gráfico de barras agrupadas
+        const categories = resumen.supervisores.map(s => s.nombre);
+        const horas_teoricas = resumen.supervisores.map(s => s.horas_teoricas);
+        const horas_realizadas = resumen.supervisores.map(s => s.horas_realizadas);
+        const horas_justificadas = resumen.supervisores.map(s => s.horas_justificadas);
+        
+        const chartDiv = document.createElement('div');
+        chartDiv.id = 'resumen-horas-chart';
+        chartDiv.style.width = '100%';
+        chartDiv.style.maxWidth = '900px';
+        chartDiv.style.margin = '0 auto 30px auto';
+        contenedor.appendChild(chartDiv);
+        
+        const options = {
+            chart: {
+                type: 'bar',
+                height: 400,
+                stacked: false,
+                toolbar: { show: false },
+                background: 'transparent',
+                foreColor: '#2c3e50'
+            },
+            plotOptions: {
+                bar: {
+                    horizontal: false,
+                    columnWidth: '45%',
+                    endingShape: 'rounded'
+                }
+            },
+            dataLabels: {
+                enabled: true,
+                formatter: val => parseFloat(val).toFixed(1)
+            },
+            stroke: {
+                show: true,
+                width: 2,
+                colors: ['transparent']
+            },
+            series: [
+                {
+                    name: 'Horas Teóricas',
+                    data: horas_teoricas,
+                    color: '#8e44ad'  // Morado
+                },
+                {
+                    name: 'Horas Realizadas',
+                    data: horas_realizadas,
+                    color: '#00b894'  // Verde
+                },
+                {
+                    name: 'Horas Justificadas',
+                    data: horas_justificadas,
+                    color: '#0984e3'  // Azul
+                }
+            ],
+            xaxis: {
+                categories: categories,
+                title: { text: 'Supervisor' }
+            },
+            yaxis: {
+                title: { text: 'Horas' },
+                labels: {
+                    formatter: val => parseFloat(val).toFixed(0)
+                },
+                min: 0
+            },
+            legend: {
+                position: 'top',
+                horizontalAlign: 'center',
+                fontSize: '15px'
+            },
+            tooltip: {
+                y: {
+                    formatter: val => parseFloat(val).toFixed(1) + ' horas'
+                }
+            },
+            grid: { show: false }
+        };
+        
+        if (window.horasChart) window.horasChart.destroy();
+        window.horasChart = new ApexCharts(chartDiv, options);
+        window.horasChart.render();
+
+        // Tabla resumen
+        const tabla = document.createElement('table');
+        tabla.className = 'tabla-resumen-ejecutivo';
+        tabla.innerHTML = `
+            <thead>
+                <tr>
+                    <th>Supervisor</th>
+                    <th>Promotores</th>
+                    <th>Días Periodo</th>
+                    <th>Horas Teóricas</th>
+                    <th>Horas Realizadas</th>
+                    <th>Horas Justificadas</th>
+                    <th>Avance Realizadas</th>
+                    <th>Avance Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                ${resumen.supervisores.map(s => `
+                    <tr>
+                        <td>${s.nombre}</td>
+                        <td>${s.cantidad_promotores || 0}</td>
+                        <td>${s.dias_periodo || 0}</td>
+                        <td>${s.horas_teoricas || 0}</td>
+                        <td>${s.horas_realizadas}</td>
+                        <td>${s.horas_justificadas}</td>
+                        <td>${(s.avance_horas_realizadas * 100).toFixed(1)}%</td>
+                        <td>${(s.avance_horas_total * 100).toFixed(1)}%</td>
+                    </tr>
+                `).join('')}
+                <tr class="fila-total">
+                    <td><b>TOTAL</b></td>
+                    <td><b>${resumen.total.cantidad_promotores || 0}</b></td>
+                    <td><b>${resumen.total.dias_periodo || 0}</b></td>
+                    <td><b>${resumen.total.horas_teoricas || 0}</b></td>
+                    <td><b>${resumen.total.horas_realizadas}</b></td>
+                    <td><b>${resumen.total.horas_justificadas}</b></td>
+                    <td><b>${(resumen.total.avance_horas_realizadas * 100).toFixed(1)}%</b></td>
+                    <td><b>${(resumen.total.avance_horas_total * 100).toFixed(1)}%</b></td>
                 </tr>
             </tbody>
         `;

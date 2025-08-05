@@ -148346,6 +148346,42 @@
             "avance_realizadas": 0.48,
             "avance_total": 0.53
           }
+        },
+        "resumenHoras": {
+          "supervisores": [
+            {
+              "nombre": "NAVEJAS DELGADILLO LUCIA ESMERALDA",
+              "horas_programadas": 4192,
+              "horas_realizadas": 913.9,
+              "horas_justificadas": 216,
+              "avance_horas_realizadas": 0.41,
+              "avance_horas_total": 0.51,
+              "cantidad_promotores": 12,
+              "dias_periodo": 23,
+              "horas_teoricas": 2208
+            },
+            {
+              "nombre": "LANDEROS JIMENEZ VIRIDIANA",
+              "horas_programadas": 4088,
+              "horas_realizadas": 592.3,
+              "horas_justificadas": 184,
+              "avance_horas_realizadas": 0.29,
+              "avance_horas_total": 0.38,
+              "cantidad_promotores": 11,
+              "dias_periodo": 23,
+              "horas_teoricas": 2024
+            }
+          ],
+          "total": {
+            "horas_programadas": 8280,
+            "horas_realizadas": 1506.2,
+            "horas_justificadas": 400,
+            "avance_horas_realizadas": 0.36,
+            "avance_horas_total": 0.45,
+            "cantidad_promotores": 23,
+            "dias_periodo": 23,
+            "horas_teoricas": 4232
+          }
         }
       },
       "CLARISA_OCHOA": {
@@ -172910,6 +172946,64 @@
             "justificadas": 51,
             "avance_realizadas": 0.53,
             "avance_total": 0.56
+          }
+        },
+        "resumenHoras": {
+          "supervisores": [
+            {
+              "nombre": "JUAREZ ORTIZ YANETH MARGARITA",
+              "horas_programadas": 2792,
+              "horas_realizadas": 702.4,
+              "horas_justificadas": 112,
+              "avance_horas_realizadas": 0.48,
+              "avance_horas_total": 0.55,
+              "cantidad_promotores": 8,
+              "dias_periodo": 23,
+              "horas_teoricas": 1472
+            },
+            {
+              "nombre": "AGUIRRE CASTILLO LAURA RAMONA",
+              "horas_programadas": 3104,
+              "horas_realizadas": 703.3,
+              "horas_justificadas": 248,
+              "avance_horas_realizadas": 0.48,
+              "avance_horas_total": 0.65,
+              "cantidad_promotores": 8,
+              "dias_periodo": 23,
+              "horas_teoricas": 1472
+            },
+            {
+              "nombre": "CABRAL SIMENTAL DANIEL",
+              "horas_programadas": 2488,
+              "horas_realizadas": 458.2,
+              "horas_justificadas": 0,
+              "avance_horas_realizadas": 0.31,
+              "avance_horas_total": 0.31,
+              "cantidad_promotores": 8,
+              "dias_periodo": 23,
+              "horas_teoricas": 1472
+            },
+            {
+              "nombre": "TORRES SANTIAGO ALFREDO",
+              "horas_programadas": 4136,
+              "horas_realizadas": 721.1,
+              "horas_justificadas": 48,
+              "avance_horas_realizadas": 0.39,
+              "avance_horas_total": 0.42,
+              "cantidad_promotores": 10,
+              "dias_periodo": 23,
+              "horas_teoricas": 1840
+            }
+          ],
+          "total": {
+            "horas_programadas": 12520,
+            "horas_realizadas": 2585.0,
+            "horas_justificadas": 408,
+            "avance_horas_realizadas": 0.41,
+            "avance_horas_total": 0.48,
+            "cantidad_promotores": 34,
+            "dias_periodo": 23,
+            "horas_teoricas": 6256
           }
         }
       },
@@ -200332,6 +200426,53 @@
             "avance_realizadas": 0.71,
             "avance_total": 0.81
           }
+        },
+        "resumenHoras": {
+          "supervisores": [
+            {
+              "nombre": "ESTRADA HERNANDEZ MIRNA",
+              "horas_programadas": 3848,
+              "horas_realizadas": 1307.4,
+              "horas_justificadas": 384,
+              "avance_horas_realizadas": 0.65,
+              "avance_horas_total": 0.84,
+              "cantidad_promotores": 11,
+              "dias_periodo": 23,
+              "horas_teoricas": 2024
+            },
+            {
+              "nombre": "RIVERA VALLEJO LEONARDO",
+              "horas_programadas": 3576,
+              "horas_realizadas": 1338.2,
+              "horas_justificadas": 328,
+              "avance_horas_realizadas": 0.73,
+              "avance_horas_total": 0.91,
+              "cantidad_promotores": 10,
+              "dias_periodo": 23,
+              "horas_teoricas": 1840
+            },
+            {
+              "nombre": "GUERRERO RICO JOSE ANTONIO",
+              "horas_programadas": 4600,
+              "horas_realizadas": 1533.9,
+              "horas_justificadas": 536,
+              "avance_horas_realizadas": 0.83,
+              "avance_horas_total": 1.12,
+              "cantidad_promotores": 10,
+              "dias_periodo": 23,
+              "horas_teoricas": 1840
+            }
+          ],
+          "total": {
+            "horas_programadas": 12024,
+            "horas_realizadas": 4179.6,
+            "horas_justificadas": 1248,
+            "avance_horas_realizadas": 0.73,
+            "avance_horas_total": 0.95,
+            "cantidad_promotores": 31,
+            "dias_periodo": 23,
+            "horas_teoricas": 5704
+          }
         }
       },
       "DAVID_VELAZQUEZ": {
@@ -216240,6 +216381,53 @@
             "justificadas": 76,
             "avance_realizadas": 0.64,
             "avance_total": 0.7
+          }
+        },
+        "resumenHoras": {
+          "supervisores": [
+            {
+              "nombre": "ARRIAGA MUÑOZ ELMER ANTONIO",
+              "horas_programadas": 3584,
+              "horas_realizadas": 1235.0,
+              "horas_justificadas": 144,
+              "avance_horas_realizadas": 0.56,
+              "avance_horas_total": 0.62,
+              "cantidad_promotores": 12,
+              "dias_periodo": 23,
+              "horas_teoricas": 2208
+            },
+            {
+              "nombre": "RANGEL GARCIA HUGO ENRIQUE",
+              "horas_programadas": 3280,
+              "horas_realizadas": 1372.2,
+              "horas_justificadas": 184,
+              "avance_horas_realizadas": 0.57,
+              "avance_horas_total": 0.65,
+              "cantidad_promotores": 13,
+              "dias_periodo": 23,
+              "horas_teoricas": 2392
+            },
+            {
+              "nombre": "MUÑOZ AMBROSIO ALAN",
+              "horas_programadas": 3752,
+              "horas_realizadas": 1437.0,
+              "horas_justificadas": 280,
+              "avance_horas_realizadas": 0.6,
+              "avance_horas_total": 0.72,
+              "cantidad_promotores": 13,
+              "dias_periodo": 23,
+              "horas_teoricas": 2392
+            }
+          ],
+          "total": {
+            "horas_programadas": 10616,
+            "horas_realizadas": 4044.2,
+            "horas_justificadas": 608,
+            "avance_horas_realizadas": 0.58,
+            "avance_horas_total": 0.67,
+            "cantidad_promotores": 38,
+            "dias_periodo": 23,
+            "horas_teoricas": 6992
           }
         }
       },
@@ -248668,6 +248856,64 @@
             "avance_realizadas": 0.83,
             "avance_total": 0.9
           }
+        },
+        "resumenHoras": {
+          "supervisores": [
+            {
+              "nombre": "MATA GEORGINA SUSI",
+              "horas_programadas": 1888,
+              "horas_realizadas": 614.5,
+              "horas_justificadas": 80,
+              "avance_horas_realizadas": 0.67,
+              "avance_horas_total": 0.75,
+              "cantidad_promotores": 5,
+              "dias_periodo": 23,
+              "horas_teoricas": 920
+            },
+            {
+              "nombre": "ANDRADE PAXTIAN RUTH DEL CARMEN",
+              "horas_programadas": 4472,
+              "horas_realizadas": 1864.4,
+              "horas_justificadas": 872,
+              "avance_horas_realizadas": 0.84,
+              "avance_horas_total": 1.24,
+              "cantidad_promotores": 12,
+              "dias_periodo": 23,
+              "horas_teoricas": 2208
+            },
+            {
+              "nombre": "CONTRERAS GALAN ALMA GUADALUPE",
+              "horas_programadas": 3808,
+              "horas_realizadas": 1363.9,
+              "horas_justificadas": 24,
+              "avance_horas_realizadas": 0.82,
+              "avance_horas_total": 0.84,
+              "cantidad_promotores": 9,
+              "dias_periodo": 23,
+              "horas_teoricas": 1656
+            },
+            {
+              "nombre": "SIERRA ESPINOSA LUZ DEL CARMEN",
+              "horas_programadas": 3264,
+              "horas_realizadas": 1128.3,
+              "horas_justificadas": 32,
+              "avance_horas_realizadas": 0.68,
+              "avance_horas_total": 0.7,
+              "cantidad_promotores": 9,
+              "dias_periodo": 23,
+              "horas_teoricas": 1656
+            }
+          ],
+          "total": {
+            "horas_programadas": 13432,
+            "horas_realizadas": 4971.1,
+            "horas_justificadas": 1008,
+            "avance_horas_realizadas": 0.77,
+            "avance_horas_total": 0.93,
+            "cantidad_promotores": 35,
+            "dias_periodo": 23,
+            "horas_teoricas": 6440
+          }
         }
       },
       "FRANCISCO_GALICIA": {
@@ -272194,6 +272440,53 @@
             "justificadas": 162,
             "avance_realizadas": 0.78,
             "avance_total": 0.88
+          }
+        },
+        "resumenHoras": {
+          "supervisores": [
+            {
+              "nombre": "OLIVAS LOPEZ DAVID EDUARDO",
+              "horas_programadas": 5568,
+              "horas_realizadas": 1360.9,
+              "horas_justificadas": 616,
+              "avance_horas_realizadas": 0.62,
+              "avance_horas_total": 0.9,
+              "cantidad_promotores": 12,
+              "dias_periodo": 23,
+              "horas_teoricas": 2208
+            },
+            {
+              "nombre": "CAÑEDO ANGULO GUADALUPE GABRIELA",
+              "horas_programadas": 5040,
+              "horas_realizadas": 1241.9,
+              "horas_justificadas": 416,
+              "avance_horas_realizadas": 0.67,
+              "avance_horas_total": 0.9,
+              "cantidad_promotores": 10,
+              "dias_periodo": 23,
+              "horas_teoricas": 1840
+            },
+            {
+              "nombre": "VALENZUELA DENNIS BENJAMIN",
+              "horas_programadas": 2984,
+              "horas_realizadas": 814.8,
+              "horas_justificadas": 264,
+              "avance_horas_realizadas": 0.74,
+              "avance_horas_total": 0.98,
+              "cantidad_promotores": 6,
+              "dias_periodo": 23,
+              "horas_teoricas": 1104
+            }
+          ],
+          "total": {
+            "horas_programadas": 13592,
+            "horas_realizadas": 3417.6,
+            "horas_justificadas": 1296,
+            "avance_horas_realizadas": 0.66,
+            "avance_horas_total": 0.91,
+            "cantidad_promotores": 28,
+            "dias_periodo": 23,
+            "horas_teoricas": 5152
           }
         }
       },
@@ -299493,6 +299786,53 @@
             "avance_realizadas": 0.77,
             "avance_total": 0.87
           }
+        },
+        "resumenHoras": {
+          "supervisores": [
+            {
+              "nombre": "MONDRAGON MUÑOZ KARLA AIDE",
+              "horas_programadas": 4040,
+              "horas_realizadas": 1504.7,
+              "horas_justificadas": 672,
+              "avance_horas_realizadas": 0.74,
+              "avance_horas_total": 1.08,
+              "cantidad_promotores": 11,
+              "dias_periodo": 23,
+              "horas_teoricas": 2024
+            },
+            {
+              "nombre": "LEMUS GALVAN GLORIA",
+              "horas_programadas": 4896,
+              "horas_realizadas": 1627.2,
+              "horas_justificadas": 456,
+              "avance_horas_realizadas": 0.68,
+              "avance_horas_total": 0.87,
+              "cantidad_promotores": 13,
+              "dias_periodo": 23,
+              "horas_teoricas": 2392
+            },
+            {
+              "nombre": "MARTINEZ RODRIGUEZ JOSE ALFREDO",
+              "horas_programadas": 4848,
+              "horas_realizadas": 1553.3,
+              "horas_justificadas": 336,
+              "avance_horas_realizadas": 0.7,
+              "avance_horas_total": 0.86,
+              "cantidad_promotores": 12,
+              "dias_periodo": 23,
+              "horas_teoricas": 2208
+            }
+          ],
+          "total": {
+            "horas_programadas": 13784,
+            "horas_realizadas": 4685.2,
+            "horas_justificadas": 1464,
+            "avance_horas_realizadas": 0.71,
+            "avance_horas_total": 0.93,
+            "cantidad_promotores": 36,
+            "dias_periodo": 23,
+            "horas_teoricas": 6624
+          }
         }
       },
       "JUAN_LUIS_GARDUÑO": {
@@ -315424,6 +315764,42 @@
             "justificadas": 114,
             "avance_realizadas": 0.84,
             "avance_total": 0.95
+          }
+        },
+        "resumenHoras": {
+          "supervisores": [
+            {
+              "nombre": "HERNANDEZ HINOJOSA DIANA",
+              "horas_programadas": 3320,
+              "horas_realizadas": 1117.8,
+              "horas_justificadas": 224,
+              "avance_horas_realizadas": 0.68,
+              "avance_horas_total": 0.81,
+              "cantidad_promotores": 9,
+              "dias_periodo": 23,
+              "horas_teoricas": 1656
+            },
+            {
+              "nombre": "GONZALEZ GAITAN JUAN PABLO",
+              "horas_programadas": 4824,
+              "horas_realizadas": 1654.5,
+              "horas_justificadas": 688,
+              "avance_horas_realizadas": 0.69,
+              "avance_horas_total": 0.98,
+              "cantidad_promotores": 13,
+              "dias_periodo": 23,
+              "horas_teoricas": 2392
+            }
+          ],
+          "total": {
+            "horas_programadas": 8144,
+            "horas_realizadas": 2772.3,
+            "horas_justificadas": 912,
+            "avance_horas_realizadas": 0.68,
+            "avance_horas_total": 0.91,
+            "cantidad_promotores": 22,
+            "dias_periodo": 23,
+            "horas_teoricas": 4048
           }
         }
       },
@@ -337863,6 +338239,53 @@
             "justificadas": 149,
             "avance_realizadas": 0.67,
             "avance_total": 0.77
+          }
+        },
+        "resumenHoras": {
+          "supervisores": [
+            {
+              "nombre": "RODRIGUEZ GIL IRVING",
+              "horas_programadas": 4016,
+              "horas_realizadas": 1291.8,
+              "horas_justificadas": 232,
+              "avance_horas_realizadas": 0.54,
+              "avance_horas_total": 0.64,
+              "cantidad_promotores": 13,
+              "dias_periodo": 23,
+              "horas_teoricas": 2392
+            },
+            {
+              "nombre": "TABOADA OCHOA CINTHIA DEYANIRA",
+              "horas_programadas": 3920,
+              "horas_realizadas": 1522.7,
+              "horas_justificadas": 576,
+              "avance_horas_realizadas": 0.75,
+              "avance_horas_total": 1.04,
+              "cantidad_promotores": 11,
+              "dias_periodo": 23,
+              "horas_teoricas": 2024
+            },
+            {
+              "nombre": "ADONA FUENTES MIGUEL ISRAEL",
+              "horas_programadas": 3888,
+              "horas_realizadas": 1594.7,
+              "horas_justificadas": 384,
+              "avance_horas_realizadas": 0.67,
+              "avance_horas_total": 0.83,
+              "cantidad_promotores": 13,
+              "dias_periodo": 23,
+              "horas_teoricas": 2392
+            }
+          ],
+          "total": {
+            "horas_programadas": 11824,
+            "horas_realizadas": 4409.2,
+            "horas_justificadas": 1192,
+            "avance_horas_realizadas": 0.65,
+            "avance_horas_total": 0.82,
+            "cantidad_promotores": 37,
+            "dias_periodo": 23,
+            "horas_teoricas": 6808
           }
         }
       },
@@ -375123,6 +375546,75 @@
             "justificadas": 199,
             "avance_realizadas": 0.78,
             "avance_total": 0.87
+          }
+        },
+        "resumenHoras": {
+          "supervisores": [
+            {
+              "nombre": "PEREZ PUENTE CARLOS OMAR",
+              "horas_programadas": 2200,
+              "horas_realizadas": 530.6,
+              "horas_justificadas": 192,
+              "avance_horas_realizadas": 0.48,
+              "avance_horas_total": 0.65,
+              "cantidad_promotores": 6,
+              "dias_periodo": 23,
+              "horas_teoricas": 1104
+            },
+            {
+              "nombre": "GARCIA GARCIA LORENA",
+              "horas_programadas": 4912,
+              "horas_realizadas": 1698.4,
+              "horas_justificadas": 152,
+              "avance_horas_realizadas": 0.71,
+              "avance_horas_total": 0.77,
+              "cantidad_promotores": 13,
+              "dias_periodo": 23,
+              "horas_teoricas": 2392
+            },
+            {
+              "nombre": "RAMIREZ PEREZ JENNY",
+              "horas_programadas": 3088,
+              "horas_realizadas": 1266.7,
+              "horas_justificadas": 472,
+              "avance_horas_realizadas": 0.76,
+              "avance_horas_total": 1.05,
+              "cantidad_promotores": 9,
+              "dias_periodo": 23,
+              "horas_teoricas": 1656
+            },
+            {
+              "nombre": "GUERRERO RAMIREZ ANDRES ISRAEL",
+              "horas_programadas": 3840,
+              "horas_realizadas": 1089.9,
+              "horas_justificadas": 424,
+              "avance_horas_realizadas": 0.66,
+              "avance_horas_total": 0.91,
+              "cantidad_promotores": 9,
+              "dias_periodo": 23,
+              "horas_teoricas": 1656
+            },
+            {
+              "nombre": "VAZQUEZ CONTRERAS AGLAE VIRIDIANA",
+              "horas_programadas": 3648,
+              "horas_realizadas": 1331.6,
+              "horas_justificadas": 352,
+              "avance_horas_realizadas": 0.8,
+              "avance_horas_total": 1.02,
+              "cantidad_promotores": 9,
+              "dias_periodo": 23,
+              "horas_teoricas": 1656
+            }
+          ],
+          "total": {
+            "horas_programadas": 17688,
+            "horas_realizadas": 5917.2,
+            "horas_justificadas": 1592,
+            "avance_horas_realizadas": 0.7,
+            "avance_horas_total": 0.89,
+            "cantidad_promotores": 46,
+            "dias_periodo": 23,
+            "horas_teoricas": 8464
           }
         }
       },
@@ -453224,6 +453716,75 @@
             "avance_realizadas": 0.61,
             "avance_total": 0.68
           }
+        },
+        "resumenHoras": {
+          "supervisores": [
+            {
+              "nombre": "ZAPATA CHALE WILBERT ALFREDO",
+              "horas_programadas": 5416,
+              "horas_realizadas": 1145.2,
+              "horas_justificadas": 504,
+              "avance_horas_realizadas": 0.44,
+              "avance_horas_total": 0.64,
+              "cantidad_promotores": 14,
+              "dias_periodo": 23,
+              "horas_teoricas": 2576
+            },
+            {
+              "nombre": "CRUZ CABRERA ILSE ISELA",
+              "horas_programadas": 5904,
+              "horas_realizadas": 1088.7,
+              "horas_justificadas": 456,
+              "avance_horas_realizadas": 0.42,
+              "avance_horas_total": 0.6,
+              "cantidad_promotores": 14,
+              "dias_periodo": 23,
+              "horas_teoricas": 2576
+            },
+            {
+              "nombre": "SANCHEZ FLORES MELIDA",
+              "horas_programadas": 8080,
+              "horas_realizadas": 2094.3,
+              "horas_justificadas": 1032,
+              "avance_horas_realizadas": 0.67,
+              "avance_horas_total": 1.0,
+              "cantidad_promotores": 17,
+              "dias_periodo": 23,
+              "horas_teoricas": 3128
+            },
+            {
+              "nombre": "CHAPARRO ALVIRDE PATRICIO",
+              "horas_programadas": 5960,
+              "horas_realizadas": 1624.6,
+              "horas_justificadas": 336,
+              "avance_horas_realizadas": 0.63,
+              "avance_horas_total": 0.76,
+              "cantidad_promotores": 14,
+              "dias_periodo": 23,
+              "horas_teoricas": 2576
+            },
+            {
+              "nombre": "NOH DZUL GASPAR ADOLFO",
+              "horas_programadas": 5688,
+              "horas_realizadas": 1138.2,
+              "horas_justificadas": 104,
+              "avance_horas_realizadas": 0.52,
+              "avance_horas_total": 0.56,
+              "cantidad_promotores": 12,
+              "dias_periodo": 23,
+              "horas_teoricas": 2208
+            }
+          ],
+          "total": {
+            "horas_programadas": 31048,
+            "horas_realizadas": 7090.9,
+            "horas_justificadas": 2432,
+            "avance_horas_realizadas": 0.54,
+            "avance_horas_total": 0.73,
+            "cantidad_promotores": 71,
+            "dias_periodo": 23,
+            "horas_teoricas": 13064
+          }
         }
       },
       "VACANTE_EJECUTIVO_MARS_A2": {
@@ -489175,6 +489736,75 @@
             "avance_realizadas": 0.62,
             "avance_total": 0.7
           }
+        },
+        "resumenHoras": {
+          "supervisores": [
+            {
+              "nombre": "RAMIREZ TORRES JAZMIN",
+              "horas_programadas": 3520,
+              "horas_realizadas": 764.3,
+              "horas_justificadas": 592,
+              "avance_horas_realizadas": 0.52,
+              "avance_horas_total": 0.92,
+              "cantidad_promotores": 8,
+              "dias_periodo": 23,
+              "horas_teoricas": 1472
+            },
+            {
+              "nombre": "DE LA CRUZ CARDOZO CLAUDIA",
+              "horas_programadas": 2424,
+              "horas_realizadas": 509.0,
+              "horas_justificadas": 224,
+              "avance_horas_realizadas": 0.46,
+              "avance_horas_total": 0.66,
+              "cantidad_promotores": 6,
+              "dias_periodo": 23,
+              "horas_teoricas": 1104
+            },
+            {
+              "nombre": "MONSIVAIS HERNANDEZ JULIO CESAR",
+              "horas_programadas": 4368,
+              "horas_realizadas": 975.2,
+              "horas_justificadas": 272,
+              "avance_horas_realizadas": 0.48,
+              "avance_horas_total": 0.62,
+              "cantidad_promotores": 11,
+              "dias_periodo": 23,
+              "horas_teoricas": 2024
+            },
+            {
+              "nombre": "DE LA O RODRIGUEZ NERICK HASSAM",
+              "horas_programadas": 5040,
+              "horas_realizadas": 796.2,
+              "horas_justificadas": 320,
+              "avance_horas_realizadas": 0.36,
+              "avance_horas_total": 0.51,
+              "cantidad_promotores": 12,
+              "dias_periodo": 23,
+              "horas_teoricas": 2208
+            },
+            {
+              "nombre": "MORATO NAVARRO CARLOS",
+              "horas_programadas": 3488,
+              "horas_realizadas": 1153.7,
+              "horas_justificadas": 136,
+              "avance_horas_realizadas": 0.78,
+              "avance_horas_total": 0.88,
+              "cantidad_promotores": 8,
+              "dias_periodo": 23,
+              "horas_teoricas": 1472
+            }
+          ],
+          "total": {
+            "horas_programadas": 18840,
+            "horas_realizadas": 4198.4,
+            "horas_justificadas": 1544,
+            "avance_horas_realizadas": 0.51,
+            "avance_horas_total": 0.69,
+            "cantidad_promotores": 45,
+            "dias_periodo": 23,
+            "horas_teoricas": 8280
+          }
         }
       },
       "YANETH_MUÑIZ": {
@@ -520581,6 +521211,64 @@
             "justificadas": 84,
             "avance_realizadas": 0.73,
             "avance_total": 0.78
+          }
+        },
+        "resumenHoras": {
+          "supervisores": [
+            {
+              "nombre": "MARRUFO ARMENTA ALEXIS DE JESUS",
+              "horas_programadas": 4136,
+              "horas_realizadas": 790.4,
+              "horas_justificadas": 104,
+              "avance_horas_realizadas": 0.39,
+              "avance_horas_total": 0.44,
+              "cantidad_promotores": 11,
+              "dias_periodo": 23,
+              "horas_teoricas": 2024
+            },
+            {
+              "nombre": "ALVARADO MONTALVO CLAUDIA LIZETH",
+              "horas_programadas": 3560,
+              "horas_realizadas": 920.9,
+              "horas_justificadas": 312,
+              "avance_horas_realizadas": 0.63,
+              "avance_horas_total": 0.84,
+              "cantidad_promotores": 8,
+              "dias_periodo": 23,
+              "horas_teoricas": 1472
+            },
+            {
+              "nombre": "HERNANDEZ GARCIA YADIRA GEXSABEL",
+              "horas_programadas": 3912,
+              "horas_realizadas": 973.8,
+              "horas_justificadas": 152,
+              "avance_horas_realizadas": 0.76,
+              "avance_horas_total": 0.87,
+              "cantidad_promotores": 7,
+              "dias_periodo": 23,
+              "horas_teoricas": 1288
+            },
+            {
+              "nombre": "RODRIGUEZ GAMEZ ALAN",
+              "horas_programadas": 3888,
+              "horas_realizadas": 1143.1,
+              "horas_justificadas": 104,
+              "avance_horas_realizadas": 0.69,
+              "avance_horas_total": 0.75,
+              "cantidad_promotores": 9,
+              "dias_periodo": 23,
+              "horas_teoricas": 1656
+            }
+          ],
+          "total": {
+            "horas_programadas": 15496,
+            "horas_realizadas": 3828.3,
+            "horas_justificadas": 672,
+            "avance_horas_realizadas": 0.59,
+            "avance_horas_total": 0.7,
+            "cantidad_promotores": 35,
+            "dias_periodo": 23,
+            "horas_teoricas": 6440
           }
         }
       }

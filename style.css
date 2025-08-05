@@ -733,3 +733,36 @@ body {
     color: white;  /* Asegurar que todas las celdas tengan letras blancas */
     font-weight: bold;
 }
+
+/* Estilos específicos para la tabla de resumen de horas */
+.tabla-resumen-ejecutivo {
+    font-size: 0.9rem; /* Reducir ligeramente el tamaño de fuente para acomodar más columnas */
+}
+
+.tabla-resumen-ejecutivo th, .tabla-resumen-ejecutivo td {
+    padding: 6px 8px; /* Reducir el padding para acomodar más columnas */
+    min-width: 80px; /* Ancho mínimo para las columnas */
+}
+
+/* Hacer la tabla responsive */
+@media (max-width: 1200px) {
+    .tabla-resumen-ejecutivo {
+        font-size: 0.8rem;
+    }
+    
+    .tabla-resumen-ejecutivo th, .tabla-resumen-ejecutivo td {
+        padding: 4px 6px;
+        min-width: 70px;
+    }
+}
+
+@media (max-width: 900px) {
+    .tabla-resumen-ejecutivo {
+        font-size: 0.75rem;
+    }
+    
+    .tabla-resumen-ejecutivo th, .tabla-resumen-ejecutivo td {
+        padding: 3px 4px;
+        min-width: 60px;
+    }
+}
